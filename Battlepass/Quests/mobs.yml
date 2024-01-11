@@ -1,0 +1,339 @@
+'1':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d124 chicken &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fChicken Slayer'
+  name: Week 1 - Chicken Slayer
+  points: 8
+  required-progress: 124
+  type: kill-mob
+  variable: CHICKEN
+---
+'2':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d79 cow &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fCow Slayer'
+  name: Week 2 - Cow Slayer
+  points: 8
+  required-progress: 79
+  type: kill-mob
+  variable: COW
+---
+'3':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d121 pig &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fPig Slayer'
+  name: Week 3 - Pig Slayer
+  points: 8
+  required-progress: 121
+  type: kill-mob
+  variable: PIG
+---
+'4':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d175 sheep &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fSheep Slayer'
+  name: Week 4 - Sheep Slayer
+  points: 8
+  required-progress: 175
+  type: kill-mob
+  variable: SHEEP
+---
+'5':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d169 cave_spider &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fCave_spider Slayer'
+  name: Week 5 - Cave_spider Slayer
+  points: 8
+  required-progress: 169
+  type: kill-mob
+  variable: CAVE_SPIDER
+---
+'6':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d197 enderman &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fEnderman Slayer'
+  name: Week 6 - Enderman Slayer
+  points: 8
+  required-progress: 197
+  type: kill-mob
+  variable: ENDERMAN
+---
+'7':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d158 spider &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fSpider Slayer'
+  name: Week 7 - Spider Slayer
+  points: 8
+  required-progress: 158
+  type: kill-mob
+  variable: SPIDER
+---
+'8':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d170 zombified_piglin &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fZombified_piglin Slayer'
+  name: Week 8 - Zombified_piglin Slayer
+  points: 8
+  required-progress: 170
+  type: kill-mob
+  variable: ZOMBIFIED_PIGLIN
+---
+'9':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d195 blaze &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fBlaze Slayer'
+  name: Week 9 - Blaze Slayer
+  points: 8
+  required-progress: 195
+  type: kill-mob
+  variable: BLAZE
+---
+'10':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d129 creeper &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fCreeper Slayer'
+  name: Week 10 - Creeper Slayer
+  points: 8
+  required-progress: 129
+  type: kill-mob
+  variable: CREEPER
+---
+'11':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d85 drowned &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fDrowned Slayer'
+  name: Week 11 - Drowned Slayer
+  points: 8
+  required-progress: 85
+  type: kill-mob
+  variable: DROWNED
+---
+'12':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d96 husk &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fHusk Slayer'
+  name: Week 12 - Husk Slayer
+  points: 8
+  required-progress: 96
+  type: kill-mob
+  variable: HUSK
+---
+'13':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d98 slime &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fSlime Slayer'
+  name: Week 13 - Slime Slayer
+  points: 8
+  required-progress: 98
+  type: kill-mob
+  variable: SLIME
+---
+'14':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d134 stray &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fStray Slayer'
+  name: Week 14 - Stray Slayer
+  points: 8
+  required-progress: 134
+  type: kill-mob
+  variable: STRAY
+---
+'15':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d71 witch &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fWitch Slayer'
+  name: Week 15 - Witch Slayer
+  points: 8
+  required-progress: 71
+  type: kill-mob
+  variable: WITCH
+---
+'16':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d153 wither_skeleton &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fWither_skeleton Slayer'
+  name: Week 16 - Wither_skeleton Slayer
+  points: 8
+  required-progress: 153
+  type: kill-mob
+  variable: WITHER_SKELETON
+---
+'17':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7slay &d105 zombie &7in total."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_SWORD:0
+    name: '&e&lQUEST: &fZombie Slayer'
+  name: Week 17 - Zombie Slayer
+  points: 8
+  required-progress: 105
+  type: kill-mob
+  variable: ZOMBIE

@@ -1,0 +1,79 @@
+'1':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &32935 stone blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: STONE:0
+    name: '&e&lQUEST: &fStone Miner'
+  name: Week 1 - Stone Miner
+  points: 8
+  required-progress: 2935
+  type: block-break
+  variable: STONE:0
+---
+'2':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &35453 diamond_ore blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: DIAMOND_ORE:0
+    name: '&e&lQUEST: &fDiamond_ore Miner'
+  name: Week 2 - Diamond_ore Miner
+  points: 8
+  required-progress: 5453
+  type: block-break
+  variable: DIAMOND_ORE:0
+---
+'3':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &38432 Netherrack blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: NETHERRACK:0
+    name: '&e&lQUEST: &fNetherrack Miner'
+  name: Week 3 - Netherrack Miner
+  points: 8
+  required-progress: 8432
+  type: block-break
+  variable: NETHERRACK:0
+---
+'4':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &34022 end_stone blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7Type: &fFree"
+    - "&8 \xBB &7EXP: &f8x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: END_STONE:0
+    name: '&e&lQUEST: &fEnd_stone Miner'
+  name: Week 4 - End_stone Miner
+  points: 8
+  required-progress: 4022
+  type: block-break
+  variable: END_STONE:0
