@@ -1,0 +1,17 @@
+'1':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Break &3141 items with a pickaxe."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f3x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: IRON_PICKAXE
+    name: '&e&lQUEST:&f Tool Master'
+  name: Tool Master
+  points: 3
+  required-progress: 141
+  type: item-break

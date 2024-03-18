@@ -1,0 +1,1668 @@
+'1':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Gain a total of &33932 experience points."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f6x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: EXPERIENCE_BOTTLE
+    name: '&e&lQUEST:&f Experience Hunter'
+  name: Experience Hunter
+  points: 6
+  required-progress: 3932
+  type: gain-experience
+'10':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &357 Stone &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Stone
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Stone Smelter
+  points: 4
+  required-progress: 57
+  type: smelt
+  variable: Stone
+'11':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &338 Smooth_Stone &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Smooth_Stone
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Smooth_Stone Smelter
+  points: 4
+  required-progress: 38
+  type: smelt
+  variable: Smooth_Stone
+'12':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &351 Cracked_Stone_Bricks &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cracked_Stone_Bricks
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Cracked_Stone_Bricks Smelter
+  points: 4
+  required-progress: 51
+  type: smelt
+  variable: Cracked_Stone_Bricks
+'13':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &349 Deepslate &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Deepslate Smelter
+  points: 4
+  required-progress: 49
+  type: smelt
+  variable: Deepslate
+'14':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &352 Cracked_Deepslate_Bricks &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cracked_Deepslate_Bricks
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Cracked_Deepslate_Bricks Smelter
+  points: 4
+  required-progress: 52
+  type: smelt
+  variable: Cracked_Deepslate_Bricks
+'15':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &355 Cracked_Deepslate_Tiles &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cracked_Deepslate_Tiles
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Cracked_Deepslate_Tiles Smelter
+  points: 4
+  required-progress: 55
+  type: smelt
+  variable: Cracked_Deepslate_Tiles
+'16':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &318 Smooth_Sandstone &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Smooth_Sandstone
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Smooth_Sandstone Smelter
+  points: 4
+  required-progress: 18
+  type: smelt
+  variable: Smooth_Sandstone
+'17':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &330 Smooth_Red_Sandstone &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Smooth_Red_Sandstone
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Smooth_Red_Sandstone Smelter
+  points: 4
+  required-progress: 30
+  type: smelt
+  variable: Smooth_Red_Sandstone
+'18':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &346 Cracked_Nether_Bricks &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cracked_Nether_Bricks
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Cracked_Nether_Bricks Smelter
+  points: 4
+  required-progress: 46
+  type: smelt
+  variable: Cracked_Nether_Bricks
+'19':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &349 Smooth_Basalt &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Smooth_Basalt
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Smooth_Basalt Smelter
+  points: 4
+  required-progress: 49
+  type: smelt
+  variable: Smooth_Basalt
+'2':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Ride &328 Donkey &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: SADDLE
+    name: '&e&lQUEST:&f Riding Expert'
+  name: Donkey Riding
+  points: 4
+  required-progress: 28
+  type: ride-mob
+  variable: Donkey
+'20':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &342 Cracked_Polished_Blackstone_Bricks &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cracked_Polished_Blackstone_Bricks
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Cracked_Polished_Blackstone_Bricks Smelter
+  points: 4
+  required-progress: 42
+  type: smelt
+  variable: Cracked_Polished_Blackstone_Bricks
+'21':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &335 Smooth_Quartz &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Smooth_Quartz
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Smooth_Quartz Smelter
+  points: 4
+  required-progress: 35
+  type: smelt
+  variable: Smooth_Quartz
+'22':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &352 Terracotta &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Terracotta
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Terracotta Smelter
+  points: 4
+  required-progress: 52
+  type: smelt
+  variable: Terracotta
+'23':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &361 Matching_Glazed_Terracotta &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Matching_Glazed_Terracotta
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Matching_Glazed_Terracotta Smelter
+  points: 4
+  required-progress: 61
+  type: smelt
+  variable: Matching_Glazed_Terracotta
+'24':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &330 Glass &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Glass
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Glass Smelter
+  points: 4
+  required-progress: 30
+  type: smelt
+  variable: Glass
+'25':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &317 Sponge &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Sponge
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Sponge Smelter
+  points: 4
+  required-progress: 17
+  type: smelt
+  variable: Sponge
+'26':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &340 Charcoal &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Charcoal
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Charcoal Smelter
+  points: 4
+  required-progress: 40
+  type: smelt
+  variable: Charcoal
+'27':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &327 Popped_Chorus_Fruit &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Popped_Chorus_Fruit
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Popped_Chorus_Fruit Smelter
+  points: 4
+  required-progress: 27
+  type: smelt
+  variable: Popped_Chorus_Fruit
+'28':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &358 Lime_Dye &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Lime_Dye
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Lime_Dye Smelter
+  points: 4
+  required-progress: 58
+  type: smelt
+  variable: Lime_Dye
+'29':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &351 Green_Dye &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Green_Dye
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Green_Dye Smelter
+  points: 4
+  required-progress: 51
+  type: smelt
+  variable: Green_Dye
+'3':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Ride &361 Horse &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: SADDLE
+    name: '&e&lQUEST:&f Riding Expert'
+  name: Horse Riding
+  points: 4
+  required-progress: 61
+  type: ride-mob
+  variable: Horse
+'30':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &321 Brick &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Brick
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Brick Smelter
+  points: 4
+  required-progress: 21
+  type: smelt
+  variable: Brick
+'31':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &357 Nether_Brick &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Nether_Brick
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Nether_Brick Smelter
+  points: 4
+  required-progress: 57
+  type: smelt
+  variable: Nether_Brick
+'32':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &356 Iron_Ingot &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Iron_Ingot
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Iron_Ingot Smelter
+  points: 4
+  required-progress: 56
+  type: smelt
+  variable: Iron_Ingot
+'33':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &330 Copper_Ingot &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Copper_Ingot
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Copper_Ingot Smelter
+  points: 4
+  required-progress: 30
+  type: smelt
+  variable: Copper_Ingot
+'34':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &334 Gold_Ingot &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Gold_Ingot
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Gold_Ingot Smelter
+  points: 4
+  required-progress: 34
+  type: smelt
+  variable: Gold_Ingot
+'35':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &358 Netherite_Scrap &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Netherite_Scrap
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Netherite_Scrap Smelter
+  points: 4
+  required-progress: 58
+  type: smelt
+  variable: Netherite_Scrap
+'36':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &326 Redstone_Dust &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Redstone_Dust
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Redstone_Dust Smelter
+  points: 4
+  required-progress: 26
+  type: smelt
+  variable: Redstone_Dust
+'37':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &332 Coal &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Coal
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Coal Smelter
+  points: 4
+  required-progress: 32
+  type: smelt
+  variable: Coal
+'38':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &319 Emerald &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Emerald
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Emerald Smelter
+  points: 4
+  required-progress: 19
+  type: smelt
+  variable: Emerald
+'39':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &322 Lapis_Lazuli &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Lapis_Lazuli
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Lapis_Lazuli Smelter
+  points: 4
+  required-progress: 22
+  type: smelt
+  variable: Lapis_Lazuli
+'4':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Ride &325 Mule &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: SADDLE
+    name: '&e&lQUEST:&f Riding Expert'
+  name: Mule Riding
+  points: 4
+  required-progress: 25
+  type: ride-mob
+  variable: Mule
+'40':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &364 Diamond &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Diamond
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Diamond Smelter
+  points: 4
+  required-progress: 64
+  type: smelt
+  variable: Diamond
+'41':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &364 Nether_Quartz &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Nether_Quartz
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Nether_Quartz Smelter
+  points: 4
+  required-progress: 64
+  type: smelt
+  variable: Nether_Quartz
+'42':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &354 Nether_Gold_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Nether_Gold_Ore
+    name: '&e&lQUEST:&f Nether_Gold_Ore Builder'
+  name: Nether_Gold_Ore Builder
+  points: 4
+  required-progress: 54
+  type: block-place
+  variable: Nether_Gold_Ore
+'43':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &359 Nether_Quartz_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Nether_Quartz_Ore
+    name: '&e&lQUEST:&f Nether_Quartz_Ore Builder'
+  name: Nether_Quartz_Ore Builder
+  points: 4
+  required-progress: 59
+  type: block-place
+  variable: Nether_Quartz_Ore
+'44':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &341 Netherrack &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Netherrack
+    name: '&e&lQUEST:&f Netherrack Builder'
+  name: Netherrack Builder
+  points: 4
+  required-progress: 41
+  type: block-place
+  variable: Netherrack
+'45':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &343 Calcite &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Calcite
+    name: '&e&lQUEST:&f Calcite Builder'
+  name: Calcite Builder
+  points: 4
+  required-progress: 43
+  type: block-place
+  variable: Calcite
+'46':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &332 Deepslate &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate
+    name: '&e&lQUEST:&f Deepslate Builder'
+  name: Deepslate Builder
+  points: 4
+  required-progress: 32
+  type: block-place
+  variable: Deepslate
+'47':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &321 Tuff &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Tuff
+    name: '&e&lQUEST:&f Tuff Builder'
+  name: Tuff Builder
+  points: 4
+  required-progress: 21
+  type: block-place
+  variable: Tuff
+'48':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &360 Coal_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Coal_Ore
+    name: '&e&lQUEST:&f Coal_Ore Builder'
+  name: Coal_Ore Builder
+  points: 4
+  required-progress: 60
+  type: block-place
+  variable: Coal_Ore
+'49':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &332 Redstone_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Redstone_Ore
+    name: '&e&lQUEST:&f Redstone_Ore Builder'
+  name: Redstone_Ore Builder
+  points: 4
+  required-progress: 32
+  type: block-place
+  variable: Redstone_Ore
+'5':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Ride &350 Pig &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: SADDLE
+    name: '&e&lQUEST:&f Riding Expert'
+  name: Pig Riding
+  points: 4
+  required-progress: 50
+  type: ride-mob
+  variable: Pig
+'50':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &350 Lapis_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Lapis_Ore
+    name: '&e&lQUEST:&f Lapis_Ore Builder'
+  name: Lapis_Ore Builder
+  points: 4
+  required-progress: 50
+  type: block-place
+  variable: Lapis_Ore
+'51':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &337 Iron_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Iron_Ore
+    name: '&e&lQUEST:&f Iron_Ore Builder'
+  name: Iron_Ore Builder
+  points: 4
+  required-progress: 37
+  type: block-place
+  variable: Iron_Ore
+'52':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &358 Gold_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Gold_Ore
+    name: '&e&lQUEST:&f Gold_Ore Builder'
+  name: Gold_Ore Builder
+  points: 4
+  required-progress: 58
+  type: block-place
+  variable: Gold_Ore
+'53':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &336 Copper_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Copper_Ore
+    name: '&e&lQUEST:&f Copper_Ore Builder'
+  name: Copper_Ore Builder
+  points: 4
+  required-progress: 36
+  type: block-place
+  variable: Copper_Ore
+'54':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &331 Deepslate_Redstone_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Redstone_Ore
+    name: '&e&lQUEST:&f Deepslate_Redstone_Ore Builder'
+  name: Deepslate_Redstone_Ore Builder
+  points: 4
+  required-progress: 31
+  type: block-place
+  variable: Deepslate_Redstone_Ore
+'55':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &364 Deepslate_Lapis_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Lapis_Ore
+    name: '&e&lQUEST:&f Deepslate_Lapis_Ore Builder'
+  name: Deepslate_Lapis_Ore Builder
+  points: 4
+  required-progress: 64
+  type: block-place
+  variable: Deepslate_Lapis_Ore
+'56':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &358 Deepslate_Iron_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Iron_Ore
+    name: '&e&lQUEST:&f Deepslate_Iron_Ore Builder'
+  name: Deepslate_Iron_Ore Builder
+  points: 4
+  required-progress: 58
+  type: block-place
+  variable: Deepslate_Iron_Ore
+'57':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &331 Deepslate_Gold_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Gold_Ore
+    name: '&e&lQUEST:&f Deepslate_Gold_Ore Builder'
+  name: Deepslate_Gold_Ore Builder
+  points: 4
+  required-progress: 31
+  type: block-place
+  variable: Deepslate_Gold_Ore
+'58':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &317 Deepslate_Copper_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Copper_Ore
+    name: '&e&lQUEST:&f Deepslate_Copper_Ore Builder'
+  name: Deepslate_Copper_Ore Builder
+  points: 4
+  required-progress: 17
+  type: block-place
+  variable: Deepslate_Copper_Ore
+'59':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &359 Deepslate_Diamond_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Diamond_Ore
+    name: '&e&lQUEST:&f Deepslate_Diamond_Ore Builder'
+  name: Deepslate_Diamond_Ore Builder
+  points: 4
+  required-progress: 59
+  type: block-place
+  variable: Deepslate_Diamond_Ore
+'6':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Ride &335 Skeleton_Horse &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: SADDLE
+    name: '&e&lQUEST:&f Riding Expert'
+  name: Skeleton_Horse Riding
+  points: 4
+  required-progress: 35
+  type: ride-mob
+  variable: Skeleton_Horse
+'60':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &338 Orange_Terracotta &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Orange_Terracotta
+    name: '&e&lQUEST:&f Orange_Terracotta Builder'
+  name: Orange_Terracotta Builder
+  points: 4
+  required-progress: 38
+  type: block-place
+  variable: Orange_Terracotta
+'61':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &360 White_Terracotta &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: White_Terracotta
+    name: '&e&lQUEST:&f White_Terracotta Builder'
+  name: White_Terracotta Builder
+  points: 4
+  required-progress: 60
+  type: block-place
+  variable: White_Terracotta
+'62':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &317 Yellow_Terracotta &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Yellow_Terracotta
+    name: '&e&lQUEST:&f Yellow_Terracotta Builder'
+  name: Yellow_Terracotta Builder
+  points: 4
+  required-progress: 17
+  type: block-place
+  variable: Yellow_Terracotta
+'63':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &322 Light_Gray_Terracotta &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Light_Gray_Terracotta
+    name: '&e&lQUEST:&f Light_Gray_Terracotta Builder'
+  name: Light_Gray_Terracotta Builder
+  points: 4
+  required-progress: 22
+  type: block-place
+  variable: Light_Gray_Terracotta
+'64':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &328 Brown_Terracotta &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Brown_Terracotta
+    name: '&e&lQUEST:&f Brown_Terracotta Builder'
+  name: Brown_Terracotta Builder
+  points: 4
+  required-progress: 28
+  type: block-place
+  variable: Brown_Terracotta
+'65':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &320 Red_Terracotta &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Red_Terracotta
+    name: '&e&lQUEST:&f Red_Terracotta Builder'
+  name: Red_Terracotta Builder
+  points: 4
+  required-progress: 20
+  type: block-place
+  variable: Red_Terracotta
+'66':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &327 Terracotta &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Terracotta
+    name: '&e&lQUEST:&f Terracotta Builder'
+  name: Terracotta Builder
+  points: 4
+  required-progress: 27
+  type: block-place
+  variable: Terracotta
+'67':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &333 Black_Terracotta &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Black_Terracotta
+    name: '&e&lQUEST:&f Black_Terracotta Builder'
+  name: Black_Terracotta Builder
+  points: 4
+  required-progress: 33
+  type: block-place
+  variable: Black_Terracotta
+'68':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &352 Mangrove_Log &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Mangrove_Log
+    name: '&e&lQUEST:&f Mangrove_Log Builder'
+  name: Mangrove_Log Builder
+  points: 4
+  required-progress: 52
+  type: block-place
+  variable: Mangrove_Log
+'69':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &347 Mangrove_Leaves &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Mangrove_Leaves
+    name: '&e&lQUEST:&f Mangrove_Leaves Builder'
+  name: Mangrove_Leaves Builder
+  points: 4
+  required-progress: 47
+  type: block-place
+  variable: Mangrove_Leaves
+'7':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Ride &360 Strider &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: SADDLE
+    name: '&e&lQUEST:&f Riding Expert'
+  name: Strider Riding
+  points: 4
+  required-progress: 60
+  type: ride-mob
+  variable: Strider
+'70':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &335 Deepslate_Coal_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Coal_Ore
+    name: '&e&lQUEST:&f Deepslate_Coal_Ore Builder'
+  name: Deepslate_Coal_Ore Builder
+  points: 4
+  required-progress: 35
+  type: block-place
+  variable: Deepslate_Coal_Ore
+'71':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &350 Fire_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Fire_Coral
+    name: '&e&lQUEST:&f Fire_Coral Builder'
+  name: Fire_Coral Builder
+  points: 4
+  required-progress: 50
+  type: block-place
+  variable: Fire_Coral
+'72':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &329 Bubble_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Bubble_Coral
+    name: '&e&lQUEST:&f Bubble_Coral Builder'
+  name: Bubble_Coral Builder
+  points: 4
+  required-progress: 29
+  type: block-place
+  variable: Bubble_Coral
+'73':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &316 Brain_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Brain_Coral
+    name: '&e&lQUEST:&f Brain_Coral Builder'
+  name: Brain_Coral Builder
+  points: 4
+  required-progress: 16
+  type: block-place
+  variable: Brain_Coral
+'74':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &351 Tube_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Tube_Coral
+    name: '&e&lQUEST:&f Tube_Coral Builder'
+  name: Tube_Coral Builder
+  points: 4
+  required-progress: 51
+  type: block-place
+  variable: Tube_Coral
+'75':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &352 Horn_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Horn_Coral
+    name: '&e&lQUEST:&f Horn_Coral Builder'
+  name: Horn_Coral Builder
+  points: 4
+  required-progress: 52
+  type: block-place
+  variable: Horn_Coral
+'76':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &340 Dead_Fire_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Fire_Coral
+    name: '&e&lQUEST:&f Dead_Fire_Coral Builder'
+  name: Dead_Fire_Coral Builder
+  points: 4
+  required-progress: 40
+  type: block-place
+  variable: Dead_Fire_Coral
+'77':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &337 Dead_Bubble_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Bubble_Coral
+    name: '&e&lQUEST:&f Dead_Bubble_Coral Builder'
+  name: Dead_Bubble_Coral Builder
+  points: 4
+  required-progress: 37
+  type: block-place
+  variable: Dead_Bubble_Coral
+'78':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &342 Dead_Brain_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Brain_Coral
+    name: '&e&lQUEST:&f Dead_Brain_Coral Builder'
+  name: Dead_Brain_Coral Builder
+  points: 4
+  required-progress: 42
+  type: block-place
+  variable: Dead_Brain_Coral
+'79':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &319 Dead_Tube_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Tube_Coral
+    name: '&e&lQUEST:&f Dead_Tube_Coral Builder'
+  name: Dead_Tube_Coral Builder
+  points: 4
+  required-progress: 19
+  type: block-place
+  variable: Dead_Tube_Coral
+'8':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &357 Cooked_Cod &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cooked_Cod
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Cooked_Cod Smelter
+  points: 4
+  required-progress: 57
+  type: smelt
+  variable: Cooked_Cod
+'80':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &342 Dead_Horn_Coral &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Horn_Coral
+    name: '&e&lQUEST:&f Dead_Horn_Coral Builder'
+  name: Dead_Horn_Coral Builder
+  points: 4
+  required-progress: 42
+  type: block-place
+  variable: Dead_Horn_Coral
+'81':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &347 Fire_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Fire_Coral_Fan
+    name: '&e&lQUEST:&f Fire_Coral_Fan Builder'
+  name: Fire_Coral_Fan Builder
+  points: 4
+  required-progress: 47
+  type: block-place
+  variable: Fire_Coral_Fan
+'82':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &360 Bubble_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Bubble_Coral_Fan
+    name: '&e&lQUEST:&f Bubble_Coral_Fan Builder'
+  name: Bubble_Coral_Fan Builder
+  points: 4
+  required-progress: 60
+  type: block-place
+  variable: Bubble_Coral_Fan
+'83':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &346 Brain_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Brain_Coral_Fan
+    name: '&e&lQUEST:&f Brain_Coral_Fan Builder'
+  name: Brain_Coral_Fan Builder
+  points: 4
+  required-progress: 46
+  type: block-place
+  variable: Brain_Coral_Fan
+'84':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &362 Tube_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Tube_Coral_Fan
+    name: '&e&lQUEST:&f Tube_Coral_Fan Builder'
+  name: Tube_Coral_Fan Builder
+  points: 4
+  required-progress: 62
+  type: block-place
+  variable: Tube_Coral_Fan
+'85':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &339 Horn_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Horn_Coral_Fan
+    name: '&e&lQUEST:&f Horn_Coral_Fan Builder'
+  name: Horn_Coral_Fan Builder
+  points: 4
+  required-progress: 39
+  type: block-place
+  variable: Horn_Coral_Fan
+'86':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &363 Dead_Fire_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Fire_Coral_Fan
+    name: '&e&lQUEST:&f Dead_Fire_Coral_Fan Builder'
+  name: Dead_Fire_Coral_Fan Builder
+  points: 4
+  required-progress: 63
+  type: block-place
+  variable: Dead_Fire_Coral_Fan
+'87':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &355 Dead_Bubble_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Bubble_Coral_Fan
+    name: '&e&lQUEST:&f Dead_Bubble_Coral_Fan Builder'
+  name: Dead_Bubble_Coral_Fan Builder
+  points: 4
+  required-progress: 55
+  type: block-place
+  variable: Dead_Bubble_Coral_Fan
+'88':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &316 Dead_Brain_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Brain_Coral_Fan
+    name: '&e&lQUEST:&f Dead_Brain_Coral_Fan Builder'
+  name: Dead_Brain_Coral_Fan Builder
+  points: 4
+  required-progress: 16
+  type: block-place
+  variable: Dead_Brain_Coral_Fan
+'89':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &356 Dead_Tube_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Tube_Coral_Fan
+    name: '&e&lQUEST:&f Dead_Tube_Coral_Fan Builder'
+  name: Dead_Tube_Coral_Fan Builder
+  points: 4
+  required-progress: 56
+  type: block-place
+  variable: Dead_Tube_Coral_Fan
+'9':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Smelt &326 Cooked_Salmon &7items."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cooked_Salmon
+    name: '&e&lQUEST:&f Smelting Expert'
+  name: Cooked_Salmon Smelter
+  points: 4
+  required-progress: 26
+  type: smelt
+  variable: Cooked_Salmon
+'90':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Place &331 Dead_Horn_Coral_Fan &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Horn_Coral_Fan
+    name: '&e&lQUEST:&f Dead_Horn_Coral_Fan Builder'
+  name: Dead_Horn_Coral_Fan Builder
+  points: 4
+  required-progress: 31
+  type: block-place
+  variable: Dead_Horn_Coral_Fan

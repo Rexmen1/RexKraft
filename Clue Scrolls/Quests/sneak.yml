@@ -1,0 +1,17 @@
+'1':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Sneak for &31499 seconds."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f5x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: OBSIDIAN
+    name: '&e&lQUEST:&f Stealthy Ninja'
+  name: Stealthy Ninja
+  points: 5
+  required-progress: 1499
+  type: sneak
