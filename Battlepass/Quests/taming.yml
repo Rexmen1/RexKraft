@@ -1,0 +1,126 @@
+'1':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Tame &353 Donkey &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: FEATHER
+    name: '&e&lQUEST:&f Taming Expert'
+  name: Donkey Pet
+  points: 4
+  required-progress: 53
+  type: tame
+  variable: Donkey
+'2':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Tame &358 Horse &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: FEATHER
+    name: '&e&lQUEST:&f Taming Expert'
+  name: Horse Pet
+  points: 4
+  required-progress: 58
+  type: tame
+  variable: Horse
+'3':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Tame &350 Cat &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: FEATHER
+    name: '&e&lQUEST:&f Taming Expert'
+  name: Cat Pet
+  points: 4
+  required-progress: 50
+  type: tame
+  variable: Cat
+'4':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Tame &337 Parrot &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: FEATHER
+    name: '&e&lQUEST:&f Taming Expert'
+  name: Parrot Pet
+  points: 4
+  required-progress: 37
+  type: tame
+  variable: Parrot
+'5':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Tame &356 Mule &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: FEATHER
+    name: '&e&lQUEST:&f Taming Expert'
+  name: Mule Pet
+  points: 4
+  required-progress: 56
+  type: tame
+  variable: Mule
+'6':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Tame &345 Skeleton_Horse &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: FEATHER
+    name: '&e&lQUEST:&f Taming Expert'
+  name: Skeleton_Horse Pet
+  points: 4
+  required-progress: 45
+  type: tame
+  variable: Skeleton_Horse
+'7':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Tame &350 Allay &7mobs."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: FEATHER
+    name: '&e&lQUEST:&f Taming Expert'
+  name: Allay Pet
+  points: 4
+  required-progress: 50
+  type: tame
+  variable: Allay

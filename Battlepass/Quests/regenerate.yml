@@ -1,0 +1,17 @@
+'1':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Regenerate health &35 times."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f2x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: HEART_OF_THE_SEA
+    name: '&e&lQUEST:&f Regenerator'
+  name: Regenerator
+  points: 2
+  required-progress: 5
+  type: regenerate

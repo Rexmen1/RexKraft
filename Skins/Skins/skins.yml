@@ -1,0 +1,1100 @@
+
+  sword1:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:1
+    slot: 9
+    display_name: '&dOverseer Wooden Sword 1'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_1%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 1'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_1 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_1
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_1
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_1%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_1'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_1
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword2:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:2
+    slot: 10
+    display_name: '&dOverseer Wooden Sword 2'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_2%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 2'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_2 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_2
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_2
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_2%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_2'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_2
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword3:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:3
+    slot: 11
+    display_name: '&dOverseer Wooden Sword 3'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_3%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 3'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_3 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_3
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_3
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_3%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_3'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_3
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword4:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:4
+    slot: 12
+    display_name: '&dOverseer Wooden Sword 4'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_4%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 4'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_4 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_4
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_4
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_4%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_4'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_4
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword5:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:5
+    slot: 13
+    display_name: '&dOverseer Wooden Sword 5'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_5%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 5'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_5 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_5
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_5
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_5%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_5'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_5
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword6:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:6
+    slot: 14
+    display_name: '&dOverseer Wooden Sword 6'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_6%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 6'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_6 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_6
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_6
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_6%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_6'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_6
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword7:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:7
+    slot: 15
+    display_name: '&dOverseer Wooden Sword 7'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_7%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 7'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_7 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_7
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_7
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_7%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_7'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_7
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword8:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:8
+    slot: 16
+    display_name: '&dOverseer Wooden Sword 8'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_8%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 8'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_8 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_8
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_8
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_8%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_8'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_8
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword9:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:9
+    slot: 17
+    display_name: '&dOverseer Wooden Sword 9'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_9%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 9'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_9 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_9
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_9
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_9%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_9'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_9
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword10:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:10
+    slot: 18
+    display_name: '&dOverseer Wooden Sword 10'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_10%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 10'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_10 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_10
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_10
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_10%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_10'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_10
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword11:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:11
+    slot: 19
+    display_name: '&dOverseer Wooden Sword 11'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_11%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 11'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_11 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_11
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_11
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_11%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_11'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_11
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword12:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:12
+    slot: 20
+    display_name: '&dOverseer Wooden Sword 12'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_12%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 12'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_12 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_12
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_12
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_12%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_12'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_12
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword13:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:13
+    slot: 21
+    display_name: '&dOverseer Wooden Sword 13'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_13%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 13'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_13 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_13
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_13
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_13%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_13'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_13
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword14:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:14
+    slot: 22
+    display_name: '&dOverseer Wooden Sword 14'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_14%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 14'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_14 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_14
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_14
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_14%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_14'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_14
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword15:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:15
+    slot: 23
+    display_name: '&dOverseer Wooden Sword 15'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_15%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 15'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_15 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_15
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_15
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_15%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_15'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_15
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword16:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:16
+    slot: 24
+    display_name: '&dOverseer Wooden Sword 16'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_16%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 16'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_16 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_16
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_16
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_16%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_16'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_16
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword17:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:17
+    slot: 25
+    display_name: '&dOverseer Wooden Sword 17'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_17%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 17'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_17 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_17
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_17
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_17%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_17'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_17
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword18:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:18
+    slot: 26
+    display_name: '&dOverseer Wooden Sword 18'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_18%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 18'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_18 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_18
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_18
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_18%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_18'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_18
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword19:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:19
+    slot: 27
+    display_name: '&dOverseer Wooden Sword 19'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_19%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 19'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_19 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_19
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_19
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_19%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_19'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_19
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword20:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:20
+    slot: 28
+    display_name: '&dOverseer Wooden Sword 20'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_20%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 20'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_20 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_20
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_20
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_20%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_20'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_20
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword21:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:21
+    slot: 29
+    display_name: '&dOverseer Wooden Sword 21'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_21%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 21'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_21 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_21
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_21
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_21%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_21'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_21
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword22:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:22
+    slot: 30
+    display_name: '&dOverseer Wooden Sword 22'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_22%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 22'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_22 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_22
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_22
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_22%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_22'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_22
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword23:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:23
+    slot: 31
+    display_name: '&dOverseer Wooden Sword 23'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_23%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 23'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_23 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_23
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_23
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_23%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_23'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_23
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword24:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:24
+    slot: 32
+    display_name: '&dOverseer Wooden Sword 24'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_24%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 24'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_24 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_24
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_24
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_24%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_24'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_24
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'
+
+  sword25:
+    material: FISHING_ROD
+    nbt_int: CustomModelData:25
+    slot: 33
+    display_name: '&dOverseer Wooden Sword 25'
+    lore:
+    - ''
+    - '&7To equip the skin, wield the tool'
+    - '&7in your hand and left click.'
+    - ''
+    - '&7To own the skin forever, you can'
+    - '&7buy it here for &a$10M'
+    - ''
+    - '&aUnlocked: &f%luckperms_has_permission_skin.fishing_rod_25%'
+    left_click_commands:
+      - '[console] cmi itemcmdata set %player_name% 25'
+      - '[console] lp user %player_name% permission settemp skin.claimed.fishing_rod_25 true 30d'
+    left_click_requirement:
+      requirements:
+        perms1:
+          type: has permission
+          permission: skin.fishing_rod_25
+          - '[message] &cYou don't have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        perms2:
+          type: !has permission
+          permission: skin.claimed.fishing_rod_25
+          - '[message] &cYou have this skin already applied please wait %luckperms_inherited_expiry_time_skin.claimed.fishing_rod_25%'
+          - '[sound] ENTITY_VILLAGER_NO'
+    right_click_commands:
+      - '[console] cmi money take %player_name% 10000000'
+      - '[console] lp user %player_name% permission set skin.fishing_rod_25'
+    right_click_requirement:
+      requirements:
+        perms:
+          type: !has permission
+          permission: skin.fishing_rod_25
+          - '[message] &cYou already have this skin unlocked.'
+          - '[sound] ENTITY_VILLAGER_NO'
+        money:
+          type: has money
+          amount: 10000000
+          - '[message] &cYou need more money to unlock this skin.'

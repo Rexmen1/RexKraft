@@ -1,0 +1,17 @@
+'1':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Extract honeycombs from &322 hives."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: SHEARS
+    name: '&e&lQUEST:&f Honeycomb Extractor'
+  name: Honeycomb Extractor
+  points: 4
+  required-progress: 22
+  type: honey-comb-extract

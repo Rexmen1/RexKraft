@@ -1,0 +1,221 @@
+BlazeQuest:
+  description: '&fKill 139 blazes as fast as you can!'
+  displayItem: BLAZE_SPAWN_EGG
+  displayName: '&c&lBlaze Slayer'
+  entities:
+  - blaze
+  goal: 139
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+Cave_spiderQuest:
+  description: '&fKill 237 cave_spiders as fast as you can!'
+  displayItem: CAVE_SPIDER_SPAWN_EGG
+  displayName: '&c&lCave_spider Slayer'
+  entities:
+  - cave_spider
+  goal: 237
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+ChickenQuest:
+  description: '&fKill 164 chickens as fast as you can!'
+  displayItem: CHICKEN_SPAWN_EGG
+  displayName: '&c&lChicken Slayer'
+  entities:
+  - chicken
+  goal: 164
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+CowQuest:
+  description: '&fKill 135 cows as fast as you can!'
+  displayItem: COW_SPAWN_EGG
+  displayName: '&c&lCow Slayer'
+  entities:
+  - cow
+  goal: 135
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+CreeperQuest:
+  description: '&fKill 207 creepers as fast as you can!'
+  displayItem: CREEPER_SPAWN_EGG
+  displayName: '&c&lCreeper Slayer'
+  entities:
+  - creeper
+  goal: 207
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+DrownedQuest:
+  description: '&fKill 113 drowneds as fast as you can!'
+  displayItem: DROWNED_SPAWN_EGG
+  displayName: '&c&lDrowned Slayer'
+  entities:
+  - drowned
+  goal: 113
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+EndermanQuest:
+  description: '&fKill 204 endermans as fast as you can!'
+  displayItem: ENDERMAN_SPAWN_EGG
+  displayName: '&c&lEnderman Slayer'
+  entities:
+  - enderman
+  goal: 204
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+HuskQuest:
+  description: '&fKill 197 husks as fast as you can!'
+  displayItem: HUSK_SPAWN_EGG
+  displayName: '&c&lHusk Slayer'
+  entities:
+  - husk
+  goal: 197
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+PigQuest:
+  description: '&fKill 204 pigs as fast as you can!'
+  displayItem: PIG_SPAWN_EGG
+  displayName: '&c&lPig Slayer'
+  entities:
+  - pig
+  goal: 204
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+SheepQuest:
+  description: '&fKill 127 sheeps as fast as you can!'
+  displayItem: SHEEP_SPAWN_EGG
+  displayName: '&c&lSheep Slayer'
+  entities:
+  - sheep
+  goal: 127
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+SlimeQuest:
+  description: '&fKill 130 slimes as fast as you can!'
+  displayItem: SLIME_SPAWN_EGG
+  displayName: '&c&lSlime Slayer'
+  entities:
+  - slime
+  goal: 130
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+SpiderQuest:
+  description: '&fKill 119 spiders as fast as you can!'
+  displayItem: SPIDER_SPAWN_EGG
+  displayName: '&c&lSpider Slayer'
+  entities:
+  - spider
+  goal: 119
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+StrayQuest:
+  description: '&fKill 226 strays as fast as you can!'
+  displayItem: STRAY_SPAWN_EGG
+  displayName: '&c&lStray Slayer'
+  entities:
+  - stray
+  goal: 226
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+WitchQuest:
+  description: '&fKill 183 witchs as fast as you can!'
+  displayItem: WITCH_SPAWN_EGG
+  displayName: '&c&lWitch Slayer'
+  entities:
+  - witch
+  goal: 183
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+Wither_skeletonQuest:
+  description: '&fKill 147 wither_skeletons as fast as you can!'
+  displayItem: WITHER_SKELETON_SPAWN_EGG
+  displayName: '&c&lWither_skeleton Slayer'
+  entities:
+  - wither_skeleton
+  goal: 147
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+ZombieQuest:
+  description: '&fKill 156 zombies as fast as you can!'
+  displayItem: ZOMBIE_SPAWN_EGG
+  displayName: '&c&lZombie Slayer'
+  entities:
+  - zombie
+  goal: 156
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
+Zombified_piglinQuest:
+  description: '&fKill 220 zombified_piglins as fast as you can!'
+  displayItem: ZOMBIFIED_PIGLIN_SPAWN_EGG
+  displayName: '&c&lZombified_piglin Slayer'
+  entities:
+  - zombified_piglin
+  goal: 220
+  rewards:
+    commands: voucher give randomepic 2 player
+    money: 2500
+  type: mobkill
+  worlds:
+  - World
