@@ -1,8 +1,8 @@
-'1':
+'3651':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Swim a distance of &31464 blocks."
+    - "&8 \xBB &7Swim a distance of &31193 blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f5x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Water Explorer'
   name: Water Explorer
   points: 5
-  required-progress: 1464
+  required-progress: 1193
   type: swim

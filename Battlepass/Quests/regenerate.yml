@@ -1,8 +1,8 @@
-'1':
+'3501':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Regenerate health &35 times."
+    - "&8 \xBB &7Regenerate health &32 times."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f2x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Regenerator'
   name: Regenerator
   points: 2
-  required-progress: 5
+  required-progress: 2
   type: regenerate

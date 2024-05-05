@@ -1,8 +1,8 @@
-'1':
+'3751':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Sneak for &31499 seconds."
+    - "&8 \xBB &7Sneak for &3680 seconds."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f5x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Stealthy Ninja'
   name: Stealthy Ninja
   points: 5
-  required-progress: 1499
+  required-progress: 680
   type: sneak

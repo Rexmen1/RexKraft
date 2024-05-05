@@ -1,0 +1,805 @@
+condensed_Lapis_Lazuli:
+  output:
+    type: MATERIAL
+    id: CONDENSED_LAPIS_LAZULI
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Lapis_Lazuli,amount=256}
+enhanced_Lapis_Lazuli:
+  output:
+    type: MATERIAL
+    id: ENHANCED_LAPIS_LAZULI
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_LAPIS_LAZULI,amount=16,display="Condensed Lapis
+    Lazuli"}
+purified_Lapis_Lazuli:
+  output:
+    type: MATERIAL
+    id: PURIFIED_LAPIS_LAZULI
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_LAPIS_LAZULI,amount=8,display="Enhanced Lapis
+    Lazuli"}
+condensed_Emerald:
+  output:
+    type: MATERIAL
+    id: CONDENSED_EMERALD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Emerald,amount=256}
+enhanced_Emerald:
+  output:
+    type: MATERIAL
+    id: ENHANCED_EMERALD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_EMERALD,amount=16,display="Condensed Emerald"}
+purified_Emerald:
+  output:
+    type: MATERIAL
+    id: PURIFIED_EMERALD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_EMERALD,amount=8,display="Enhanced Emerald"}
+condensed_Rotten_Flesh:
+  output:
+    type: MATERIAL
+    id: CONDENSED_ROTTEN_FLESH
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Rotten_Flesh,amount=256}
+enhanced_Rotten_Flesh:
+  output:
+    type: MATERIAL
+    id: ENHANCED_ROTTEN_FLESH
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_ROTTEN_FLESH,amount=16,display="Condensed Rotten
+    Flesh"}
+purified_Rotten_Flesh:
+  output:
+    type: MATERIAL
+    id: PURIFIED_ROTTEN_FLESH
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_ROTTEN_FLESH,amount=8,display="Enhanced Rotten
+    Flesh"}
+condensed_Blaze_Rod:
+  output:
+    type: MATERIAL
+    id: CONDENSED_BLAZE_ROD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Blaze_Rod,amount=256}
+enhanced_Blaze_Rod:
+  output:
+    type: MATERIAL
+    id: ENHANCED_BLAZE_ROD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_BLAZE_ROD,amount=16,display="Condensed Blaze
+    Rod"}
+purified_Blaze_Rod:
+  output:
+    type: MATERIAL
+    id: PURIFIED_BLAZE_ROD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_BLAZE_ROD,amount=8,display="Enhanced Blaze Rod"}
+condensed_Slime_Ball:
+  output:
+    type: MATERIAL
+    id: CONDENSED_SLIME_BALL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Slime_Ball,amount=256}
+enhanced_Slime_Ball:
+  output:
+    type: MATERIAL
+    id: ENHANCED_SLIME_BALL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_SLIME_BALL,amount=16,display="Condensed Slime
+    Ball"}
+purified_Slime_Ball:
+  output:
+    type: MATERIAL
+    id: PURIFIED_SLIME_BALL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_SLIME_BALL,amount=8,display="Enhanced Slime
+    Ball"}
+condensed_Magma_Cream:
+  output:
+    type: MATERIAL
+    id: CONDENSED_MAGMA_CREAM
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Magma_Cream,amount=256}
+enhanced_Magma_Cream:
+  output:
+    type: MATERIAL
+    id: ENHANCED_MAGMA_CREAM
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_MAGMA_CREAM,amount=16,display="Condensed Magma
+    Cream"}
+purified_Magma_Cream:
+  output:
+    type: MATERIAL
+    id: PURIFIED_MAGMA_CREAM
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_MAGMA_CREAM,amount=8,display="Enhanced Magma
+    Cream"}
+condensed_Ghast_Tear:
+  output:
+    type: MATERIAL
+    id: CONDENSED_GHAST_TEAR
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Ghast_Tear,amount=256}
+enhanced_Ghast_Tear:
+  output:
+    type: MATERIAL
+    id: ENHANCED_GHAST_TEAR
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_GHAST_TEAR,amount=16,display="Condensed Ghast
+    Tear"}
+purified_Ghast_Tear:
+  output:
+    type: MATERIAL
+    id: PURIFIED_GHAST_TEAR
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_GHAST_TEAR,amount=8,display="Enhanced Ghast
+    Tear"}
+condensed_Prismarine_Shard:
+  output:
+    type: MATERIAL
+    id: CONDENSED_PRISMARINE_SHARD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Prismarine_Shard,amount=256}
+enhanced_Prismarine_Shard:
+  output:
+    type: MATERIAL
+    id: ENHANCED_PRISMARINE_SHARD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_PRISMARINE_SHARD,amount=16,display="Condensed
+    Prismarine Shard"}
+purified_Prismarine_Shard:
+  output:
+    type: MATERIAL
+    id: PURIFIED_PRISMARINE_SHARD
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_PRISMARINE_SHARD,amount=8,display="Enhanced
+    Prismarine Shard"}
+condensed_Prismarine_Crystals:
+  output:
+    type: MATERIAL
+    id: CONDENSED_PRISMARINE_CRYSTALS
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Prismarine_Crystals,amount=256}
+enhanced_Prismarine_Crystals:
+  output:
+    type: MATERIAL
+    id: ENHANCED_PRISMARINE_CRYSTALS
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_PRISMARINE_CRYSTALS,amount=16,display="Condensed
+    Prismarine Crystals"}
+purified_Prismarine_Crystals:
+  output:
+    type: MATERIAL
+    id: PURIFIED_PRISMARINE_CRYSTALS
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_PRISMARINE_CRYSTALS,amount=8,display="Enhanced
+    Prismarine Crystals"}
+condensed_Leather:
+  output:
+    type: MATERIAL
+    id: CONDENSED_LEATHER
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Leather,amount=256}
+enhanced_Leather:
+  output:
+    type: MATERIAL
+    id: ENHANCED_LEATHER
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_LEATHER,amount=16,display="Condensed Leather"}
+purified_Leather:
+  output:
+    type: MATERIAL
+    id: PURIFIED_LEATHER
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_LEATHER,amount=8,display="Enhanced Leather"}
+condensed_Feather:
+  output:
+    type: MATERIAL
+    id: CONDENSED_FEATHER
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Feather,amount=256}
+enhanced_Feather:
+  output:
+    type: MATERIAL
+    id: ENHANCED_FEATHER
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_FEATHER,amount=16,display="Condensed Feather"}
+purified_Feather:
+  output:
+    type: MATERIAL
+    id: PURIFIED_FEATHER
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_FEATHER,amount=8,display="Enhanced Feather"}
+condensed_Rabbit_Foot:
+  output:
+    type: MATERIAL
+    id: CONDENSED_RABBIT_FOOT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Rabbit_Foot,amount=256}
+enhanced_Rabbit_Foot:
+  output:
+    type: MATERIAL
+    id: ENHANCED_RABBIT_FOOT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_RABBIT_FOOT,amount=16,display="Condensed Rabbit
+    Foot"}
+purified_Rabbit_Foot:
+  output:
+    type: MATERIAL
+    id: PURIFIED_RABBIT_FOOT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_RABBIT_FOOT,amount=8,display="Enhanced Rabbit
+    Foot"}
+condensed_Egg:
+  output:
+    type: MATERIAL
+    id: CONDENSED_EGG
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Egg,amount=256}
+enhanced_Egg:
+  output:
+    type: MATERIAL
+    id: ENHANCED_EGG
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_EGG,amount=16,display="Condensed Egg"}
+purified_Egg:
+  output:
+    type: MATERIAL
+    id: PURIFIED_EGG
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_EGG,amount=8,display="Enhanced Egg"}
+condensed_Phantom_Membrane:
+  output:
+    type: MATERIAL
+    id: CONDENSED_PHANTOM_MEMBRANE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Phantom_Membrane,amount=256}
+enhanced_Phantom_Membrane:
+  output:
+    type: MATERIAL
+    id: ENHANCED_PHANTOM_MEMBRANE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_PHANTOM_MEMBRANE,amount=16,display="Condensed
+    Phantom Membrane"}
+purified_Phantom_Membrane:
+  output:
+    type: MATERIAL
+    id: PURIFIED_PHANTOM_MEMBRANE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_PHANTOM_MEMBRANE,amount=8,display="Enhanced
+    Phantom Membrane"}
+condensed_Shulker_Shell:
+  output:
+    type: MATERIAL
+    id: CONDENSED_SHULKER_SHELL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Shulker_Shell,amount=256}
+enhanced_Shulker_Shell:
+  output:
+    type: MATERIAL
+    id: ENHANCED_SHULKER_SHELL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_SHULKER_SHELL,amount=16,display="Condensed
+    Shulker Shell"}
+purified_Shulker_Shell:
+  output:
+    type: MATERIAL
+    id: PURIFIED_SHULKER_SHELL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_SHULKER_SHELL,amount=8,display="Enhanced Shulker
+    Shell"}
+condensed_Snowball:
+  output:
+    type: MATERIAL
+    id: CONDENSED_SNOWBALL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Snowball,amount=256}
+enhanced_Snowball:
+  output:
+    type: MATERIAL
+    id: ENHANCED_SNOWBALL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_SNOWBALL,amount=16,display="Condensed Snowball"}
+purified_Snowball:
+  output:
+    type: MATERIAL
+    id: PURIFIED_SNOWBALL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_SNOWBALL,amount=8,display="Enhanced Snowball"}
+condensed_Ink_Sac:
+  output:
+    type: MATERIAL
+    id: CONDENSED_INK_SAC
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Ink_Sac,amount=256}
+enhanced_Ink_Sac:
+  output:
+    type: MATERIAL
+    id: ENHANCED_INK_SAC
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_INK_SAC,amount=16,display="Condensed Ink Sac"}
+purified_Ink_Sac:
+  output:
+    type: MATERIAL
+    id: PURIFIED_INK_SAC
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_INK_SAC,amount=8,display="Enhanced Ink Sac"}
+condensed_Glow_Ink_Sac:
+  output:
+    type: MATERIAL
+    id: CONDENSED_GLOW_INK_SAC
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Glow_Ink_Sac,amount=256}
+enhanced_Glow_Ink_Sac:
+  output:
+    type: MATERIAL
+    id: ENHANCED_GLOW_INK_SAC
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_GLOW_INK_SAC,amount=16,display="Condensed Glow
+    Ink Sac"}
+purified_Glow_Ink_Sac:
+  output:
+    type: MATERIAL
+    id: PURIFIED_GLOW_INK_SAC
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_GLOW_INK_SAC,amount=8,display="Enhanced Glow
+    Ink Sac"}
+condensed_Wither_Skeleton_Skull:
+  output:
+    type: MATERIAL
+    id: CONDENSED_WITHER_SKELETON_SKULL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Wither_Skeleton_Skull,amount=256}
+enhanced_Wither_Skeleton_Skull:
+  output:
+    type: MATERIAL
+    id: ENHANCED_WITHER_SKELETON_SKULL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_WITHER_SKELETON_SKULL,amount=16,display="Condensed
+    Wither Skeleton Skull"}
+purified_Wither_Skeleton_Skull:
+  output:
+    type: MATERIAL
+    id: PURIFIED_WITHER_SKELETON_SKULL
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_WITHER_SKELETON_SKULL,amount=8,display="Enhanced
+    Wither Skeleton Skull"}
+condensed_Pumpkin:
+  output:
+    type: MATERIAL
+    id: CONDENSED_PUMPKIN
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Pumpkin,amount=256}
+enhanced_Pumpkin:
+  output:
+    type: MATERIAL
+    id: ENHANCED_PUMPKIN
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_PUMPKIN,amount=16,display="Condensed Pumpkin"}
+purified_Pumpkin:
+  output:
+    type: MATERIAL
+    id: PURIFIED_PUMPKIN
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_PUMPKIN,amount=8,display="Enhanced Pumpkin"}
+condensed_Melon_Slice:
+  output:
+    type: MATERIAL
+    id: CONDENSED_MELON_SLICE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Melon_Slice,amount=256}
+enhanced_Melon_Slice:
+  output:
+    type: MATERIAL
+    id: ENHANCED_MELON_SLICE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_MELON_SLICE,amount=16,display="Condensed Melon
+    Slice"}
+purified_Melon_Slice:
+  output:
+    type: MATERIAL
+    id: PURIFIED_MELON_SLICE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_MELON_SLICE,amount=8,display="Enhanced Melon
+    Slice"}
+condensed_Potato:
+  output:
+    type: MATERIAL
+    id: CONDENSED_POTATO
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Potato,amount=256}
+enhanced_Potato:
+  output:
+    type: MATERIAL
+    id: ENHANCED_POTATO
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_POTATO,amount=16,display="Condensed Potato"}
+purified_Potato:
+  output:
+    type: MATERIAL
+    id: PURIFIED_POTATO
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_POTATO,amount=8,display="Enhanced Potato"}
+condensed_Carrot:
+  output:
+    type: MATERIAL
+    id: CONDENSED_CARROT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Carrot,amount=256}
+enhanced_Carrot:
+  output:
+    type: MATERIAL
+    id: ENHANCED_CARROT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_CARROT,amount=16,display="Condensed Carrot"}
+purified_Carrot:
+  output:
+    type: MATERIAL
+    id: PURIFIED_CARROT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_CARROT,amount=8,display="Enhanced Carrot"}
+condensed_Beetroot:
+  output:
+    type: MATERIAL
+    id: CONDENSED_BEETROOT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Beetroot,amount=256}
+enhanced_Beetroot:
+  output:
+    type: MATERIAL
+    id: ENHANCED_BEETROOT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_BEETROOT,amount=16,display="Condensed Beetroot"}
+purified_Beetroot:
+  output:
+    type: MATERIAL
+    id: PURIFIED_BEETROOT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_BEETROOT,amount=8,display="Enhanced Beetroot"}
+condensed_Sugar_Cane:
+  output:
+    type: MATERIAL
+    id: CONDENSED_SUGAR_CANE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Sugar_Cane,amount=256}
+enhanced_Sugar_Cane:
+  output:
+    type: MATERIAL
+    id: ENHANCED_SUGAR_CANE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_SUGAR_CANE,amount=16,display="Condensed Sugar
+    Cane"}
+purified_Sugar_Cane:
+  output:
+    type: MATERIAL
+    id: PURIFIED_SUGAR_CANE
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_SUGAR_CANE,amount=8,display="Enhanced Sugar
+    Cane"}
+condensed_Nether_Wart:
+  output:
+    type: MATERIAL
+    id: CONDENSED_NETHER_WART
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Nether_Wart,amount=256}
+enhanced_Nether_Wart:
+  output:
+    type: MATERIAL
+    id: ENHANCED_NETHER_WART
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_NETHER_WART,amount=16,display="Condensed Nether
+    Wart"}
+purified_Nether_Wart:
+  output:
+    type: MATERIAL
+    id: PURIFIED_NETHER_WART
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_NETHER_WART,amount=8,display="Enhanced Nether
+    Wart"}
+condensed_Cocoa_Beans:
+  output:
+    type: MATERIAL
+    id: CONDENSED_COCOA_BEANS
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Cocoa_Beans,amount=256}
+enhanced_Cocoa_Beans:
+  output:
+    type: MATERIAL
+    id: ENHANCED_COCOA_BEANS
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_COCOA_BEANS,amount=16,display="Condensed Cocoa
+    Beans"}
+purified_Cocoa_Beans:
+  output:
+    type: MATERIAL
+    id: PURIFIED_COCOA_BEANS
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_COCOA_BEANS,amount=8,display="Enhanced Cocoa
+    Beans"}
+condensed_Kelp:
+  output:
+    type: MATERIAL
+    id: CONDENSED_KELP
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Kelp,amount=256}
+enhanced_Kelp:
+  output:
+    type: MATERIAL
+    id: ENHANCED_KELP
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_KELP,amount=16,display="Condensed Kelp"}
+purified_Kelp:
+  output:
+    type: MATERIAL
+    id: PURIFIED_KELP
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_KELP,amount=8,display="Enhanced Kelp"}
+condensed_Wheat:
+  output:
+    type: MATERIAL
+    id: CONDENSED_WHEAT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Wheat,amount=256}
+enhanced_Wheat:
+  output:
+    type: MATERIAL
+    id: ENHANCED_WHEAT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_WHEAT,amount=16,display="Condensed Wheat"}
+purified_Wheat:
+  output:
+    type: MATERIAL
+    id: PURIFIED_WHEAT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_WHEAT,amount=8,display="Enhanced Wheat"}
+condensed_Sweet_Berries:
+  output:
+    type: MATERIAL
+    id: CONDENSED_SWEET_BERRIES
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Sweet_Berries,amount=256}
+enhanced_Sweet_Berries:
+  output:
+    type: MATERIAL
+    id: ENHANCED_SWEET_BERRIES
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_SWEET_BERRIES,amount=16,display="Condensed
+    Sweet Berries"}
+purified_Sweet_Berries:
+  output:
+    type: MATERIAL
+    id: PURIFIED_SWEET_BERRIES
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_SWEET_BERRIES,amount=8,display="Enhanced Sweet
+    Berries"}
+condensed_Chorus_Fruit:
+  output:
+    type: MATERIAL
+    id: CONDENSED_CHORUS_FRUIT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Chorus_Fruit,amount=256}
+enhanced_Chorus_Fruit:
+  output:
+    type: MATERIAL
+    id: ENHANCED_CHORUS_FRUIT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_CHORUS_FRUIT,amount=16,display="Condensed Chorus
+    Fruit"}
+purified_Chorus_Fruit:
+  output:
+    type: MATERIAL
+    id: PURIFIED_CHORUS_FRUIT
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_CHORUS_FRUIT,amount=8,display="Enhanced Chorus
+    Fruit"}
+condensed_Bamboo:
+  output:
+    type: MATERIAL
+    id: CONDENSED_BAMBOO
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - vanilla{type=Bamboo,amount=256}
+enhanced_Bamboo:
+  output:
+    type: MATERIAL
+    id: ENHANCED_BAMBOO
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=CONDENSED_BAMBOO,amount=16,display="Condensed Bamboo"}
+purified_Bamboo:
+  output:
+    type: MATERIAL
+    id: PURIFIED_BAMBOO
+    amount: 1
+  crafting-time: 1
+  ingredients:
+  - mmoitem{type=MATERIAL,id=ENHANCED_BAMBOO,amount=8,display="Enhanced Bamboo"}

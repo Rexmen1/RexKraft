@@ -1,8 +1,8 @@
-'1':
+'3551':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Play for &3103 minutes."
+    - "&8 \xBB &7Play for &359 minutes."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f3x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Time Spender'
   name: Time Spender
   points: 3
-  required-playtime: 103
+  required-playtime: 59
   type: playtime

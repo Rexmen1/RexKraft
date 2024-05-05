@@ -1,0 +1,230 @@
+menu_title: '      &8&m-(*)-&8 Milestones &m-(*)-'
+open_command:
+- stonemilestones
+size: 54
+update_interval: 1
+items:
+  '10':
+    material: COAL_ORE
+    amount: 1
+    slot: 10
+    update: true
+    display_name: '&aCoal_ore Milestone 64'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-64%'
+    - ''
+    - '&7Rewards:'
+    - '  &f8x Tokens'
+    - '  &f1x Random Mystery Box'
+  '11':
+    material: COAL_ORE
+    amount: 2
+    slot: 11
+    update: true
+    display_name: '&aCoal_ore Milestone 128'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-128%'
+    - ''
+    - '&7Rewards:'
+    - '  &f16x Tokens'
+    - '  &f2x Random Mystery Box'
+  '12':
+    material: COAL_ORE
+    amount: 3
+    slot: 12
+    update: true
+    display_name: '&aCoal_ore Milestone 256'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-256%'
+    - ''
+    - '&7Rewards:'
+    - '  &f32x Tokens'
+    - '  &f3x Random Mystery Box'
+  '13':
+    material: COAL_ORE
+    amount: 4
+    slot: 13
+    update: true
+    display_name: '&aCoal_ore Milestone 512'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-512%'
+    - ''
+    - '&7Rewards:'
+    - '  &f64x Tokens'
+    - '  &f4x Random Mystery Box'
+  '14':
+    material: COAL_ORE
+    amount: 5
+    slot: 14
+    update: true
+    display_name: '&aCoal_ore Milestone 1024'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-1024%'
+    - ''
+    - '&7Rewards:'
+    - '  &f128x Tokens'
+    - '  &f5x Random Mystery Box'
+  '15':
+    material: COAL_ORE
+    amount: 6
+    slot: 15
+    update: true
+    display_name: '&aCoal_ore Milestone 2048'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-2048%'
+    - ''
+    - '&7Rewards:'
+    - '  &f256x Tokens'
+    - '  &f6x Random Mystery Box'
+  '16':
+    material: COAL_ORE
+    amount: 7
+    slot: 16
+    update: true
+    display_name: '&aCoal_ore Milestone 4096'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-4096%'
+    - ''
+    - '&7Rewards:'
+    - '  &f512x Tokens'
+    - '  &f7x Random Mystery Box'
+  '19':
+    material: COAL_ORE
+    amount: 8
+    slot: 19
+    update: true
+    display_name: '&aCoal_ore Milestone 8192'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-8192%'
+    - ''
+    - '&7Rewards:'
+    - '  &f1024x Tokens'
+    - '  &f8x Random Mystery Box'
+  '20':
+    material: COAL_ORE
+    amount: 9
+    slot: 20
+    update: true
+    display_name: '&aCoal_ore Milestone 16384'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-16384%'
+    - ''
+    - '&7Rewards:'
+    - '  &f2048x Tokens'
+    - '  &f9x Random Mystery Box'
+  '21':
+    material: COAL_ORE
+    amount: 10
+    slot: 21
+    update: true
+    display_name: '&aCoal_ore Milestone 32768'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-32768%'
+    - ''
+    - '&7Rewards:'
+    - '  &f4096x Tokens'
+    - '  &f10x Random Mystery Box'
+  '22':
+    material: COAL_ORE
+    amount: 11
+    slot: 22
+    update: true
+    display_name: '&aCoal_ore Milestone 65536'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-65536%'
+    - ''
+    - '&7Rewards:'
+    - '  &f8192x Tokens'
+    - '  &f11x Random Mystery Box'
+  '23':
+    material: COAL_ORE
+    amount: 12
+    slot: 23
+    update: true
+    display_name: '&aCoal_ore Milestone 131072'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-131072%'
+    - ''
+    - '&7Rewards:'
+    - '  &f16384x Tokens'
+    - '  &f12x Random Mystery Box'
+  '24':
+    material: COAL_ORE
+    amount: 13
+    slot: 24
+    update: true
+    display_name: '&aCoal_ore Milestone 262144'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-262144%'
+    - ''
+    - '&7Rewards:'
+    - '  &f32768x Tokens'
+    - '  &f13x Random Mystery Box'
+  '25':
+    material: COAL_ORE
+    amount: 14
+    slot: 25
+    update: true
+    display_name: '&aCoal_ore Milestone 524288'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Coal_Ore%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_COAL_ORE-524288%'
+    - ''
+    - '&7Rewards:'
+    - '  &f65536x Tokens'
+    - '  &f14x Random Mystery Box'
+  glass:
+    material: BLACK_STAINED_GLASS_PANE
+    slots:
+    - 0-9
+    - '17'
+    - '18'
+    - 26-48
+    - 50-53
+    display_name: '&r '
+  barrier:
+    material: barrier
+    slots:
+    - '49'
+    display_name: '&r '

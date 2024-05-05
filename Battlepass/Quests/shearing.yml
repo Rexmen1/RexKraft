@@ -1,8 +1,8 @@
-'1':
+'3301':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Shear &327 sheep."
+    - "&8 \xBB &7Shear &332 sheep."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Sheep Shearer'
   name: Sheep Shearer
   points: 4
-  required-progress: 27
+  required-progress: 32
   type: shear

@@ -1,9 +1,9 @@
-'1':
+'2251':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &350 Oak_Log &7Blocks."
+    - "&8 \xBB &7Mine &321 Oak_Log &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -14,205 +14,15 @@
     name: '&e&lQUEST:&f Oak_Log Miner'
   name: Oak_Log Miner
   points: 4
-  required-progress: 50
-  type: block-break
-  variable: Oak_Log
-'10':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &347 Andesite &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Andesite
-    name: '&e&lQUEST:&f Andesite Miner'
-  name: Andesite Miner
-  points: 4
-  required-progress: 47
-  type: block-break
-  variable: Andesite
-'11':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &326 Diorite &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Diorite
-    name: '&e&lQUEST:&f Diorite Miner'
-  name: Diorite Miner
-  points: 4
-  required-progress: 26
-  type: block-break
-  variable: Diorite
-'12':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &325 Fire_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Fire_Coral_Block
-    name: '&e&lQUEST:&f Fire_Coral_Block Miner'
-  name: Fire_Coral_Block Miner
-  points: 4
-  required-progress: 25
-  type: block-break
-  variable: Fire_Coral_Block
-'13':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &321 Bubble_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Bubble_Coral_Block
-    name: '&e&lQUEST:&f Bubble_Coral_Block Miner'
-  name: Bubble_Coral_Block Miner
-  points: 4
   required-progress: 21
   type: block-break
-  variable: Bubble_Coral_Block
-'14':
+  variable: Oak_Log
+'2252':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &336 Brain_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Brain_Coral_Block
-    name: '&e&lQUEST:&f Brain_Coral_Block Miner'
-  name: Brain_Coral_Block Miner
-  points: 4
-  required-progress: 36
-  type: block-break
-  variable: Brain_Coral_Block
-'15':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &326 Tube_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Tube_Coral_Block
-    name: '&e&lQUEST:&f Tube_Coral_Block Miner'
-  name: Tube_Coral_Block Miner
-  points: 4
-  required-progress: 26
-  type: block-break
-  variable: Tube_Coral_Block
-'16':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &325 Horn_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Horn_Coral_Block
-    name: '&e&lQUEST:&f Horn_Coral_Block Miner'
-  name: Horn_Coral_Block Miner
-  points: 4
-  required-progress: 25
-  type: block-break
-  variable: Horn_Coral_Block
-'17':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &316 Dead_Fire_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Dead_Fire_Coral_Block
-    name: '&e&lQUEST:&f Dead_Fire_Coral_Block Miner'
-  name: Dead_Fire_Coral_Block Miner
-  points: 4
-  required-progress: 16
-  type: block-break
-  variable: Dead_Fire_Coral_Block
-'18':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &352 Dead_Bubble_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Dead_Bubble_Coral_Block
-    name: '&e&lQUEST:&f Dead_Bubble_Coral_Block Miner'
-  name: Dead_Bubble_Coral_Block Miner
-  points: 4
-  required-progress: 52
-  type: block-break
-  variable: Dead_Bubble_Coral_Block
-'19':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &340 Dead_Brain_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Dead_Brain_Coral_Block
-    name: '&e&lQUEST:&f Dead_Brain_Coral_Block Miner'
-  name: Dead_Brain_Coral_Block Miner
-  points: 4
-  required-progress: 40
-  type: block-break
-  variable: Dead_Brain_Coral_Block
-'2':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &324 Birch_Log &7Blocks."
+    - "&8 \xBB &7Mine &321 Birch_Log &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -223,205 +33,15 @@
     name: '&e&lQUEST:&f Birch_Log Miner'
   name: Birch_Log Miner
   points: 4
-  required-progress: 24
+  required-progress: 21
   type: block-break
   variable: Birch_Log
-'20':
+'2253':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &346 Dead_Tube_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Dead_Tube_Coral_Block
-    name: '&e&lQUEST:&f Dead_Tube_Coral_Block Miner'
-  name: Dead_Tube_Coral_Block Miner
-  points: 4
-  required-progress: 46
-  type: block-break
-  variable: Dead_Tube_Coral_Block
-'21':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &336 Dead_Horn_Coral_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Dead_Horn_Coral_Block
-    name: '&e&lQUEST:&f Dead_Horn_Coral_Block Miner'
-  name: Dead_Horn_Coral_Block Miner
-  points: 4
-  required-progress: 36
-  type: block-break
-  variable: Dead_Horn_Coral_Block
-'22':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &326 End_Stone &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: End_Stone
-    name: '&e&lQUEST:&f End_Stone Miner'
-  name: End_Stone Miner
-  points: 4
-  required-progress: 26
-  type: block-break
-  variable: End_Stone
-'23':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &327 End_Stone_Bricks &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: End_Stone_Bricks
-    name: '&e&lQUEST:&f End_Stone_Bricks Miner'
-  name: End_Stone_Bricks Miner
-  points: 4
-  required-progress: 27
-  type: block-break
-  variable: End_Stone_Bricks
-'24':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &350 Purpur_Block &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Purpur_Block
-    name: '&e&lQUEST:&f Purpur_Block Miner'
-  name: Purpur_Block Miner
-  points: 4
-  required-progress: 50
-  type: block-break
-  variable: Purpur_Block
-'25':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &343 Obsidian &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Obsidian
-    name: '&e&lQUEST:&f Obsidian Miner'
-  name: Obsidian Miner
-  points: 4
-  required-progress: 43
-  type: block-break
-  variable: Obsidian
-'26':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &322 Pumpkin &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Pumpkin
-    name: '&e&lQUEST:&f Pumpkin Miner'
-  name: Pumpkin Miner
-  points: 4
-  required-progress: 22
-  type: block-break
-  variable: Pumpkin
-'27':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &323 Potato &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Potato
-    name: '&e&lQUEST:&f Potato Miner'
-  name: Potato Miner
-  points: 4
-  required-progress: 23
-  type: block-break
-  variable: Potato
-'28':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &339 Carrot &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Carrot
-    name: '&e&lQUEST:&f Carrot Miner'
-  name: Carrot Miner
-  points: 4
-  required-progress: 39
-  type: block-break
-  variable: Carrot
-'29':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &319 Beetroot &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Beetroot
-    name: '&e&lQUEST:&f Beetroot Miner'
-  name: Beetroot Miner
-  points: 4
-  required-progress: 19
-  type: block-break
-  variable: Beetroot
-'3':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &364 Jungle_Log &7Blocks."
+    - "&8 \xBB &7Mine &318 Jungle_Log &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -432,205 +52,15 @@
     name: '&e&lQUEST:&f Jungle_Log Miner'
   name: Jungle_Log Miner
   points: 4
-  required-progress: 64
+  required-progress: 18
   type: block-break
   variable: Jungle_Log
-'30':
+'2254':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &356 Sugar_Cane &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Sugar_Cane
-    name: '&e&lQUEST:&f Sugar_Cane Miner'
-  name: Sugar_Cane Miner
-  points: 4
-  required-progress: 56
-  type: block-break
-  variable: Sugar_Cane
-'31':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &329 Cactus &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Cactus
-    name: '&e&lQUEST:&f Cactus Miner'
-  name: Cactus Miner
-  points: 4
-  required-progress: 29
-  type: block-break
-  variable: Cactus
-'32':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &344 Nether_Wart &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Nether_Wart
-    name: '&e&lQUEST:&f Nether_Wart Miner'
-  name: Nether_Wart Miner
-  points: 4
-  required-progress: 44
-  type: block-break
-  variable: Nether_Wart
-'33':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &339 Cocoa_Beans &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Cocoa_Beans
-    name: '&e&lQUEST:&f Cocoa_Beans Miner'
-  name: Cocoa_Beans Miner
-  points: 4
-  required-progress: 39
-  type: block-break
-  variable: Cocoa_Beans
-'34':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &349 Bamboo &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Bamboo
-    name: '&e&lQUEST:&f Bamboo Miner'
-  name: Bamboo Miner
-  points: 4
-  required-progress: 49
-  type: block-break
-  variable: Bamboo
-'35':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &360 Melon &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Melon
-    name: '&e&lQUEST:&f Melon Miner'
-  name: Melon Miner
-  points: 4
-  required-progress: 60
-  type: block-break
-  variable: Melon
-'36':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &362 Basalt &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Basalt
-    name: '&e&lQUEST:&f Basalt Miner'
-  name: Basalt Miner
-  points: 4
-  required-progress: 62
-  type: block-break
-  variable: Basalt
-'37':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &343 Blackstone &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Blackstone
-    name: '&e&lQUEST:&f Blackstone Miner'
-  name: Blackstone Miner
-  points: 4
-  required-progress: 43
-  type: block-break
-  variable: Blackstone
-'38':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &341 Nether_Bricks &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Nether_Bricks
-    name: '&e&lQUEST:&f Nether_Bricks Miner'
-  name: Nether_Bricks Miner
-  points: 4
-  required-progress: 41
-  type: block-break
-  variable: Nether_Bricks
-'39':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &356 Soul_Sand &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Soul_Sand
-    name: '&e&lQUEST:&f Soul_Sand Miner'
-  name: Soul_Sand Miner
-  points: 4
-  required-progress: 56
-  type: block-break
-  variable: Soul_Sand
-'4':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &347 Spruce_Log &7Blocks."
+    - "&8 \xBB &7Mine &332 Spruce_Log &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -641,205 +71,15 @@
     name: '&e&lQUEST:&f Spruce_Log Miner'
   name: Spruce_Log Miner
   points: 4
-  required-progress: 47
+  required-progress: 32
   type: block-break
   variable: Spruce_Log
-'40':
+'2255':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &348 Soul_Soil &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Soul_Soil
-    name: '&e&lQUEST:&f Soul_Soil Miner'
-  name: Soul_Soil Miner
-  points: 4
-  required-progress: 48
-  type: block-break
-  variable: Soul_Soil
-'41':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &349 Shroomlight &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Shroomlight
-    name: '&e&lQUEST:&f Shroomlight Miner'
-  name: Shroomlight Miner
-  points: 4
-  required-progress: 49
-  type: block-break
-  variable: Shroomlight
-'42':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &347 Nether_Gold_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Nether_Gold_Ore
-    name: '&e&lQUEST:&f Nether_Gold_Ore Miner'
-  name: Nether_Gold_Ore Miner
-  points: 4
-  required-progress: 47
-  type: block-break
-  variable: Nether_Gold_Ore
-'43':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &362 Nether_Quartz_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Nether_Quartz_Ore
-    name: '&e&lQUEST:&f Nether_Quartz_Ore Miner'
-  name: Nether_Quartz_Ore Miner
-  points: 4
-  required-progress: 62
-  type: block-break
-  variable: Nether_Quartz_Ore
-'44':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &317 Netherrack &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Netherrack
-    name: '&e&lQUEST:&f Netherrack Miner'
-  name: Netherrack Miner
-  points: 4
-  required-progress: 17
-  type: block-break
-  variable: Netherrack
-'45':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &352 Calcite &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Calcite
-    name: '&e&lQUEST:&f Calcite Miner'
-  name: Calcite Miner
-  points: 4
-  required-progress: 52
-  type: block-break
-  variable: Calcite
-'46':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &363 Deepslate &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Deepslate
-    name: '&e&lQUEST:&f Deepslate Miner'
-  name: Deepslate Miner
-  points: 4
-  required-progress: 63
-  type: block-break
-  variable: Deepslate
-'47':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &359 Tuff &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Tuff
-    name: '&e&lQUEST:&f Tuff Miner'
-  name: Tuff Miner
-  points: 4
-  required-progress: 59
-  type: block-break
-  variable: Tuff
-'48':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &358 Coal_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Coal_Ore
-    name: '&e&lQUEST:&f Coal_Ore Miner'
-  name: Coal_Ore Miner
-  points: 4
-  required-progress: 58
-  type: block-break
-  variable: Coal_Ore
-'49':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &330 Redstone_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Redstone_Ore
-    name: '&e&lQUEST:&f Redstone_Ore Miner'
-  name: Redstone_Ore Miner
-  points: 4
-  required-progress: 30
-  type: block-break
-  variable: Redstone_Ore
-'5':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &339 Dark_Oak_Log &7Blocks."
+    - "&8 \xBB &7Mine &348 Dark_Oak_Log &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -850,205 +90,15 @@
     name: '&e&lQUEST:&f Dark_Oak_Log Miner'
   name: Dark_Oak_Log Miner
   points: 4
-  required-progress: 39
+  required-progress: 48
   type: block-break
   variable: Dark_Oak_Log
-'50':
+'2256':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &341 Lapis_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Lapis_Ore
-    name: '&e&lQUEST:&f Lapis_Ore Miner'
-  name: Lapis_Ore Miner
-  points: 4
-  required-progress: 41
-  type: block-break
-  variable: Lapis_Ore
-'51':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &346 Iron_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Iron_Ore
-    name: '&e&lQUEST:&f Iron_Ore Miner'
-  name: Iron_Ore Miner
-  points: 4
-  required-progress: 46
-  type: block-break
-  variable: Iron_Ore
-'52':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &344 Gold_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Gold_Ore
-    name: '&e&lQUEST:&f Gold_Ore Miner'
-  name: Gold_Ore Miner
-  points: 4
-  required-progress: 44
-  type: block-break
-  variable: Gold_Ore
-'53':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &347 Copper_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Copper_Ore
-    name: '&e&lQUEST:&f Copper_Ore Miner'
-  name: Copper_Ore Miner
-  points: 4
-  required-progress: 47
-  type: block-break
-  variable: Copper_Ore
-'54':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &351 Deepslate_Redstone_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Deepslate_Redstone_Ore
-    name: '&e&lQUEST:&f Deepslate_Redstone_Ore Miner'
-  name: Deepslate_Redstone_Ore Miner
-  points: 4
-  required-progress: 51
-  type: block-break
-  variable: Deepslate_Redstone_Ore
-'55':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &343 Deepslate_Lapis_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Deepslate_Lapis_Ore
-    name: '&e&lQUEST:&f Deepslate_Lapis_Ore Miner'
-  name: Deepslate_Lapis_Ore Miner
-  points: 4
-  required-progress: 43
-  type: block-break
-  variable: Deepslate_Lapis_Ore
-'56':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &358 Deepslate_Iron_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Deepslate_Iron_Ore
-    name: '&e&lQUEST:&f Deepslate_Iron_Ore Miner'
-  name: Deepslate_Iron_Ore Miner
-  points: 4
-  required-progress: 58
-  type: block-break
-  variable: Deepslate_Iron_Ore
-'57':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &351 Deepslate_Gold_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Deepslate_Gold_Ore
-    name: '&e&lQUEST:&f Deepslate_Gold_Ore Miner'
-  name: Deepslate_Gold_Ore Miner
-  points: 4
-  required-progress: 51
-  type: block-break
-  variable: Deepslate_Gold_Ore
-'58':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &321 Deepslate_Copper_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Deepslate_Copper_Ore
-    name: '&e&lQUEST:&f Deepslate_Copper_Ore Miner'
-  name: Deepslate_Copper_Ore Miner
-  points: 4
-  required-progress: 21
-  type: block-break
-  variable: Deepslate_Copper_Ore
-'59':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &362 Deepslate_Diamond_Ore &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Deepslate_Diamond_Ore
-    name: '&e&lQUEST:&f Deepslate_Diamond_Ore Miner'
-  name: Deepslate_Diamond_Ore Miner
-  points: 4
-  required-progress: 62
-  type: block-break
-  variable: Deepslate_Diamond_Ore
-'6':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &333 Acacia_Log &7Blocks."
+    - "&8 \xBB &7Mine &317 Acacia_Log &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1059,15 +109,1022 @@
     name: '&e&lQUEST:&f Acacia_Log Miner'
   name: Acacia_Log Miner
   points: 4
-  required-progress: 33
+  required-progress: 17
   type: block-break
   variable: Acacia_Log
-'60':
+'2257':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &316 Orange_Terracotta &7Blocks."
+    - "&8 \xBB &7Mine &316 Mangrove_Log &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Mangrove_Log
+    name: '&e&lQUEST:&f Mangrove_Log Miner'
+  name: Mangrove_Log Miner
+  points: 4
+  required-progress: 16
+  type: block-break
+  variable: Mangrove_Log
+'2258':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &339 Cherry_Log &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cherry_Log
+    name: '&e&lQUEST:&f Cherry_Log Miner'
+  name: Cherry_Log Miner
+  points: 4
+  required-progress: 39
+  type: block-break
+  variable: Cherry_Log
+'2259':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &345 Stone &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Stone
+    name: '&e&lQUEST:&f Stone Miner'
+  name: Stone Miner
+  points: 4
+  required-progress: 45
+  type: block-break
+  variable: Stone
+'2260':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &341 Andesite &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Andesite
+    name: '&e&lQUEST:&f Andesite Miner'
+  name: Andesite Miner
+  points: 4
+  required-progress: 41
+  type: block-break
+  variable: Andesite
+'2261':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &318 Diorite &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Diorite
+    name: '&e&lQUEST:&f Diorite Miner'
+  name: Diorite Miner
+  points: 4
+  required-progress: 18
+  type: block-break
+  variable: Diorite
+'2262':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &317 Fire_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Fire_Coral_Block
+    name: '&e&lQUEST:&f Fire_Coral_Block Miner'
+  name: Fire_Coral_Block Miner
+  points: 4
+  required-progress: 17
+  type: block-break
+  variable: Fire_Coral_Block
+'2263':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &316 Bubble_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Bubble_Coral_Block
+    name: '&e&lQUEST:&f Bubble_Coral_Block Miner'
+  name: Bubble_Coral_Block Miner
+  points: 4
+  required-progress: 16
+  type: block-break
+  variable: Bubble_Coral_Block
+'2264':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &347 Brain_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Brain_Coral_Block
+    name: '&e&lQUEST:&f Brain_Coral_Block Miner'
+  name: Brain_Coral_Block Miner
+  points: 4
+  required-progress: 47
+  type: block-break
+  variable: Brain_Coral_Block
+'2265':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &354 Tube_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Tube_Coral_Block
+    name: '&e&lQUEST:&f Tube_Coral_Block Miner'
+  name: Tube_Coral_Block Miner
+  points: 4
+  required-progress: 54
+  type: block-break
+  variable: Tube_Coral_Block
+'2266':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &330 Horn_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Horn_Coral_Block
+    name: '&e&lQUEST:&f Horn_Coral_Block Miner'
+  name: Horn_Coral_Block Miner
+  points: 4
+  required-progress: 30
+  type: block-break
+  variable: Horn_Coral_Block
+'2267':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &357 Dead_Fire_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Fire_Coral_Block
+    name: '&e&lQUEST:&f Dead_Fire_Coral_Block Miner'
+  name: Dead_Fire_Coral_Block Miner
+  points: 4
+  required-progress: 57
+  type: block-break
+  variable: Dead_Fire_Coral_Block
+'2268':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &324 Dead_Bubble_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Bubble_Coral_Block
+    name: '&e&lQUEST:&f Dead_Bubble_Coral_Block Miner'
+  name: Dead_Bubble_Coral_Block Miner
+  points: 4
+  required-progress: 24
+  type: block-break
+  variable: Dead_Bubble_Coral_Block
+'2269':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &361 Dead_Brain_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Brain_Coral_Block
+    name: '&e&lQUEST:&f Dead_Brain_Coral_Block Miner'
+  name: Dead_Brain_Coral_Block Miner
+  points: 4
+  required-progress: 61
+  type: block-break
+  variable: Dead_Brain_Coral_Block
+'2270':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &339 Dead_Tube_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Tube_Coral_Block
+    name: '&e&lQUEST:&f Dead_Tube_Coral_Block Miner'
+  name: Dead_Tube_Coral_Block Miner
+  points: 4
+  required-progress: 39
+  type: block-break
+  variable: Dead_Tube_Coral_Block
+'2271':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &330 Dead_Horn_Coral_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dead_Horn_Coral_Block
+    name: '&e&lQUEST:&f Dead_Horn_Coral_Block Miner'
+  name: Dead_Horn_Coral_Block Miner
+  points: 4
+  required-progress: 30
+  type: block-break
+  variable: Dead_Horn_Coral_Block
+'2272':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &318 End_Stone &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: End_Stone
+    name: '&e&lQUEST:&f End_Stone Miner'
+  name: End_Stone Miner
+  points: 4
+  required-progress: 18
+  type: block-break
+  variable: End_Stone
+'2273':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &336 End_Stone_Bricks &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: End_Stone_Bricks
+    name: '&e&lQUEST:&f End_Stone_Bricks Miner'
+  name: End_Stone_Bricks Miner
+  points: 4
+  required-progress: 36
+  type: block-break
+  variable: End_Stone_Bricks
+'2274':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &342 Purpur_Block &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Purpur_Block
+    name: '&e&lQUEST:&f Purpur_Block Miner'
+  name: Purpur_Block Miner
+  points: 4
+  required-progress: 42
+  type: block-break
+  variable: Purpur_Block
+'2275':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &327 Obsidian &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Obsidian
+    name: '&e&lQUEST:&f Obsidian Miner'
+  name: Obsidian Miner
+  points: 4
+  required-progress: 27
+  type: block-break
+  variable: Obsidian
+'2276':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &349 Pumpkin &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Pumpkin
+    name: '&e&lQUEST:&f Pumpkin Miner'
+  name: Pumpkin Miner
+  points: 4
+  required-progress: 49
+  type: block-break
+  variable: Pumpkin
+'2277':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &339 Potato &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Potato
+    name: '&e&lQUEST:&f Potato Miner'
+  name: Potato Miner
+  points: 4
+  required-progress: 39
+  type: block-break
+  variable: Potato
+'2278':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &360 Carrot &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Carrot
+    name: '&e&lQUEST:&f Carrot Miner'
+  name: Carrot Miner
+  points: 4
+  required-progress: 60
+  type: block-break
+  variable: Carrot
+'2279':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &361 Beetroot &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Beetroot
+    name: '&e&lQUEST:&f Beetroot Miner'
+  name: Beetroot Miner
+  points: 4
+  required-progress: 61
+  type: block-break
+  variable: Beetroot
+'2280':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &360 Sugar_Cane &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Sugar_Cane
+    name: '&e&lQUEST:&f Sugar_Cane Miner'
+  name: Sugar_Cane Miner
+  points: 4
+  required-progress: 60
+  type: block-break
+  variable: Sugar_Cane
+'2281':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &333 Cactus &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cactus
+    name: '&e&lQUEST:&f Cactus Miner'
+  name: Cactus Miner
+  points: 4
+  required-progress: 33
+  type: block-break
+  variable: Cactus
+'2282':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &347 Nether_Wart &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Nether_Wart
+    name: '&e&lQUEST:&f Nether_Wart Miner'
+  name: Nether_Wart Miner
+  points: 4
+  required-progress: 47
+  type: block-break
+  variable: Nether_Wart
+'2283':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &328 Cocoa_Beans &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cocoa_Beans
+    name: '&e&lQUEST:&f Cocoa_Beans Miner'
+  name: Cocoa_Beans Miner
+  points: 4
+  required-progress: 28
+  type: block-break
+  variable: Cocoa_Beans
+'2284':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &328 Bamboo &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Bamboo
+    name: '&e&lQUEST:&f Bamboo Miner'
+  name: Bamboo Miner
+  points: 4
+  required-progress: 28
+  type: block-break
+  variable: Bamboo
+'2285':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &349 Melon &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Melon
+    name: '&e&lQUEST:&f Melon Miner'
+  name: Melon Miner
+  points: 4
+  required-progress: 49
+  type: block-break
+  variable: Melon
+'2286':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &336 Basalt &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Basalt
+    name: '&e&lQUEST:&f Basalt Miner'
+  name: Basalt Miner
+  points: 4
+  required-progress: 36
+  type: block-break
+  variable: Basalt
+'2287':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &325 Blackstone &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Blackstone
+    name: '&e&lQUEST:&f Blackstone Miner'
+  name: Blackstone Miner
+  points: 4
+  required-progress: 25
+  type: block-break
+  variable: Blackstone
+'2288':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &325 Nether_Bricks &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Nether_Bricks
+    name: '&e&lQUEST:&f Nether_Bricks Miner'
+  name: Nether_Bricks Miner
+  points: 4
+  required-progress: 25
+  type: block-break
+  variable: Nether_Bricks
+'2289':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &360 Soul_Sand &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Soul_Sand
+    name: '&e&lQUEST:&f Soul_Sand Miner'
+  name: Soul_Sand Miner
+  points: 4
+  required-progress: 60
+  type: block-break
+  variable: Soul_Sand
+'2290':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &333 Soul_Soil &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Soul_Soil
+    name: '&e&lQUEST:&f Soul_Soil Miner'
+  name: Soul_Soil Miner
+  points: 4
+  required-progress: 33
+  type: block-break
+  variable: Soul_Soil
+'2291':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &358 Shroomlight &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Shroomlight
+    name: '&e&lQUEST:&f Shroomlight Miner'
+  name: Shroomlight Miner
+  points: 4
+  required-progress: 58
+  type: block-break
+  variable: Shroomlight
+'2292':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &349 Nether_Gold_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Nether_Gold_Ore
+    name: '&e&lQUEST:&f Nether_Gold_Ore Miner'
+  name: Nether_Gold_Ore Miner
+  points: 4
+  required-progress: 49
+  type: block-break
+  variable: Nether_Gold_Ore
+'2293':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &327 Nether_Quartz_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Nether_Quartz_Ore
+    name: '&e&lQUEST:&f Nether_Quartz_Ore Miner'
+  name: Nether_Quartz_Ore Miner
+  points: 4
+  required-progress: 27
+  type: block-break
+  variable: Nether_Quartz_Ore
+'2294':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &354 Netherrack &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Netherrack
+    name: '&e&lQUEST:&f Netherrack Miner'
+  name: Netherrack Miner
+  points: 4
+  required-progress: 54
+  type: block-break
+  variable: Netherrack
+'2295':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &342 Calcite &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Calcite
+    name: '&e&lQUEST:&f Calcite Miner'
+  name: Calcite Miner
+  points: 4
+  required-progress: 42
+  type: block-break
+  variable: Calcite
+'2296':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &321 Deepslate &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate
+    name: '&e&lQUEST:&f Deepslate Miner'
+  name: Deepslate Miner
+  points: 4
+  required-progress: 21
+  type: block-break
+  variable: Deepslate
+'2297':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &346 Tuff &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Tuff
+    name: '&e&lQUEST:&f Tuff Miner'
+  name: Tuff Miner
+  points: 4
+  required-progress: 46
+  type: block-break
+  variable: Tuff
+'2298':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &356 Coal_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Coal_Ore
+    name: '&e&lQUEST:&f Coal_Ore Miner'
+  name: Coal_Ore Miner
+  points: 4
+  required-progress: 56
+  type: block-break
+  variable: Coal_Ore
+'2299':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &349 Redstone_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Redstone_Ore
+    name: '&e&lQUEST:&f Redstone_Ore Miner'
+  name: Redstone_Ore Miner
+  points: 4
+  required-progress: 49
+  type: block-break
+  variable: Redstone_Ore
+'2300':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &325 Lapis_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Lapis_Ore
+    name: '&e&lQUEST:&f Lapis_Ore Miner'
+  name: Lapis_Ore Miner
+  points: 4
+  required-progress: 25
+  type: block-break
+  variable: Lapis_Ore
+'2301':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &340 Iron_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Iron_Ore
+    name: '&e&lQUEST:&f Iron_Ore Miner'
+  name: Iron_Ore Miner
+  points: 4
+  required-progress: 40
+  type: block-break
+  variable: Iron_Ore
+'2302':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &323 Gold_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Gold_Ore
+    name: '&e&lQUEST:&f Gold_Ore Miner'
+  name: Gold_Ore Miner
+  points: 4
+  required-progress: 23
+  type: block-break
+  variable: Gold_Ore
+'2303':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &328 Copper_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Copper_Ore
+    name: '&e&lQUEST:&f Copper_Ore Miner'
+  name: Copper_Ore Miner
+  points: 4
+  required-progress: 28
+  type: block-break
+  variable: Copper_Ore
+'2304':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &344 Deepslate_Redstone_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Redstone_Ore
+    name: '&e&lQUEST:&f Deepslate_Redstone_Ore Miner'
+  name: Deepslate_Redstone_Ore Miner
+  points: 4
+  required-progress: 44
+  type: block-break
+  variable: Deepslate_Redstone_Ore
+'2305':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &319 Deepslate_Lapis_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Lapis_Ore
+    name: '&e&lQUEST:&f Deepslate_Lapis_Ore Miner'
+  name: Deepslate_Lapis_Ore Miner
+  points: 4
+  required-progress: 19
+  type: block-break
+  variable: Deepslate_Lapis_Ore
+'2306':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &321 Deepslate_Iron_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Iron_Ore
+    name: '&e&lQUEST:&f Deepslate_Iron_Ore Miner'
+  name: Deepslate_Iron_Ore Miner
+  points: 4
+  required-progress: 21
+  type: block-break
+  variable: Deepslate_Iron_Ore
+'2307':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &343 Deepslate_Gold_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Gold_Ore
+    name: '&e&lQUEST:&f Deepslate_Gold_Ore Miner'
+  name: Deepslate_Gold_Ore Miner
+  points: 4
+  required-progress: 43
+  type: block-break
+  variable: Deepslate_Gold_Ore
+'2308':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &351 Deepslate_Copper_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Copper_Ore
+    name: '&e&lQUEST:&f Deepslate_Copper_Ore Miner'
+  name: Deepslate_Copper_Ore Miner
+  points: 4
+  required-progress: 51
+  type: block-break
+  variable: Deepslate_Copper_Ore
+'2309':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &323 Deepslate_Diamond_Ore &7Blocks."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Deepslate_Diamond_Ore
+    name: '&e&lQUEST:&f Deepslate_Diamond_Ore Miner'
+  name: Deepslate_Diamond_Ore Miner
+  points: 4
+  required-progress: 23
+  type: block-break
+  variable: Deepslate_Diamond_Ore
+'2310':
+  anti-abuse: true
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Mine &352 Orange_Terracotta &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1078,15 +1135,15 @@
     name: '&e&lQUEST:&f Orange_Terracotta Miner'
   name: Orange_Terracotta Miner
   points: 4
-  required-progress: 16
+  required-progress: 52
   type: block-break
   variable: Orange_Terracotta
-'61':
+'2311':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &360 White_Terracotta &7Blocks."
+    - "&8 \xBB &7Mine &336 White_Terracotta &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1097,15 +1154,15 @@
     name: '&e&lQUEST:&f White_Terracotta Miner'
   name: White_Terracotta Miner
   points: 4
-  required-progress: 60
+  required-progress: 36
   type: block-break
   variable: White_Terracotta
-'62':
+'2312':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &326 Yellow_Terracotta &7Blocks."
+    - "&8 \xBB &7Mine &344 Yellow_Terracotta &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1116,15 +1173,15 @@
     name: '&e&lQUEST:&f Yellow_Terracotta Miner'
   name: Yellow_Terracotta Miner
   points: 4
-  required-progress: 26
+  required-progress: 44
   type: block-break
   variable: Yellow_Terracotta
-'63':
+'2313':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &324 Light_Gray_Terracotta &7Blocks."
+    - "&8 \xBB &7Mine &357 Light_Gray_Terracotta &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1135,10 +1192,10 @@
     name: '&e&lQUEST:&f Light_Gray_Terracotta Miner'
   name: Light_Gray_Terracotta Miner
   points: 4
-  required-progress: 24
+  required-progress: 57
   type: block-break
   variable: Light_Gray_Terracotta
-'64':
+'2314':
   anti-abuse: true
   item:
     lore:
@@ -1157,12 +1214,12 @@
   required-progress: 46
   type: block-break
   variable: Brown_Terracotta
-'65':
+'2315':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &356 Red_Terracotta &7Blocks."
+    - "&8 \xBB &7Mine &364 Red_Terracotta &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1173,15 +1230,15 @@
     name: '&e&lQUEST:&f Red_Terracotta Miner'
   name: Red_Terracotta Miner
   points: 4
-  required-progress: 56
+  required-progress: 64
   type: block-break
   variable: Red_Terracotta
-'66':
+'2316':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &340 Terracotta &7Blocks."
+    - "&8 \xBB &7Mine &344 Terracotta &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1192,15 +1249,15 @@
     name: '&e&lQUEST:&f Terracotta Miner'
   name: Terracotta Miner
   points: 4
-  required-progress: 40
+  required-progress: 44
   type: block-break
   variable: Terracotta
-'67':
+'2317':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &335 Black_Terracotta &7Blocks."
+    - "&8 \xBB &7Mine &355 Black_Terracotta &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1211,15 +1268,15 @@
     name: '&e&lQUEST:&f Black_Terracotta Miner'
   name: Black_Terracotta Miner
   points: 4
-  required-progress: 35
+  required-progress: 55
   type: block-break
   variable: Black_Terracotta
-'68':
+'2318':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &363 Mangrove_Log &7Blocks."
+    - "&8 \xBB &7Mine &349 Mangrove_Log &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1230,15 +1287,15 @@
     name: '&e&lQUEST:&f Mangrove_Log Miner'
   name: Mangrove_Log Miner
   points: 4
-  required-progress: 63
+  required-progress: 49
   type: block-break
   variable: Mangrove_Log
-'69':
+'2319':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &347 Mangrove_Leaves &7Blocks."
+    - "&8 \xBB &7Mine &316 Mangrove_Leaves &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1249,34 +1306,15 @@
     name: '&e&lQUEST:&f Mangrove_Leaves Miner'
   name: Mangrove_Leaves Miner
   points: 4
-  required-progress: 47
+  required-progress: 16
   type: block-break
   variable: Mangrove_Leaves
-'7':
+'2320':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &324 Mangrove_Log &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Mangrove_Log
-    name: '&e&lQUEST:&f Mangrove_Log Miner'
-  name: Mangrove_Log Miner
-  points: 4
-  required-progress: 24
-  type: block-break
-  variable: Mangrove_Log
-'70':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &335 Deepslate_Coal_Ore &7Blocks."
+    - "&8 \xBB &7Mine &321 Deepslate_Coal_Ore &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1287,15 +1325,15 @@
     name: '&e&lQUEST:&f Deepslate_Coal_Ore Miner'
   name: Deepslate_Coal_Ore Miner
   points: 4
-  required-progress: 35
+  required-progress: 21
   type: block-break
   variable: Deepslate_Coal_Ore
-'71':
+'2321':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &329 Fire_Coral &7Blocks."
+    - "&8 \xBB &7Mine &355 Fire_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1306,15 +1344,15 @@
     name: '&e&lQUEST:&f Fire_Coral Miner'
   name: Fire_Coral Miner
   points: 4
-  required-progress: 29
+  required-progress: 55
   type: block-break
   variable: Fire_Coral
-'72':
+'2322':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &336 Bubble_Coral &7Blocks."
+    - "&8 \xBB &7Mine &316 Bubble_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1325,15 +1363,15 @@
     name: '&e&lQUEST:&f Bubble_Coral Miner'
   name: Bubble_Coral Miner
   points: 4
-  required-progress: 36
+  required-progress: 16
   type: block-break
   variable: Bubble_Coral
-'73':
+'2323':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &363 Brain_Coral &7Blocks."
+    - "&8 \xBB &7Mine &353 Brain_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1344,15 +1382,15 @@
     name: '&e&lQUEST:&f Brain_Coral Miner'
   name: Brain_Coral Miner
   points: 4
-  required-progress: 63
+  required-progress: 53
   type: block-break
   variable: Brain_Coral
-'74':
+'2324':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &334 Tube_Coral &7Blocks."
+    - "&8 \xBB &7Mine &320 Tube_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1363,15 +1401,15 @@
     name: '&e&lQUEST:&f Tube_Coral Miner'
   name: Tube_Coral Miner
   points: 4
-  required-progress: 34
+  required-progress: 20
   type: block-break
   variable: Tube_Coral
-'75':
+'2325':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &340 Horn_Coral &7Blocks."
+    - "&8 \xBB &7Mine &330 Horn_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1382,15 +1420,15 @@
     name: '&e&lQUEST:&f Horn_Coral Miner'
   name: Horn_Coral Miner
   points: 4
-  required-progress: 40
+  required-progress: 30
   type: block-break
   variable: Horn_Coral
-'76':
+'2326':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &348 Dead_Fire_Coral &7Blocks."
+    - "&8 \xBB &7Mine &350 Dead_Fire_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1401,15 +1439,15 @@
     name: '&e&lQUEST:&f Dead_Fire_Coral Miner'
   name: Dead_Fire_Coral Miner
   points: 4
-  required-progress: 48
+  required-progress: 50
   type: block-break
   variable: Dead_Fire_Coral
-'77':
+'2327':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &350 Dead_Bubble_Coral &7Blocks."
+    - "&8 \xBB &7Mine &328 Dead_Bubble_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1420,15 +1458,15 @@
     name: '&e&lQUEST:&f Dead_Bubble_Coral Miner'
   name: Dead_Bubble_Coral Miner
   points: 4
-  required-progress: 50
+  required-progress: 28
   type: block-break
   variable: Dead_Bubble_Coral
-'78':
+'2328':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &344 Dead_Brain_Coral &7Blocks."
+    - "&8 \xBB &7Mine &362 Dead_Brain_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1439,15 +1477,15 @@
     name: '&e&lQUEST:&f Dead_Brain_Coral Miner'
   name: Dead_Brain_Coral Miner
   points: 4
-  required-progress: 44
+  required-progress: 62
   type: block-break
   variable: Dead_Brain_Coral
-'79':
+'2329':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &339 Dead_Tube_Coral &7Blocks."
+    - "&8 \xBB &7Mine &345 Dead_Tube_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1458,34 +1496,15 @@
     name: '&e&lQUEST:&f Dead_Tube_Coral Miner'
   name: Dead_Tube_Coral Miner
   points: 4
-  required-progress: 39
+  required-progress: 45
   type: block-break
   variable: Dead_Tube_Coral
-'8':
+'2330':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &364 Cherry_Log &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Cherry_Log
-    name: '&e&lQUEST:&f Cherry_Log Miner'
-  name: Cherry_Log Miner
-  points: 4
-  required-progress: 64
-  type: block-break
-  variable: Cherry_Log
-'80':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &338 Dead_Horn_Coral &7Blocks."
+    - "&8 \xBB &7Mine &325 Dead_Horn_Coral &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1496,15 +1515,15 @@
     name: '&e&lQUEST:&f Dead_Horn_Coral Miner'
   name: Dead_Horn_Coral Miner
   points: 4
-  required-progress: 38
+  required-progress: 25
   type: block-break
   variable: Dead_Horn_Coral
-'81':
+'2331':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &349 Fire_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &361 Fire_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1515,15 +1534,15 @@
     name: '&e&lQUEST:&f Fire_Coral_Fan Miner'
   name: Fire_Coral_Fan Miner
   points: 4
-  required-progress: 49
+  required-progress: 61
   type: block-break
   variable: Fire_Coral_Fan
-'82':
+'2332':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &361 Bubble_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &346 Bubble_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1534,15 +1553,15 @@
     name: '&e&lQUEST:&f Bubble_Coral_Fan Miner'
   name: Bubble_Coral_Fan Miner
   points: 4
-  required-progress: 61
+  required-progress: 46
   type: block-break
   variable: Bubble_Coral_Fan
-'83':
+'2333':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &342 Brain_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &317 Brain_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1553,15 +1572,15 @@
     name: '&e&lQUEST:&f Brain_Coral_Fan Miner'
   name: Brain_Coral_Fan Miner
   points: 4
-  required-progress: 42
+  required-progress: 17
   type: block-break
   variable: Brain_Coral_Fan
-'84':
+'2334':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &341 Tube_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &323 Tube_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1572,15 +1591,15 @@
     name: '&e&lQUEST:&f Tube_Coral_Fan Miner'
   name: Tube_Coral_Fan Miner
   points: 4
-  required-progress: 41
+  required-progress: 23
   type: block-break
   variable: Tube_Coral_Fan
-'85':
+'2335':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &320 Horn_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &321 Horn_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1591,15 +1610,15 @@
     name: '&e&lQUEST:&f Horn_Coral_Fan Miner'
   name: Horn_Coral_Fan Miner
   points: 4
-  required-progress: 20
+  required-progress: 21
   type: block-break
   variable: Horn_Coral_Fan
-'86':
+'2336':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &349 Dead_Fire_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &344 Dead_Fire_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1610,15 +1629,15 @@
     name: '&e&lQUEST:&f Dead_Fire_Coral_Fan Miner'
   name: Dead_Fire_Coral_Fan Miner
   points: 4
-  required-progress: 49
+  required-progress: 44
   type: block-break
   variable: Dead_Fire_Coral_Fan
-'87':
+'2337':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &323 Dead_Bubble_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &318 Dead_Bubble_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1629,15 +1648,15 @@
     name: '&e&lQUEST:&f Dead_Bubble_Coral_Fan Miner'
   name: Dead_Bubble_Coral_Fan Miner
   points: 4
-  required-progress: 23
+  required-progress: 18
   type: block-break
   variable: Dead_Bubble_Coral_Fan
-'88':
+'2338':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &352 Dead_Brain_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &357 Dead_Brain_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1648,15 +1667,15 @@
     name: '&e&lQUEST:&f Dead_Brain_Coral_Fan Miner'
   name: Dead_Brain_Coral_Fan Miner
   points: 4
-  required-progress: 52
+  required-progress: 57
   type: block-break
   variable: Dead_Brain_Coral_Fan
-'89':
+'2339':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &325 Dead_Tube_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &324 Dead_Tube_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1667,34 +1686,15 @@
     name: '&e&lQUEST:&f Dead_Tube_Coral_Fan Miner'
   name: Dead_Tube_Coral_Fan Miner
   points: 4
-  required-progress: 25
+  required-progress: 24
   type: block-break
   variable: Dead_Tube_Coral_Fan
-'9':
+'2340':
   anti-abuse: true
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &361 Stone &7Blocks."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Stone
-    name: '&e&lQUEST:&f Stone Miner'
-  name: Stone Miner
-  points: 4
-  required-progress: 61
-  type: block-break
-  variable: Stone
-'90':
-  anti-abuse: true
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Mine &348 Dead_Horn_Coral_Fan &7Blocks."
+    - "&8 \xBB &7Mine &353 Dead_Horn_Coral_Fan &7Blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -1705,6 +1705,6 @@
     name: '&e&lQUEST:&f Dead_Horn_Coral_Fan Miner'
   name: Dead_Horn_Coral_Fan Miner
   points: 4
-  required-progress: 48
+  required-progress: 53
   type: block-break
   variable: Dead_Horn_Coral_Fan

@@ -1,0 +1,255 @@
+FISH-16:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 16'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b1&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 16 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 4x Tokens'
+    - 'centered_message:  &7- 1x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 4'
+    - 'console_command: voucher give randombp 1 %player%'
+FISH-32:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 32'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b2&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 32 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 8x Tokens'
+    - 'centered_message:  &7- 2x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 8'
+    - 'console_command: voucher give randombp 2 %player%'
+FISH-64:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 64'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b3&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 64 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 16x Tokens'
+    - 'centered_message:  &7- 3x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 16'
+    - 'console_command: voucher give randombp 3 %player%'
+FISH-128:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 128'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b4&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 128 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 32x Tokens'
+    - 'centered_message:  &7- 4x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 32'
+    - 'console_command: voucher give randombp 4 %player%'
+FISH-256:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 256'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b5&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 256 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 64x Tokens'
+    - 'centered_message:  &7- 5x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 64'
+    - 'console_command: voucher give randombp 5 %player%'
+FISH-512:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 512'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b6&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 512 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 128x Tokens'
+    - 'centered_message:  &7- 6x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 128'
+    - 'console_command: voucher give randombp 6 %player%'
+FISH-1024:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 1024'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b7&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 1024 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 256x Tokens'
+    - 'centered_message:  &7- 7x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 256'
+    - 'console_command: voucher give randombp 7 %player%'
+FISH-2048:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 2048'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b8&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 2048 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 512x Tokens'
+    - 'centered_message:  &7- 8x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 512'
+    - 'console_command: voucher give randombp 8 %player%'
+FISH-4096:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 4096'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b9&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 4096 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 1024x Tokens'
+    - 'centered_message:  &7- 9x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 1024'
+    - 'console_command: voucher give randombp 9 %player%'
+FISH-8192:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 8192'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b10&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 8192 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 2048x Tokens'
+    - 'centered_message:  &7- 10x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 2048'
+    - 'console_command: voucher give randombp 10 %player%'
+FISH-16384:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 16384'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b11&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 16384 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 4096x Tokens'
+    - 'centered_message:  &7- 11x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 4096'
+    - 'console_command: voucher give randombp 11 %player%'
+FISH-32768:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 32768'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b12&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 32768 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 8192x Tokens'
+    - 'centered_message:  &7- 12x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 8192'
+    - 'console_command: voucher give randombp 12 %player%'
+FISH-65536:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 65536'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b13&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 65536 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 16384x Tokens'
+    - 'centered_message:  &7- 13x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 16384'
+    - 'console_command: voucher give randombp 13 %player%'
+FISH-131072:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 131072'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b14&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 131072 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 32768x Tokens'
+    - 'centered_message:  &7- 14x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 32768'
+    - 'console_command: voucher give randombp 14 %player%'
+FISH-262144:
+  type: player_statistic
+  one_time: true
+  conditions:
+  - '%statistic_name% == FISH_CAUGHT'
+  - '%new_value% >= 262144'
+  actions:
+    default:
+    - 'centered_message: &a&lMilestone Unlocked! &7(&b15&7)'
+    - 'centered_message:  '
+    - 'centered_message:  &eFish 262144 Fish Fish.'
+    - 'centered_message:  '
+    - 'centered_message:  &aRewards:'
+    - 'centered_message:  &7- 65536x Tokens'
+    - 'centered_message:  &7- 15x Random Mystery Box'
+    - 'console_command: av user %player% addpoints 65536'
+    - 'console_command: voucher give randombp 15 %player%'

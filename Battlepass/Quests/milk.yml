@@ -1,8 +1,8 @@
-'1':
+'3351':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Milk &360 cows."
+    - "&8 \xBB &7Milk &359 cows."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Cow Milker'
   name: Cow Milker
   points: 4
-  required-progress: 60
+  required-progress: 59
   type: milk

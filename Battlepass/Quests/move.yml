@@ -1,8 +1,8 @@
-'1':
+'3601':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Move a distance of &34854 blocks."
+    - "&8 \xBB &7Move a distance of &31600 blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f6x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Adventurous Traveller'
   name: Adventurous Traveller
   points: 6
-  required-progress: 4854
+  required-progress: 1600
   type: move

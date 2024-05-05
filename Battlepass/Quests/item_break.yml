@@ -1,8 +1,8 @@
-'1':
+'3901':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Break &3141 items with a pickaxe."
+    - "&8 \xBB &7Break &372 items with a pickaxe."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f3x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Tool Master'
   name: Tool Master
   points: 3
-  required-progress: 141
+  required-progress: 72
   type: item-break

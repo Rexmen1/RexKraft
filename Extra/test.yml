@@ -1,0 +1,2654 @@
+items:
+  back:
+    display_name: '&cGo Back'
+    left_click_commands:
+    - '[openguimenu] lifetime'
+    lore: ''
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY1NDI2YTMzZGY1OGI0NjVmMDYwMWRkOGI5YmVjMzY5MGIyMTkzZDFmOTUwM2MyY2FhYjc4ZjZjMjQzOCJ9fX0=
+    slot: 48
+  glass:
+    display_name: '&r '
+    material: BLACK_STAINED_GLASS_PANE
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 45
+    - 46
+    - 47
+    - 49
+    - 51
+    - 52
+    - 53
+  l1:
+    display_name: '&7[&b&l*&7] &eLevel 37 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.first true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 925 votes milestone
+      rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &71850 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 9
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '925'
+          type: '>='
+        perms:
+          permission: secondalltimereward.first
+          type: '!has permission'
+  l10:
+    display_name: '&7[&b&l*&7] &eLevel 46 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.ten true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1150 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72525 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 18
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1150'
+          type: '>='
+        perms:
+          permission: secondalltimereward.ten
+          type: '!has permission'
+  l10a:
+    display_name: '&7[&b&l*&7] &eLevel 46 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72550 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 18
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1150'
+          type: <=
+  l10b:
+    display_name: '&7[&b&l*&7] &eLevel 46 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72575 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 18
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.ten
+          type: has permission
+  l11:
+    display_name: '&7[&b&l*&7] &eLevel 47 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.eleven true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1175 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72600 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 19
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1175'
+          type: '>='
+        perms:
+          permission: secondalltimereward.eleven
+          type: '!has permission'
+  l11a:
+    display_name: '&7[&b&l*&7] &eLevel 47 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72625 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 19
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1175'
+          type: <=
+  l11b:
+    display_name: '&7[&b&l*&7] &eLevel 47 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72650 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 19
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.eleven
+          type: has permission
+  l12:
+    display_name: '&7[&b&l*&7] &eLevel 48 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twelve true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1200 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72675 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 20
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1200'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twelve
+          type: '!has permission'
+  l12a:
+    display_name: '&7[&b&l*&7] &eLevel 48 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72700 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 20
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1200'
+          type: <=
+  l12b:
+    display_name: '&7[&b&l*&7] &eLevel 48 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72725 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 20
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twelve
+          type: has permission
+  l13:
+    display_name: '&7[&b&l*&7] &eLevel 49 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.thirteen
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1225 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72750 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 21
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1225'
+          type: '>='
+        perms:
+          permission: secondalltimereward.thirteen
+          type: '!has permission'
+  l13a:
+    display_name: '&7[&b&l*&7] &eLevel 49 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72775 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 21
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1225'
+          type: <=
+  l13b:
+    display_name: '&7[&b&l*&7] &eLevel 49 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72800 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 21
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.thirteen
+          type: has permission
+  l14:
+    display_name: '&7[&b&l*&7] &eLevel 50 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.fourteen
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1250 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72825 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 22
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1250'
+          type: '>='
+        perms:
+          permission: secondalltimereward.fourteen
+          type: '!has permission'
+  l14a:
+    display_name: '&7[&b&l*&7] &eLevel 50 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72850 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 22
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1250'
+          type: <=
+  l14b:
+    display_name: '&7[&b&l*&7] &eLevel 50 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72875 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 22
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.fourteen
+          type: has permission
+  l15:
+    display_name: '&7[&b&l*&7] &eLevel 51 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.fifteen
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1275 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72900 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 23
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1275'
+          type: '>='
+        perms:
+          permission: secondalltimereward.fifteen
+          type: '!has permission'
+  l15a:
+    display_name: '&7[&b&l*&7] &eLevel 51 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72925 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 23
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1275'
+          type: <=
+  l15b:
+    display_name: '&7[&b&l*&7] &eLevel 51 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72950 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 23
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.fifteen
+          type: has permission
+  l16:
+    display_name: '&7[&b&l*&7] &eLevel 52 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.sixteen
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1300 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72975 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 24
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1300'
+          type: '>='
+        perms:
+          permission: secondalltimereward.sixteen
+          type: '!has permission'
+  l16a:
+    display_name: '&7[&b&l*&7] &eLevel 52 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73000 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 24
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1300'
+          type: <=
+  l16b:
+    display_name: '&7[&b&l*&7] &eLevel 52 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73025 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 24
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.sixteen
+          type: has permission
+  l17:
+    display_name: '&7[&b&l*&7] &eLevel 53 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.seventeen
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1325 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73050 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 25
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1325'
+          type: '>='
+        perms:
+          permission: secondalltimereward.seventeen
+          type: '!has permission'
+  l17a:
+    display_name: '&7[&b&l*&7] &eLevel 53 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73075 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 25
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1325'
+          type: <=
+  l17b:
+    display_name: '&7[&b&l*&7] &eLevel 53 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73100 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 25
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.seventeen
+          type: has permission
+  l18:
+    display_name: '&7[&b&l*&7] &eLevel 54 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.eightteen
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1350 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73125 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 26
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1350'
+          type: '>='
+        perms:
+          permission: secondalltimereward.eightteen
+          type: '!has permission'
+  l18a:
+    display_name: '&7[&b&l*&7] &eLevel 54 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73150 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 26
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1350'
+          type: <=
+  l18b:
+    display_name: '&7[&b&l*&7] &eLevel 54 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73175 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 26
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.eightteen
+          type: has permission
+  l19:
+    display_name: '&7[&b&l*&7] &eLevel 55 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.nineteen
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1375 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73200 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 27
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1375'
+          type: '>='
+        perms:
+          permission: secondalltimereward.nineteen
+          type: '!has permission'
+  l19a:
+    display_name: '&7[&b&l*&7] &eLevel 55 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73225 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 27
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1375'
+          type: <=
+  l19b:
+    display_name: '&7[&b&l*&7] &eLevel 55 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73250 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 27
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.nineteen
+          type: has permission
+  l1a:
+    display_name: '&7[&b&l*&7] &eLevel 37 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &71875 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 9
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '925'
+          type: <=
+  l1b:
+    display_name: '&7[&b&l*&7] &eLevel 37 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &71900 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 9
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.first
+          type: has permission
+  l2:
+    display_name: '&7[&b&l*&7] &eLevel 38 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.second true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 950 votes milestone
+      rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &71925 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 10
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '950'
+          type: '>='
+        name: null
+        perms:
+          permission: secondalltimereward.second
+          type: '!has permission'
+  l20:
+    display_name: '&7[&b&l*&7] &eLevel 56 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twenty true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1400 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73275 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 28
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1400'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twenty
+          type: '!has permission'
+  l20a:
+    display_name: '&7[&b&l*&7] &eLevel 56 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73300 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 28
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1400'
+          type: <=
+  l20b:
+    display_name: '&7[&b&l*&7] &eLevel 56 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73325 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 28
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twenty
+          type: has permission
+  l21:
+    display_name: '&7[&b&l*&7] &eLevel 57 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentyone
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1425 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73350 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 29
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1425'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentyone
+          type: '!has permission'
+  l21a:
+    display_name: '&7[&b&l*&7] &eLevel 57 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73375 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 29
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1425'
+          type: <=
+  l21b:
+    display_name: '&7[&b&l*&7] &eLevel 57 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73400 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 29
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentyone
+          type: has permission
+  l22:
+    display_name: '&7[&b&l*&7] &eLevel 58 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentytwo
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1450 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73425 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 30
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1450'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentytwo
+          type: '!has permission'
+  l22a:
+    display_name: '&7[&b&l*&7] &eLevel 58 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73450 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 30
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1450'
+          type: <=
+  l22b:
+    display_name: '&7[&b&l*&7] &eLevel 58 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73475 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 30
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentytwo
+          type: has permission
+  l23:
+    display_name: '&7[&b&l*&7] &eLevel 59 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentythree
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1475 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73500 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 31
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1475'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentythree
+          type: '!has permission'
+  l23a:
+    display_name: '&7[&b&l*&7] &eLevel 59 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73525 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 31
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1475'
+          type: <=
+  l23b:
+    display_name: '&7[&b&l*&7] &eLevel 59 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73550 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 31
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentythree
+          type: has permission
+  l24:
+    display_name: '&7[&b&l*&7] &eLevel 60 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentyfour
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1500 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73575 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 32
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1500'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentyfour
+          type: '!has permission'
+  l24a:
+    display_name: '&7[&b&l*&7] &eLevel 60 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73600 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 32
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1500'
+          type: <=
+  l24b:
+    display_name: '&7[&b&l*&7] &eLevel 60 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73625 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 32
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentyfour
+          type: has permission
+  l25:
+    display_name: '&7[&b&l*&7] &eLevel 61 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentyfive
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1525 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73650 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 33
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1525'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentyfive
+          type: '!has permission'
+  l25a:
+    display_name: '&7[&b&l*&7] &eLevel 61 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73675 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 33
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1525'
+          type: <=
+  l25b:
+    display_name: '&7[&b&l*&7] &eLevel 61 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73700 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 33
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentyfive
+          type: has permission
+  l26:
+    display_name: '&7[&b&l*&7] &eLevel 62 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentysix
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1550 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73725 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 34
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1550'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentysix
+          type: '!has permission'
+  l26a:
+    display_name: '&7[&b&l*&7] &eLevel 62 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73750 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 34
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1550'
+          type: <=
+  l26b:
+    display_name: '&7[&b&l*&7] &eLevel 62 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73775 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 34
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentysix
+          type: has permission
+  l27:
+    display_name: '&7[&b&l*&7] &eLevel 63 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentyseven
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1575 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73800 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 35
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1575'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentyseven
+          type: '!has permission'
+  l27a:
+    display_name: '&7[&b&l*&7] &eLevel 63 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73825 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 35
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1575'
+          type: <=
+  l27b:
+    display_name: '&7[&b&l*&7] &eLevel 63 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73850 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 35
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentyseven
+          type: has permission
+  l28:
+    display_name: '&7[&b&l*&7] &eLevel 64 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentyeight
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1600 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73875 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 36
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1600'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentyeight
+          type: '!has permission'
+  l28a:
+    display_name: '&7[&b&l*&7] &eLevel 64 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73900 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 36
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1600'
+          type: <=
+  l28b:
+    display_name: '&7[&b&l*&7] &eLevel 64 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73925 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 36
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentyeight
+          type: has permission
+  l29:
+    display_name: '&7[&b&l*&7] &eLevel 65 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.twentynine
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1625 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73950 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 37
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1625'
+          type: '>='
+        perms:
+          permission: secondalltimereward.twentynine
+          type: '!has permission'
+  l29a:
+    display_name: '&7[&b&l*&7] &eLevel 65 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &73975 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 37
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1625'
+          type: <=
+  l29b:
+    display_name: '&7[&b&l*&7] &eLevel 65 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74000 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 37
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.twentynine
+          type: has permission
+  l2a:
+    display_name: '&7[&b&l*&7] &eLevel 38 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &71950 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 10
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '950'
+          type: <=
+  l2b:
+    display_name: '&7[&b&l*&7] &eLevel 38 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &71975 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 10
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.second
+          type: has permission
+  l3:
+    display_name: '&7[&b&l*&7] &eLevel 39 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.third true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 975 votes milestone
+      rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72000 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 11
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '975'
+          type: '>='
+        perms:
+          permission: secondalltimereward.third
+          type: '!has permission'
+  l30:
+    display_name: '&7[&b&l*&7] &eLevel 66 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.thirty true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1650 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74025 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 38
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1650'
+          type: '>='
+        perms:
+          permission: secondalltimereward.thirty
+          type: '!has permission'
+  l30a:
+    display_name: '&7[&b&l*&7] &eLevel 66 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74050 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 38
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1650'
+          type: <=
+  l30b:
+    display_name: '&7[&b&l*&7] &eLevel 66 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74075 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 38
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.thirty
+          type: has permission
+  l31:
+    display_name: '&7[&b&l*&7] &eLevel 67 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.thirtyone
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1675 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74100 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 39
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1675'
+          type: '>='
+        perms:
+          permission: secondalltimereward.thirtyone
+          type: '!has permission'
+  l31a:
+    display_name: '&7[&b&l*&7] &eLevel 67 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74125 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 39
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1675'
+          type: <=
+  l31b:
+    display_name: '&7[&b&l*&7] &eLevel 67 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74150 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 39
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.thirtyone
+          type: has permission
+  l32:
+    display_name: '&7[&b&l*&7] &eLevel 68 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.thirtytwo
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1700 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74175 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 40
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1700'
+          type: '>='
+        perms:
+          permission: secondalltimereward.thirtytwo
+          type: '!has permission'
+  l32a:
+    display_name: '&7[&b&l*&7] &eLevel 68 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74200 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 40
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1700'
+          type: <=
+  l32b:
+    display_name: '&7[&b&l*&7] &eLevel 68 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74225 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 40
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.thirtytwo
+          type: has permission
+  l33:
+    display_name: '&7[&b&l*&7] &eLevel 69 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.thirtythree
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1725 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74250 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 41
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1725'
+          type: '>='
+        perms:
+          permission: secondalltimereward.thirtythree
+          type: '!has permission'
+  l33a:
+    display_name: '&7[&b&l*&7] &eLevel 69 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74275 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 41
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1725'
+          type: <=
+  l33b:
+    display_name: '&7[&b&l*&7] &eLevel 69 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74300 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 41
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.thirtythree
+          type: has permission
+  l34:
+    display_name: '&7[&b&l*&7] &eLevel 70 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.thirtyfour
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1750 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74325 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 42
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1750'
+          type: '>='
+        perms:
+          permission: secondalltimereward.thirtyfour
+          type: '!has permission'
+  l34a:
+    display_name: '&7[&b&l*&7] &eLevel 70 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74350 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 42
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1750'
+          type: <=
+  l34b:
+    display_name: '&7[&b&l*&7] &eLevel 70 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74375 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 42
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.thirtyfour
+          type: has permission
+  l35:
+    display_name: '&7[&b&l*&7] &eLevel 71 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.thirtyfive
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1775 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74400 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 43
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1775'
+          type: '>='
+        perms:
+          permission: secondalltimereward.thirtyfive
+          type: '!has permission'
+  l35a:
+    display_name: '&7[&b&l*&7] &eLevel 71 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74425 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 43
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1775'
+          type: <=
+  l35b:
+    display_name: '&7[&b&l*&7] &eLevel 71 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74450 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 43
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.thirtyfive
+          type: has permission
+  l36:
+    display_name: '&7[&b&l*&7] &eLevel 72 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.thirtysix
+      true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1800 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74475 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 44
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1800'
+          type: '>='
+        perms:
+          permission: secondalltimereward.thirtysix
+          type: '!has permission'
+  l36a:
+    display_name: '&7[&b&l*&7] &eLevel 72 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74500 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 44
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1800'
+          type: <=
+  l36b:
+    display_name: '&7[&b&l*&7] &eLevel 72 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &74525 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 44
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.thirtysix
+          type: has permission
+  l3a:
+    display_name: '&7[&b&l*&7] &eLevel 39 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72025 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 11
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '975'
+          type: <=
+  l3b:
+    display_name: '&7[&b&l*&7] &eLevel 39 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72050 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 11
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.third
+          type: has permission
+  l4:
+    display_name: '&7[&b&l*&7] &eLevel 40 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.fourth true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1000 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72075 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 12
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1000'
+          type: '>='
+        perms:
+          permission: secondalltimereward.fourth
+          type: '!has permission'
+  l4a:
+    display_name: '&7[&b&l*&7] &eLevel 40 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72100 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 12
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1000'
+          type: <=
+  l4b:
+    display_name: '&7[&b&l*&7] &eLevel 40 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72125 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 12
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.fourth
+          type: has permission
+  l5:
+    display_name: '&7[&b&l*&7] &eLevel 41 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.fifth true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1025 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72150 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 13
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1025'
+          type: '>='
+        perms:
+          permission: secondalltimereward.fifth
+          type: '!has permission'
+  l5a:
+    display_name: '&7[&b&l*&7] &eLevel 41 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72175 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 13
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1025'
+          type: <=
+  l5b:
+    display_name: '&7[&b&l*&7] &eLevel 41 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72200 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 13
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.fifth
+          type: has permission
+  l6:
+    display_name: '&7[&b&l*&7] &eLevel 42 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.six true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1050 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72225 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 14
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1050'
+          type: '>='
+        perms:
+          permission: secondalltimereward.six
+          type: '!has permission'
+  l6a:
+    display_name: '&7[&b&l*&7] &eLevel 42 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72250 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 14
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1050'
+          type: <=
+  l6b:
+    display_name: '&7[&b&l*&7] &eLevel 42 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72275 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 14
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.six
+          type: has permission
+  l7:
+    display_name: '&7[&b&l*&7] &eLevel 43 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.seven true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1075 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72300 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 15
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1075'
+          type: '>='
+        perms:
+          permission: secondalltimereward.seven
+          type: '!has permission'
+  l7a:
+    display_name: '&7[&b&l*&7] &eLevel 43 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72325 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 15
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1075'
+          type: <=
+  l7b:
+    display_name: '&7[&b&l*&7] &eLevel 43 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72350 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 15
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.seven
+          type: has permission
+  l8:
+    display_name: '&7[&b&l*&7] &eLevel 44 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.eight true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1100 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72375 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 16
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1100'
+          type: '>='
+        perms:
+          permission: secondalltimereward.eight
+          type: '!has permission'
+  l8a:
+    display_name: '&7[&b&l*&7] &eLevel 44 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72400 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 16
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1100'
+          type: <=
+  l8b:
+    display_name: '&7[&b&l*&7] &eLevel 44 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72425 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 16
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.eight
+          type: has permission
+  l9:
+    display_name: '&7[&b&l*&7] &eLevel 45 &7[&b&l*&7]'
+    left_click_commands:
+    - '[console] lp user %player_name% permission set secondalltimereward.nine true'
+    - '[console] broadcast &7[&bAllTime&7] %player_name% Claimed their 1125 votes
+      milestone rewards.'
+    - '[console] voucher give randomepic 1 %player_name%'
+    - '[console] voucher give randomrare 2 %player_name%'
+    - '[console] voucher give randomcommon 3 %player_name%'
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72450 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: FURNACE_MINECART
+    priority: 1
+    slot: 17
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1125'
+          type: '>='
+        perms:
+          permission: secondalltimereward.nine
+          type: '!has permission'
+  l9a:
+    display_name: '&7[&b&l*&7] &eLevel 45 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72475 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    - '&bVote more to get this reward'
+    material: TNT_MINECART
+    priority: 2
+    slot: 17
+    view_requirement:
+      requirements:
+        anything_here:
+          input: '%VotingPlugin_Total_AllTime%'
+          output: '1125'
+          type: <=
+  l9b:
+    display_name: '&7[&b&l*&7] &eLevel 45 &7[&b&l*&7]'
+    left_click_commands:
+    - '[refresh]'
+    lore:
+    - '&e&l'
+    - '&bRequires: &72500 Votes'
+    - '&bRewards:'
+    - "&f&l\u27A5 &71x Epic Mystery Box"
+    - "&f&l\u27A5 &72x Rare Mystery Boxes"
+    - "&f&l\u27A5 &73x Common Mystery Boxes"
+    - '&e&l'
+    material: MINECART
+    priority: 3
+    slot: 17
+    view_requirement:
+      requirements:
+        perms:
+          permission: secondalltimereward.nine
+          type: has permission
+  next:
+    display_name: '&cGo next'
+    left_click_commands:
+    - '[player] alltimevotingreward2'
+    lore: ''
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTBlMGE0ZDQ4Y2Q4MjlhNmQ1ODY4OTA5ZDY0M2ZhNGFmZmQzOWU4YWU2Y2FhZjZlYzc5NjA5Y2Y3NjQ5YjFjIn19fQ==
+    slot: 50
+menu_title: Alltime Voting Levels 2
+open_command:
+- alltimevotingreward2
+size: 54
+update_interval: 1

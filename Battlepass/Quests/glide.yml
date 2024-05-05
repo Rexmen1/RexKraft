@@ -1,8 +1,8 @@
-'1':
+'3801':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Glide a distance of &31427 blocks."
+    - "&8 \xBB &7Glide a distance of &31343 blocks."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f6x"
@@ -13,5 +13,5 @@
     name: '&e&lQUEST:&f Sky Diver'
   name: Sky Diver
   points: 6
-  required-progress: 1427
+  required-progress: 1343
   type: glide

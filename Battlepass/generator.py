@@ -29,6 +29,8 @@ with open('List/rideable.yml', 'r') as file:
 # Generate quest for killing mobs
 def generate_mob_quest(quest_id, mob_name):
     required_progress = random.randint(16, 64)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 2100 + 1)
     quest = {
         quest_id: {
             'item': {
@@ -57,7 +59,8 @@ def generate_mob_quest(quest_id, mob_name):
 # Generate quest for mining blocks
 def generate_mining_quest(quest_id, block_name):
     required_progress = random.randint(16, 64)
-
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 2250 + 1)
     quest = {
         quest_id: {
             'anti-abuse': True,
@@ -87,7 +90,8 @@ def generate_mining_quest(quest_id, block_name):
 # Generate quest for placing blocks
 def generate_placing_quest(quest_id, block_name):
     required_progress = random.randint(16, 64)
-
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 2500 + 1)
     quest = {
         quest_id: {
             'anti-abuse': True,
@@ -118,6 +122,8 @@ def generate_placing_quest(quest_id, block_name):
 def generate_eating_quest(quest_id, food_name):
     required_progress = random.randint(16, 64)
     random_amount = random.randint(1, 8)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 2750 + 1)    
     quest = {
         quest_id: {
             'type': 'consume',
@@ -146,6 +152,8 @@ def generate_eating_quest(quest_id, food_name):
 # Generate quest for smelting items
 def generate_smelting_quest(quest_id, smeltable_item):
     required_progress = random.randint(16, 64)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3000 + 1)      
     quest = {
         quest_id: {
             'type': 'smelt',
@@ -153,6 +161,7 @@ def generate_smelting_quest(quest_id, smeltable_item):
             'variable': smeltable_item,
             'required-progress': required_progress,
             'points': 4,
+            'exclusive': 'premium',
             'item': {
                 'name': '&e&lQUEST:&f Smelting Expert',
                 'material': smeltable_item,
@@ -161,6 +170,7 @@ def generate_smelting_quest(quest_id, smeltable_item):
                     f'&8 » &7Smelt &3{required_progress} {smeltable_item} &7items.',
                     '',
                     '&e&lINFORMATION',
+                    '&8 » &7Type: &fPremium',
                     '&8 » &7EXP: &f4x',
                     '&8 » &7%total_progress%&7/&e%required_progress%',
                     '',
@@ -174,6 +184,8 @@ def generate_smelting_quest(quest_id, smeltable_item):
 # Generate quest for tamable mobs
 def generate_taming_quest(quest_id, tamable_mob):
     required_progress = random.randint(16, 64)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3200 + 1)          
     quest = {
         quest_id: {
             'type': 'tame',
@@ -202,6 +214,8 @@ def generate_taming_quest(quest_id, tamable_mob):
 # Generate quest for rideable mobs
 def generate_riding_quest(quest_id, rideable_mob):
     required_progress = random.randint(16, 64)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3250 + 1)          
     quest = {
         quest_id: {
             'type': 'ride-mob',
@@ -229,6 +243,8 @@ def generate_riding_quest(quest_id, rideable_mob):
 
 def generate_shearing_quest(quest_id):
     required_progress = random.randint(16, 64)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3300 + 1)          
     quest = {
         quest_id: {
             'type': 'shear',
@@ -255,6 +271,8 @@ def generate_shearing_quest(quest_id):
 
 def generate_milk_quest(quest_id):
     required_progress = random.randint(16, 64)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3350 + 1)          
     quest = {
         quest_id: {
             'type': 'milk',
@@ -281,6 +299,8 @@ def generate_milk_quest(quest_id):
 
 def generate_honey_extract_quest(quest_id):
     required_progress = random.randint(16, 64)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3400 + 1)          
     quest = {
         quest_id: {
             'type': 'honey-extract',
@@ -307,6 +327,8 @@ def generate_honey_extract_quest(quest_id):
 
 def generate_honey_comb_extract_quest(quest_id):
     required_progress = random.randint(16, 64)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3450 + 1)          
     quest = {
         quest_id: {
             'type': 'honey-comb-extract',
@@ -333,6 +355,8 @@ def generate_honey_comb_extract_quest(quest_id):
 
 def generate_regenerate_quest(quest_id):
     required_progress = random.randint(1, 5)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3500 + 1)          
     quest = {
         quest_id: {
             'type': 'regenerate',
@@ -359,6 +383,8 @@ def generate_regenerate_quest(quest_id):
 
 def generate_playtime_quest(quest_id):
     required_playtime = random.randint(30, 120)
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3550 + 1)          
     quest = {
         quest_id: {
             'type': 'playtime',
@@ -386,6 +412,8 @@ def generate_playtime_quest(quest_id):
 # Generate quest for moving
 def generate_move_quest(quest_id):
     required_progress = random.randint(1000, 5000)  # Example range for required distance moved
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3600 + 1)          
     quest = {
         quest_id: {
             'type': 'move',
@@ -413,6 +441,8 @@ def generate_move_quest(quest_id):
 # Generate quest for swimming
 def generate_swim_quest(quest_id):
     required_progress = random.randint(500, 2000)  # Example range for required distance swam
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3650 + 1)          
     quest = {
         quest_id: {
             'type': 'swim',
@@ -440,6 +470,8 @@ def generate_swim_quest(quest_id):
 # Generate quest for sprinting
 def generate_sprint_quest(quest_id):
     required_progress = random.randint(100, 500)  # Example range for required distance sprinted
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3700 + 1)          
     quest = {
         quest_id: {
             'type': 'sprint',
@@ -467,6 +499,8 @@ def generate_sprint_quest(quest_id):
 # Generate quest for sneaking
 def generate_sneak_quest(quest_id):
     required_progress = random.randint(500, 2000)  # Example range for required time sneaked
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3750 + 1)          
     quest = {
         quest_id: {
             'type': 'sneak',
@@ -494,6 +528,8 @@ def generate_sneak_quest(quest_id):
 # Generate quest for gliding
 def generate_glide_quest(quest_id):
     required_progress = random.randint(500, 2000)  # Example range for required distance glided
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3800 + 1)          
     quest = {
         quest_id: {
             'type': 'glide',
@@ -521,6 +557,8 @@ def generate_glide_quest(quest_id):
 # Generate quest for flying
 def generate_fly_quest(quest_id):
     required_progress = random.randint(1000, 5000)  # Example range for required distance flown
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3850 + 1)          
     quest = {
         quest_id: {
             'type': 'fly',
@@ -548,6 +586,8 @@ def generate_fly_quest(quest_id):
 # Function to generate a quest for breaking items
 def generate_item_break_quest(quest_id):
     required_progress = random.randint(50, 200)  # Example range for number of items broken
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 3900 + 1)          
     quest = {
         quest_id: {
             'type': 'item-break',
@@ -575,6 +615,8 @@ def generate_item_break_quest(quest_id):
 # Function to generate a quest for gaining experience
 def generate_gain_experience_quest(quest_id):
     required_progress = random.randint(1000, 5000)  # Example range for experience points required
+    adjusted_id = int(quest_id)
+    quest_id = str((adjusted_id - 1) + 4000 + 1)          
     quest = {
         quest_id: {
             'type': 'gain-experience',
@@ -827,5 +869,77 @@ all_generated_quests.update(generated_gain_experience_quests)
 # Save all generated quests into a single file
 with open('Quests/extra.yml', 'w') as file:
     yaml.dump(all_generated_quests, file, default_flow_style=False)
+
+# Combine all generated quests into a single dictionary
+mega_quests = {}
+
+# Merge the generated mob quests
+mega_quests.update(generated_mob_quests)
+
+# Merge the generated mining quests
+mega_quests.update(generated_mining_quests)
+
+# Merge the generated building quests
+mega_quests.update(generated_placing_quests)
+
+# Merge the generated food quests
+mega_quests.update(generated_food_quests)
+
+# Merge the generated smelting quests
+mega_quests.update(generated_smelting_quests)
+
+# Merge the generated taming quests
+mega_quests.update(generated_taming_quests)
+
+# Merge the generated riding quests
+mega_quests.update(generated_riding_quests)
+
+# Merge the generated shearing quests
+mega_quests.update(generated_shearing_quests)
+
+# Merge the generated milk quests
+mega_quests.update(generated_milk_quests)
+
+# Merge the generated honey extract quests
+mega_quests.update(generated_honey_extract_quests)
+
+# Merge the generated honey comb extract quests
+mega_quests.update(generated_honey_comb_extract_quests)
+
+# Merge the generated regenerate quests
+mega_quests.update(generated_regenerate_quests)
+
+# Merge the generated playtime quests
+mega_quests.update(generated_playtime_quests)
+
+# Merge the generated move quests
+mega_quests.update(generated_move_quests)
+
+# Merge the generated swim quests
+mega_quests.update(generated_swim_quests)
+
+# Merge the generated sprint quests
+mega_quests.update(generated_sprint_quests)
+
+# Merge the generated sneak quests
+mega_quests.update(generated_sneak_quests)
+
+# Merge the generated glide quests
+mega_quests.update(generated_glide_quests)
+
+# Merge the generated fly quests
+mega_quests.update(generated_fly_quests)
+
+# Merge the generated item break quests
+mega_quests.update(generated_item_break_quests)
+
+# Merge the generated gain experience quests
+mega_quests.update(generated_gain_experience_quests)
+
+# Save all quests in 'mega.yml'
+with open('Quests/mega.yml', 'w') as file:
+    yaml.dump(mega_quests, file, default_flow_style=False)
+
+
 
 print("Generated quests have been saved in their respective files.")

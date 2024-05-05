@@ -1,8 +1,8 @@
-'1':
+'2751':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &363 Apple &7Food."
+    - "&8 \xBB &7Eat &338 Apple &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -13,194 +13,14 @@
     name: '&e&lQUEST:&f Apple Consumer'
   name: Apple Eater
   points: 4
-  required-progress: 63
+  required-progress: 38
   type: consume
   variable: Apple
-'10':
+'2752':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &359 Cookie &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Cookie
-    name: '&e&lQUEST:&f Cookie Consumer'
-  name: Cookie Eater
-  points: 4
-  required-progress: 59
-  type: consume
-  variable: Cookie
-'11':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &344 Dried_Kelp &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Dried_Kelp
-    name: '&e&lQUEST:&f Dried_Kelp Consumer'
-  name: Dried_Kelp Eater
-  points: 4
-  required-progress: 44
-  type: consume
-  variable: Dried_Kelp
-'12':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &317 Egg &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Egg
-    name: '&e&lQUEST:&f Egg Consumer'
-  name: Egg Eater
-  points: 4
-  required-progress: 17
-  type: consume
-  variable: Egg
-'13':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &345 Fish &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Fish
-    name: '&e&lQUEST:&f Fish Consumer'
-  name: Fish Eater
-  points: 4
-  required-progress: 45
-  type: consume
-  variable: Fish
-'14':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &329 Glow_Berries &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Glow_Berries
-    name: '&e&lQUEST:&f Glow_Berries Consumer'
-  name: Glow_Berries Eater
-  points: 4
-  required-progress: 29
-  type: consume
-  variable: Glow_Berries
-'15':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &346 Golden_Apple &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Golden_Apple
-    name: '&e&lQUEST:&f Golden_Apple Consumer'
-  name: Golden_Apple Eater
-  points: 4
-  required-progress: 46
-  type: consume
-  variable: Golden_Apple
-'16':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &351 Grilled_Fish &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Grilled_Fish
-    name: '&e&lQUEST:&f Grilled_Fish Consumer'
-  name: Grilled_Fish Eater
-  points: 4
-  required-progress: 51
-  type: consume
-  variable: Grilled_Fish
-'17':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &336 Honey &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Honey
-    name: '&e&lQUEST:&f Honey Consumer'
-  name: Honey Eater
-  points: 4
-  required-progress: 36
-  type: consume
-  variable: Honey
-'18':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &326 Melon_Block &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Melon_Block
-    name: '&e&lQUEST:&f Melon_Block Consumer'
-  name: Melon_Block Eater
-  points: 4
-  required-progress: 26
-  type: consume
-  variable: Melon_Block
-'19':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &358 Milk &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Milk
-    name: '&e&lQUEST:&f Milk Consumer'
-  name: Milk Eater
-  points: 4
-  required-progress: 58
-  type: consume
-  variable: Milk
-'2':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &335 Baked_Potato &7Food."
+    - "&8 \xBB &7Eat &364 Baked_Potato &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -211,14 +31,320 @@
     name: '&e&lQUEST:&f Baked_Potato Consumer'
   name: Baked_Potato Eater
   points: 4
-  required-progress: 35
+  required-progress: 64
   type: consume
   variable: Baked_Potato
-'20':
+'2753':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &355 Mushroom &7Food."
+    - "&8 \xBB &7Eat &355 Beetroot &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Beetroot
+    name: '&e&lQUEST:&f Beetroot Consumer'
+  name: Beetroot Eater
+  points: 4
+  required-progress: 55
+  type: consume
+  variable: Beetroot
+'2754':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &327 Bread &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Bread
+    name: '&e&lQUEST:&f Bread Consumer'
+  name: Bread Eater
+  points: 4
+  required-progress: 27
+  type: consume
+  variable: Bread
+'2755':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &318 Cake &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cake
+    name: '&e&lQUEST:&f Cake Consumer'
+  name: Cake Eater
+  points: 4
+  required-progress: 18
+  type: consume
+  variable: Cake
+'2756':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &339 Carrot &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Carrot
+    name: '&e&lQUEST:&f Carrot Consumer'
+  name: Carrot Eater
+  points: 4
+  required-progress: 39
+  type: consume
+  variable: Carrot
+'2757':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &362 Chorus_Fruit &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Chorus_Fruit
+    name: '&e&lQUEST:&f Chorus_Fruit Consumer'
+  name: Chorus_Fruit Eater
+  points: 4
+  required-progress: 62
+  type: consume
+  variable: Chorus_Fruit
+'2758':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &358 Cocoa_Beans &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cocoa_Beans
+    name: '&e&lQUEST:&f Cocoa_Beans Consumer'
+  name: Cocoa_Beans Eater
+  points: 4
+  required-progress: 58
+  type: consume
+  variable: Cocoa_Beans
+'2759':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &335 Cooked_Pork &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cooked_Pork
+    name: '&e&lQUEST:&f Cooked_Pork Consumer'
+  name: Cooked_Pork Eater
+  points: 4
+  required-progress: 35
+  type: consume
+  variable: Cooked_Pork
+'2760':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &338 Cookie &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Cookie
+    name: '&e&lQUEST:&f Cookie Consumer'
+  name: Cookie Eater
+  points: 4
+  required-progress: 38
+  type: consume
+  variable: Cookie
+'2761':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &348 Dried_Kelp &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Dried_Kelp
+    name: '&e&lQUEST:&f Dried_Kelp Consumer'
+  name: Dried_Kelp Eater
+  points: 4
+  required-progress: 48
+  type: consume
+  variable: Dried_Kelp
+'2762':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &357 Egg &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Egg
+    name: '&e&lQUEST:&f Egg Consumer'
+  name: Egg Eater
+  points: 4
+  required-progress: 57
+  type: consume
+  variable: Egg
+'2763':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &355 Fish &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Fish
+    name: '&e&lQUEST:&f Fish Consumer'
+  name: Fish Eater
+  points: 4
+  required-progress: 55
+  type: consume
+  variable: Fish
+'2764':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &323 Glow_Berries &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Glow_Berries
+    name: '&e&lQUEST:&f Glow_Berries Consumer'
+  name: Glow_Berries Eater
+  points: 4
+  required-progress: 23
+  type: consume
+  variable: Glow_Berries
+'2765':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &339 Golden_Apple &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Golden_Apple
+    name: '&e&lQUEST:&f Golden_Apple Consumer'
+  name: Golden_Apple Eater
+  points: 4
+  required-progress: 39
+  type: consume
+  variable: Golden_Apple
+'2766':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &319 Grilled_Fish &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Grilled_Fish
+    name: '&e&lQUEST:&f Grilled_Fish Consumer'
+  name: Grilled_Fish Eater
+  points: 4
+  required-progress: 19
+  type: consume
+  variable: Grilled_Fish
+'2767':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &349 Honey &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Honey
+    name: '&e&lQUEST:&f Honey Consumer'
+  name: Honey Eater
+  points: 4
+  required-progress: 49
+  type: consume
+  variable: Honey
+'2768':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &320 Melon_Block &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Melon_Block
+    name: '&e&lQUEST:&f Melon_Block Consumer'
+  name: Melon_Block Eater
+  points: 4
+  required-progress: 20
+  type: consume
+  variable: Melon_Block
+'2769':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &352 Milk &7Food."
+    - ''
+    - '&e&lINFORMATION'
+    - "&8 \xBB &7EXP: &f4x"
+    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
+    - ''
+    - '%progress_bar% &7(&a%percentage_progress%&7)'
+    material: Milk
+    name: '&e&lQUEST:&f Milk Consumer'
+  name: Milk Eater
+  points: 4
+  required-progress: 52
+  type: consume
+  variable: Milk
+'2770':
+  item:
+    lore:
+    - "&8 \xBB &7To complete this quest, you must"
+    - "&8 \xBB &7Eat &323 Mushroom &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -229,14 +355,14 @@
     name: '&e&lQUEST:&f Mushroom Consumer'
   name: Mushroom Eater
   points: 4
-  required-progress: 55
+  required-progress: 23
   type: consume
   variable: Mushroom
-'21':
+'2771':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &334 Mushroom_Stew &7Food."
+    - "&8 \xBB &7Eat &341 Mushroom_Stew &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -247,14 +373,14 @@
     name: '&e&lQUEST:&f Mushroom_Stew Consumer'
   name: Mushroom_Stew Eater
   points: 4
-  required-progress: 34
+  required-progress: 41
   type: consume
   variable: Mushroom_Stew
-'22':
+'2772':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &364 Mutton &7Food."
+    - "&8 \xBB &7Eat &332 Mutton &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -265,14 +391,14 @@
     name: '&e&lQUEST:&f Mutton Consumer'
   name: Mutton Eater
   points: 4
-  required-progress: 64
+  required-progress: 32
   type: consume
   variable: Mutton
-'23':
+'2773':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &317 Potato &7Food."
+    - "&8 \xBB &7Eat &354 Potato &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -283,14 +409,14 @@
     name: '&e&lQUEST:&f Potato Consumer'
   name: Potato Eater
   points: 4
-  required-progress: 17
+  required-progress: 54
   type: consume
   variable: Potato
-'24':
+'2774':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &324 Pufferfish_Food &7Food."
+    - "&8 \xBB &7Eat &341 Pufferfish_Food &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -301,14 +427,14 @@
     name: '&e&lQUEST:&f Pufferfish_Food Consumer'
   name: Pufferfish_Food Eater
   points: 4
-  required-progress: 24
+  required-progress: 41
   type: consume
   variable: Pufferfish_Food
-'25':
+'2775':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &336 Pumpkin &7Food."
+    - "&8 \xBB &7Eat &349 Pumpkin &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -319,10 +445,10 @@
     name: '&e&lQUEST:&f Pumpkin Consumer'
   name: Pumpkin Eater
   points: 4
-  required-progress: 36
+  required-progress: 49
   type: consume
   variable: Pumpkin
-'26':
+'2776':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
@@ -340,11 +466,11 @@
   required-progress: 24
   type: consume
   variable: Raw_Beef
-'27':
+'2777':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &346 Raw_Chicken_Food &7Food."
+    - "&8 \xBB &7Eat &331 Raw_Chicken_Food &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -355,14 +481,14 @@
     name: '&e&lQUEST:&f Raw_Chicken_Food Consumer'
   name: Raw_Chicken_Food Eater
   points: 4
-  required-progress: 46
+  required-progress: 31
   type: consume
   variable: Raw_Chicken_Food
-'28':
+'2778':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &320 Raw_Cod &7Food."
+    - "&8 \xBB &7Eat &340 Raw_Cod &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -373,14 +499,14 @@
     name: '&e&lQUEST:&f Raw_Cod Consumer'
   name: Raw_Cod Eater
   points: 4
-  required-progress: 20
+  required-progress: 40
   type: consume
   variable: Raw_Cod
-'29':
+'2779':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &345 Raw_Porkchop &7Food."
+    - "&8 \xBB &7Eat &358 Raw_Porkchop &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -391,32 +517,14 @@
     name: '&e&lQUEST:&f Raw_Porkchop Consumer'
   name: Raw_Porkchop Eater
   points: 4
-  required-progress: 45
+  required-progress: 58
   type: consume
   variable: Raw_Porkchop
-'3':
+'2780':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &318 Beetroot &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Beetroot
-    name: '&e&lQUEST:&f Beetroot Consumer'
-  name: Beetroot Eater
-  points: 4
-  required-progress: 18
-  type: consume
-  variable: Beetroot
-'30':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &346 Raw_Rabbit &7Food."
+    - "&8 \xBB &7Eat &316 Raw_Rabbit &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -427,14 +535,14 @@
     name: '&e&lQUEST:&f Raw_Rabbit Consumer'
   name: Raw_Rabbit Eater
   points: 4
-  required-progress: 46
+  required-progress: 16
   type: consume
   variable: Raw_Rabbit
-'31':
+'2781':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &356 Raw_Salmon &7Food."
+    - "&8 \xBB &7Eat &330 Raw_Salmon &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -445,14 +553,14 @@
     name: '&e&lQUEST:&f Raw_Salmon Consumer'
   name: Raw_Salmon Eater
   points: 4
-  required-progress: 56
+  required-progress: 30
   type: consume
   variable: Raw_Salmon
-'32':
+'2782':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &359 Rotten_Flesh &7Food."
+    - "&8 \xBB &7Eat &317 Rotten_Flesh &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -463,14 +571,14 @@
     name: '&e&lQUEST:&f Rotten_Flesh Consumer'
   name: Rotten_Flesh Eater
   points: 4
-  required-progress: 59
+  required-progress: 17
   type: consume
   variable: Rotten_Flesh
-'33':
+'2783':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &332 Spider_Eye &7Food."
+    - "&8 \xBB &7Eat &322 Spider_Eye &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -481,14 +589,14 @@
     name: '&e&lQUEST:&f Spider_Eye Consumer'
   name: Spider_Eye Eater
   points: 4
-  required-progress: 32
+  required-progress: 22
   type: consume
   variable: Spider_Eye
-'34':
+'2784':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &331 Suspicious_Stew &7Food."
+    - "&8 \xBB &7Eat &320 Suspicious_Stew &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -499,14 +607,14 @@
     name: '&e&lQUEST:&f Suspicious_Stew Consumer'
   name: Suspicious_Stew Eater
   points: 4
-  required-progress: 31
+  required-progress: 20
   type: consume
   variable: Suspicious_Stew
-'35':
+'2785':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &328 Sweet_Berries &7Food."
+    - "&8 \xBB &7Eat &321 Sweet_Berries &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -517,14 +625,14 @@
     name: '&e&lQUEST:&f Sweet_Berries Consumer'
   name: Sweet_Berries Eater
   points: 4
-  required-progress: 28
+  required-progress: 21
   type: consume
   variable: Sweet_Berries
-'36':
+'2786':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &358 Tropical_Fish_Food &7Food."
+    - "&8 \xBB &7Eat &331 Tropical_Fish_Food &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -535,14 +643,14 @@
     name: '&e&lQUEST:&f Tropical_Fish_Food Consumer'
   name: Tropical_Fish_Food Eater
   points: 4
-  required-progress: 58
+  required-progress: 31
   type: consume
   variable: Tropical_Fish_Food
-'37':
+'2787':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &343 Wheat &7Food."
+    - "&8 \xBB &7Eat &340 Wheat &7Food."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -553,114 +661,6 @@
     name: '&e&lQUEST:&f Wheat Consumer'
   name: Wheat Eater
   points: 4
-  required-progress: 43
-  type: consume
-  variable: Wheat
-'4':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &342 Bread &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Bread
-    name: '&e&lQUEST:&f Bread Consumer'
-  name: Bread Eater
-  points: 4
-  required-progress: 42
-  type: consume
-  variable: Bread
-'5':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &319 Cake &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Cake
-    name: '&e&lQUEST:&f Cake Consumer'
-  name: Cake Eater
-  points: 4
-  required-progress: 19
-  type: consume
-  variable: Cake
-'6':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &347 Carrot &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Carrot
-    name: '&e&lQUEST:&f Carrot Consumer'
-  name: Carrot Eater
-  points: 4
-  required-progress: 47
-  type: consume
-  variable: Carrot
-'7':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &363 Chorus_Fruit &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Chorus_Fruit
-    name: '&e&lQUEST:&f Chorus_Fruit Consumer'
-  name: Chorus_Fruit Eater
-  points: 4
-  required-progress: 63
-  type: consume
-  variable: Chorus_Fruit
-'8':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &333 Cocoa_Beans &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Cocoa_Beans
-    name: '&e&lQUEST:&f Cocoa_Beans Consumer'
-  name: Cocoa_Beans Eater
-  points: 4
-  required-progress: 33
-  type: consume
-  variable: Cocoa_Beans
-'9':
-  item:
-    lore:
-    - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Eat &340 Cooked_Pork &7Food."
-    - ''
-    - '&e&lINFORMATION'
-    - "&8 \xBB &7EXP: &f4x"
-    - "&8 \xBB &7%total_progress%&7/&e%required_progress%"
-    - ''
-    - '%progress_bar% &7(&a%percentage_progress%&7)'
-    material: Cooked_Pork
-    name: '&e&lQUEST:&f Cooked_Pork Consumer'
-  name: Cooked_Pork Eater
-  points: 4
   required-progress: 40
   type: consume
-  variable: Cooked_Pork
+  variable: Wheat

@@ -1,0 +1,230 @@
+menu_title: '      &8&m-(*)-&8 Milestones &m-(*)-'
+open_command:
+- stonemilestones
+size: 54
+update_interval: 1
+items:
+  '10':
+    material: NETHERRACK
+    amount: 1
+    slot: 10
+    update: true
+    display_name: '&aNetherrack Milestone 64'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-64%'
+    - ''
+    - '&7Rewards:'
+    - '  &f8x Tokens'
+    - '  &f1x Random Mystery Box'
+  '11':
+    material: NETHERRACK
+    amount: 2
+    slot: 11
+    update: true
+    display_name: '&aNetherrack Milestone 128'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-128%'
+    - ''
+    - '&7Rewards:'
+    - '  &f16x Tokens'
+    - '  &f2x Random Mystery Box'
+  '12':
+    material: NETHERRACK
+    amount: 3
+    slot: 12
+    update: true
+    display_name: '&aNetherrack Milestone 256'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-256%'
+    - ''
+    - '&7Rewards:'
+    - '  &f32x Tokens'
+    - '  &f3x Random Mystery Box'
+  '13':
+    material: NETHERRACK
+    amount: 4
+    slot: 13
+    update: true
+    display_name: '&aNetherrack Milestone 512'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-512%'
+    - ''
+    - '&7Rewards:'
+    - '  &f64x Tokens'
+    - '  &f4x Random Mystery Box'
+  '14':
+    material: NETHERRACK
+    amount: 5
+    slot: 14
+    update: true
+    display_name: '&aNetherrack Milestone 1024'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-1024%'
+    - ''
+    - '&7Rewards:'
+    - '  &f128x Tokens'
+    - '  &f5x Random Mystery Box'
+  '15':
+    material: NETHERRACK
+    amount: 6
+    slot: 15
+    update: true
+    display_name: '&aNetherrack Milestone 2048'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-2048%'
+    - ''
+    - '&7Rewards:'
+    - '  &f256x Tokens'
+    - '  &f6x Random Mystery Box'
+  '16':
+    material: NETHERRACK
+    amount: 7
+    slot: 16
+    update: true
+    display_name: '&aNetherrack Milestone 4096'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-4096%'
+    - ''
+    - '&7Rewards:'
+    - '  &f512x Tokens'
+    - '  &f7x Random Mystery Box'
+  '19':
+    material: NETHERRACK
+    amount: 8
+    slot: 19
+    update: true
+    display_name: '&aNetherrack Milestone 8192'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-8192%'
+    - ''
+    - '&7Rewards:'
+    - '  &f1024x Tokens'
+    - '  &f8x Random Mystery Box'
+  '20':
+    material: NETHERRACK
+    amount: 9
+    slot: 20
+    update: true
+    display_name: '&aNetherrack Milestone 16384'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-16384%'
+    - ''
+    - '&7Rewards:'
+    - '  &f2048x Tokens'
+    - '  &f9x Random Mystery Box'
+  '21':
+    material: NETHERRACK
+    amount: 10
+    slot: 21
+    update: true
+    display_name: '&aNetherrack Milestone 32768'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-32768%'
+    - ''
+    - '&7Rewards:'
+    - '  &f4096x Tokens'
+    - '  &f10x Random Mystery Box'
+  '22':
+    material: NETHERRACK
+    amount: 11
+    slot: 22
+    update: true
+    display_name: '&aNetherrack Milestone 65536'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-65536%'
+    - ''
+    - '&7Rewards:'
+    - '  &f8192x Tokens'
+    - '  &f11x Random Mystery Box'
+  '23':
+    material: NETHERRACK
+    amount: 12
+    slot: 23
+    update: true
+    display_name: '&aNetherrack Milestone 131072'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-131072%'
+    - ''
+    - '&7Rewards:'
+    - '  &f16384x Tokens'
+    - '  &f12x Random Mystery Box'
+  '24':
+    material: NETHERRACK
+    amount: 13
+    slot: 24
+    update: true
+    display_name: '&aNetherrack Milestone 262144'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-262144%'
+    - ''
+    - '&7Rewards:'
+    - '  &f32768x Tokens'
+    - '  &f13x Random Mystery Box'
+  '25':
+    material: NETHERRACK
+    amount: 14
+    slot: 25
+    update: true
+    display_name: '&aNetherrack Milestone 524288'
+    lore:
+    - ''
+    - '&7Progress:'
+    - '  &fStats: &b%statistic_mine_block:Netherrack%'
+    - '  &fClaimed: &b%conditionalevents_onetime_ready_NETHERRACK-524288%'
+    - ''
+    - '&7Rewards:'
+    - '  &f65536x Tokens'
+    - '  &f14x Random Mystery Box'
+  glass:
+    material: BLACK_STAINED_GLASS_PANE
+    slots:
+    - 0-9
+    - '17'
+    - '18'
+    - 26-48
+    - 50-53
+    display_name: '&r '
+  barrier:
+    material: barrier
+    slots:
+    - '49'
+    display_name: '&r '

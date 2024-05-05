@@ -1,0 +1,2758 @@
+CONDENSED_LAPIS_LAZULI:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTUxODliMzc5YTc4ODBmZjlhNGJiZDU4OGFkYjRlMWI3YjljMzM0MWRlN2Q2ZDAwNmQzNjJhZTU0NTBkYTk4NiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Lapis Lazuli'
+    lore:
+    - '&7Crafted from 256 normal Lapis Lazuli into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Lapis_Lazuli - 32.0..|v Lapis_Lazuli - 32.0..|v Lapis_Lazuli - 32.0..
+          - v Lapis_Lazuli - 32.0..|v AIR 0 1..|v Lapis_Lazuli - 32.0..
+          - v Lapis_Lazuli - 32.0..|v Lapis_Lazuli - 32.0..|v Lapis_Lazuli - 32.0..
+    craft-permission: milestones.mining.condensed_Lapis_Lazuli
+ENHANCED_LAPIS_LAZULI:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTFhYjY2NjcxMzgyZDdhNDRlNDlmMjZmNjM2M2VkNDY1NGE5M2QzZjk5MDRkYjg2NDI1YzI5YWQ5NmY2NjEyIn19fQ==
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Lapis Lazuli'
+    lore:
+    - '&7Crafted from 16 Condensed Lapis Lazuli into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_LAPIS_LAZULI 2.0..|m MATERIAL CONDENSED_LAPIS_LAZULI
+            2.0..|m MATERIAL CONDENSED_LAPIS_LAZULI 2.0..
+          - m MATERIAL CONDENSED_LAPIS_LAZULI 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_LAPIS_LAZULI
+            2.0..
+          - m MATERIAL CONDENSED_LAPIS_LAZULI 2.0..|m MATERIAL CONDENSED_LAPIS_LAZULI
+            2.0..|m MATERIAL CONDENSED_LAPIS_LAZULI 2.0..
+PURIFIED_LAPIS_LAZULI:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWMwZTkxNDQ3NmUxYjE1ZGEyYTkxZjQ1Njk2ZGQyMTc2NjlkNGRhYzRmYTYyMTY1MDkyOWJhY2UwM2RlMjI1NCJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Lapis Lazuli'
+    lore:
+    - '&7Crafted from 8 Enhanced Lapis Lazuli into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_LAPIS_LAZULI 1.0..|m MATERIAL ENHANCED_LAPIS_LAZULI
+            1.0..|m MATERIAL ENHANCED_LAPIS_LAZULI 1.0..
+          - m MATERIAL ENHANCED_LAPIS_LAZULI 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_LAPIS_LAZULI
+            1.0..
+          - m MATERIAL ENHANCED_LAPIS_LAZULI 1.0..|m MATERIAL ENHANCED_LAPIS_LAZULI
+            1.0..|m MATERIAL ENHANCED_LAPIS_LAZULI 1.0..
+CONDENSED_EMERALD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzQ1ODY0NzYxNzZhMjU2NDczODE4YTE4NDkxNTdlODQ0YzU2Mzg3MjRiY2Y4MzA5ZjBkOWRmMjdjYTk1OTE2MCJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Emerald'
+    lore:
+    - '&7Crafted from 256 normal Emerald into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Emerald - 32.0..|v Emerald - 32.0..|v Emerald - 32.0..
+          - v Emerald - 32.0..|v AIR 0 1..|v Emerald - 32.0..
+          - v Emerald - 32.0..|v Emerald - 32.0..|v Emerald - 32.0..
+    craft-permission: milestones.mining.condensed_Emerald
+ENHANCED_EMERALD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWM5MDZkNjg4ZTY1ODAyNTY5ZDk3MDViNTc5YmNlNTZlZGM4NmVhNWMzNmJkZDZkNmZjMzU1MTZhNzdkNCJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Emerald'
+    lore:
+    - '&7Crafted from 16 Condensed Emerald into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_EMERALD 2.0..|m MATERIAL CONDENSED_EMERALD 2.0..|m
+            MATERIAL CONDENSED_EMERALD 2.0..
+          - m MATERIAL CONDENSED_EMERALD 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_EMERALD
+            2.0..
+          - m MATERIAL CONDENSED_EMERALD 2.0..|m MATERIAL CONDENSED_EMERALD 2.0..|m
+            MATERIAL CONDENSED_EMERALD 2.0..
+PURIFIED_EMERALD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTlkNjE1YmQyN2RlOGU1ODBmMzkxM2ExYTQzOTg4MDQyOTU2MTdhNmY3MGFmNTMyYjQ2MTM3ZGE1ZjBlNWUyZCJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Emerald'
+    lore:
+    - '&7Crafted from 8 Enhanced Emerald into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_EMERALD 1.0..|m MATERIAL ENHANCED_EMERALD 1.0..|m
+            MATERIAL ENHANCED_EMERALD 1.0..
+          - m MATERIAL ENHANCED_EMERALD 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_EMERALD
+            1.0..
+          - m MATERIAL ENHANCED_EMERALD 1.0..|m MATERIAL ENHANCED_EMERALD 1.0..|m
+            MATERIAL ENHANCED_EMERALD 1.0..
+CONDENSED_ROTTEN_FLESH:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFkN2M4MTZmYzhjNjM2ZDdmNTBhOTNhMGJhN2FhZWZmMDZjOTZhNTYxNjQ1ZTllYjFiZWYzOTE2NTVjNTMxIn19fQ==
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Rotten Flesh'
+    lore:
+    - '&7Crafted from 256 normal Rotten Flesh into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Rotten_Flesh - 32.0..|v Rotten_Flesh - 32.0..|v Rotten_Flesh - 32.0..
+          - v Rotten_Flesh - 32.0..|v AIR 0 1..|v Rotten_Flesh - 32.0..
+          - v Rotten_Flesh - 32.0..|v Rotten_Flesh - 32.0..|v Rotten_Flesh - 32.0..
+    craft-permission: milestones.mining.condensed_Rotten_Flesh
+ENHANCED_ROTTEN_FLESH:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjY1ZjVhMzY1MWYyNTQ3MDFiM2M1NzFiZDg0ZjNkNmY5ZGY0NTNjZDMxMTdlMGE3YTZmMWY3MjExMjI3Yzc5NiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Rotten Flesh'
+    lore:
+    - '&7Crafted from 16 Condensed Rotten Flesh into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_ROTTEN_FLESH 2.0..|m MATERIAL CONDENSED_ROTTEN_FLESH
+            2.0..|m MATERIAL CONDENSED_ROTTEN_FLESH 2.0..
+          - m MATERIAL CONDENSED_ROTTEN_FLESH 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_ROTTEN_FLESH
+            2.0..
+          - m MATERIAL CONDENSED_ROTTEN_FLESH 2.0..|m MATERIAL CONDENSED_ROTTEN_FLESH
+            2.0..|m MATERIAL CONDENSED_ROTTEN_FLESH 2.0..
+PURIFIED_ROTTEN_FLESH:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzBjOGUwMTczODI3OGFiYzk5YmNjNjM1NDlkZGZkM2NjZTE3NDc2MWIxMzZiMDFkYTAxYWY2YjhiYTYzMGU3MSJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Rotten Flesh'
+    lore:
+    - '&7Crafted from 8 Enhanced Rotten Flesh into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_ROTTEN_FLESH 1.0..|m MATERIAL ENHANCED_ROTTEN_FLESH
+            1.0..|m MATERIAL ENHANCED_ROTTEN_FLESH 1.0..
+          - m MATERIAL ENHANCED_ROTTEN_FLESH 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_ROTTEN_FLESH
+            1.0..
+          - m MATERIAL ENHANCED_ROTTEN_FLESH 1.0..|m MATERIAL ENHANCED_ROTTEN_FLESH
+            1.0..|m MATERIAL ENHANCED_ROTTEN_FLESH 1.0..
+CONDENSED_BLAZE_ROD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Blaze Rod'
+    lore:
+    - '&7Crafted from 256 normal Blaze Rod into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Blaze_Rod - 32.0..|v Blaze_Rod - 32.0..|v Blaze_Rod - 32.0..
+          - v Blaze_Rod - 32.0..|v AIR 0 1..|v Blaze_Rod - 32.0..
+          - v Blaze_Rod - 32.0..|v Blaze_Rod - 32.0..|v Blaze_Rod - 32.0..
+    craft-permission: milestones.mining.condensed_Blaze_Rod
+ENHANCED_BLAZE_ROD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Blaze Rod'
+    lore:
+    - '&7Crafted from 16 Condensed Blaze Rod into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_BLAZE_ROD 2.0..|m MATERIAL CONDENSED_BLAZE_ROD 2.0..|m
+            MATERIAL CONDENSED_BLAZE_ROD 2.0..
+          - m MATERIAL CONDENSED_BLAZE_ROD 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_BLAZE_ROD
+            2.0..
+          - m MATERIAL CONDENSED_BLAZE_ROD 2.0..|m MATERIAL CONDENSED_BLAZE_ROD 2.0..|m
+            MATERIAL CONDENSED_BLAZE_ROD 2.0..
+PURIFIED_BLAZE_ROD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Blaze Rod'
+    lore:
+    - '&7Crafted from 8 Enhanced Blaze Rod into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_BLAZE_ROD 1.0..|m MATERIAL ENHANCED_BLAZE_ROD 1.0..|m
+            MATERIAL ENHANCED_BLAZE_ROD 1.0..
+          - m MATERIAL ENHANCED_BLAZE_ROD 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_BLAZE_ROD
+            1.0..
+          - m MATERIAL ENHANCED_BLAZE_ROD 1.0..|m MATERIAL ENHANCED_BLAZE_ROD 1.0..|m
+            MATERIAL ENHANCED_BLAZE_ROD 1.0..
+CONDENSED_SLIME_BALL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Slime Ball'
+    lore:
+    - '&7Crafted from 256 normal Slime Ball into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Slime_Ball - 32.0..|v Slime_Ball - 32.0..|v Slime_Ball - 32.0..
+          - v Slime_Ball - 32.0..|v AIR 0 1..|v Slime_Ball - 32.0..
+          - v Slime_Ball - 32.0..|v Slime_Ball - 32.0..|v Slime_Ball - 32.0..
+    craft-permission: milestones.mining.condensed_Slime_Ball
+ENHANCED_SLIME_BALL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Slime Ball'
+    lore:
+    - '&7Crafted from 16 Condensed Slime Ball into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_SLIME_BALL 2.0..|m MATERIAL CONDENSED_SLIME_BALL
+            2.0..|m MATERIAL CONDENSED_SLIME_BALL 2.0..
+          - m MATERIAL CONDENSED_SLIME_BALL 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_SLIME_BALL
+            2.0..
+          - m MATERIAL CONDENSED_SLIME_BALL 2.0..|m MATERIAL CONDENSED_SLIME_BALL
+            2.0..|m MATERIAL CONDENSED_SLIME_BALL 2.0..
+PURIFIED_SLIME_BALL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Slime Ball'
+    lore:
+    - '&7Crafted from 8 Enhanced Slime Ball into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_SLIME_BALL 1.0..|m MATERIAL ENHANCED_SLIME_BALL 1.0..|m
+            MATERIAL ENHANCED_SLIME_BALL 1.0..
+          - m MATERIAL ENHANCED_SLIME_BALL 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_SLIME_BALL
+            1.0..
+          - m MATERIAL ENHANCED_SLIME_BALL 1.0..|m MATERIAL ENHANCED_SLIME_BALL 1.0..|m
+            MATERIAL ENHANCED_SLIME_BALL 1.0..
+CONDENSED_MAGMA_CREAM:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Magma Cream'
+    lore:
+    - '&7Crafted from 256 normal Magma Cream into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Magma_Cream - 32.0..|v Magma_Cream - 32.0..|v Magma_Cream - 32.0..
+          - v Magma_Cream - 32.0..|v AIR 0 1..|v Magma_Cream - 32.0..
+          - v Magma_Cream - 32.0..|v Magma_Cream - 32.0..|v Magma_Cream - 32.0..
+    craft-permission: milestones.mining.condensed_Magma_Cream
+ENHANCED_MAGMA_CREAM:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Magma Cream'
+    lore:
+    - '&7Crafted from 16 Condensed Magma Cream into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_MAGMA_CREAM 2.0..|m MATERIAL CONDENSED_MAGMA_CREAM
+            2.0..|m MATERIAL CONDENSED_MAGMA_CREAM 2.0..
+          - m MATERIAL CONDENSED_MAGMA_CREAM 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_MAGMA_CREAM
+            2.0..
+          - m MATERIAL CONDENSED_MAGMA_CREAM 2.0..|m MATERIAL CONDENSED_MAGMA_CREAM
+            2.0..|m MATERIAL CONDENSED_MAGMA_CREAM 2.0..
+PURIFIED_MAGMA_CREAM:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Magma Cream'
+    lore:
+    - '&7Crafted from 8 Enhanced Magma Cream into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_MAGMA_CREAM 1.0..|m MATERIAL ENHANCED_MAGMA_CREAM
+            1.0..|m MATERIAL ENHANCED_MAGMA_CREAM 1.0..
+          - m MATERIAL ENHANCED_MAGMA_CREAM 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_MAGMA_CREAM
+            1.0..
+          - m MATERIAL ENHANCED_MAGMA_CREAM 1.0..|m MATERIAL ENHANCED_MAGMA_CREAM
+            1.0..|m MATERIAL ENHANCED_MAGMA_CREAM 1.0..
+CONDENSED_GHAST_TEAR:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Ghast Tear'
+    lore:
+    - '&7Crafted from 256 normal Ghast Tear into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Ghast_Tear - 32.0..|v Ghast_Tear - 32.0..|v Ghast_Tear - 32.0..
+          - v Ghast_Tear - 32.0..|v AIR 0 1..|v Ghast_Tear - 32.0..
+          - v Ghast_Tear - 32.0..|v Ghast_Tear - 32.0..|v Ghast_Tear - 32.0..
+    craft-permission: milestones.mining.condensed_Ghast_Tear
+ENHANCED_GHAST_TEAR:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Ghast Tear'
+    lore:
+    - '&7Crafted from 16 Condensed Ghast Tear into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_GHAST_TEAR 2.0..|m MATERIAL CONDENSED_GHAST_TEAR
+            2.0..|m MATERIAL CONDENSED_GHAST_TEAR 2.0..
+          - m MATERIAL CONDENSED_GHAST_TEAR 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_GHAST_TEAR
+            2.0..
+          - m MATERIAL CONDENSED_GHAST_TEAR 2.0..|m MATERIAL CONDENSED_GHAST_TEAR
+            2.0..|m MATERIAL CONDENSED_GHAST_TEAR 2.0..
+PURIFIED_GHAST_TEAR:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Ghast Tear'
+    lore:
+    - '&7Crafted from 8 Enhanced Ghast Tear into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_GHAST_TEAR 1.0..|m MATERIAL ENHANCED_GHAST_TEAR 1.0..|m
+            MATERIAL ENHANCED_GHAST_TEAR 1.0..
+          - m MATERIAL ENHANCED_GHAST_TEAR 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_GHAST_TEAR
+            1.0..
+          - m MATERIAL ENHANCED_GHAST_TEAR 1.0..|m MATERIAL ENHANCED_GHAST_TEAR 1.0..|m
+            MATERIAL ENHANCED_GHAST_TEAR 1.0..
+CONDENSED_PRISMARINE_SHARD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Prismarine Shard'
+    lore:
+    - '&7Crafted from 256 normal Prismarine Shard into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Prismarine_Shard - 32.0..|v Prismarine_Shard - 32.0..|v Prismarine_Shard
+            - 32.0..
+          - v Prismarine_Shard - 32.0..|v AIR 0 1..|v Prismarine_Shard - 32.0..
+          - v Prismarine_Shard - 32.0..|v Prismarine_Shard - 32.0..|v Prismarine_Shard
+            - 32.0..
+    craft-permission: milestones.mining.condensed_Prismarine_Shard
+ENHANCED_PRISMARINE_SHARD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Prismarine Shard'
+    lore:
+    - '&7Crafted from 16 Condensed Prismarine Shard into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_PRISMARINE_SHARD 2.0..|m MATERIAL CONDENSED_PRISMARINE_SHARD
+            2.0..|m MATERIAL CONDENSED_PRISMARINE_SHARD 2.0..
+          - m MATERIAL CONDENSED_PRISMARINE_SHARD 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_PRISMARINE_SHARD
+            2.0..
+          - m MATERIAL CONDENSED_PRISMARINE_SHARD 2.0..|m MATERIAL CONDENSED_PRISMARINE_SHARD
+            2.0..|m MATERIAL CONDENSED_PRISMARINE_SHARD 2.0..
+PURIFIED_PRISMARINE_SHARD:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Prismarine Shard'
+    lore:
+    - '&7Crafted from 8 Enhanced Prismarine Shard into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_PRISMARINE_SHARD 1.0..|m MATERIAL ENHANCED_PRISMARINE_SHARD
+            1.0..|m MATERIAL ENHANCED_PRISMARINE_SHARD 1.0..
+          - m MATERIAL ENHANCED_PRISMARINE_SHARD 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_PRISMARINE_SHARD
+            1.0..
+          - m MATERIAL ENHANCED_PRISMARINE_SHARD 1.0..|m MATERIAL ENHANCED_PRISMARINE_SHARD
+            1.0..|m MATERIAL ENHANCED_PRISMARINE_SHARD 1.0..
+CONDENSED_PRISMARINE_CRYSTALS:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Prismarine Crystals'
+    lore:
+    - '&7Crafted from 256 normal Prismarine Crystals into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Prismarine_Crystals - 32.0..|v Prismarine_Crystals - 32.0..|v Prismarine_Crystals
+            - 32.0..
+          - v Prismarine_Crystals - 32.0..|v AIR 0 1..|v Prismarine_Crystals - 32.0..
+          - v Prismarine_Crystals - 32.0..|v Prismarine_Crystals - 32.0..|v Prismarine_Crystals
+            - 32.0..
+    craft-permission: milestones.mining.condensed_Prismarine_Crystals
+ENHANCED_PRISMARINE_CRYSTALS:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Prismarine Crystals'
+    lore:
+    - '&7Crafted from 16 Condensed Prismarine Crystals into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_PRISMARINE_CRYSTALS 2.0..|m MATERIAL CONDENSED_PRISMARINE_CRYSTALS
+            2.0..|m MATERIAL CONDENSED_PRISMARINE_CRYSTALS 2.0..
+          - m MATERIAL CONDENSED_PRISMARINE_CRYSTALS 2.0..|v AIR 0 1..|m MATERIAL
+            CONDENSED_PRISMARINE_CRYSTALS 2.0..
+          - m MATERIAL CONDENSED_PRISMARINE_CRYSTALS 2.0..|m MATERIAL CONDENSED_PRISMARINE_CRYSTALS
+            2.0..|m MATERIAL CONDENSED_PRISMARINE_CRYSTALS 2.0..
+PURIFIED_PRISMARINE_CRYSTALS:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Prismarine Crystals'
+    lore:
+    - '&7Crafted from 8 Enhanced Prismarine Crystals into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_PRISMARINE_CRYSTALS 1.0..|m MATERIAL ENHANCED_PRISMARINE_CRYSTALS
+            1.0..|m MATERIAL ENHANCED_PRISMARINE_CRYSTALS 1.0..
+          - m MATERIAL ENHANCED_PRISMARINE_CRYSTALS 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_PRISMARINE_CRYSTALS
+            1.0..
+          - m MATERIAL ENHANCED_PRISMARINE_CRYSTALS 1.0..|m MATERIAL ENHANCED_PRISMARINE_CRYSTALS
+            1.0..|m MATERIAL ENHANCED_PRISMARINE_CRYSTALS 1.0..
+CONDENSED_LEATHER:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Leather'
+    lore:
+    - '&7Crafted from 256 normal Leather into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Leather - 32.0..|v Leather - 32.0..|v Leather - 32.0..
+          - v Leather - 32.0..|v AIR 0 1..|v Leather - 32.0..
+          - v Leather - 32.0..|v Leather - 32.0..|v Leather - 32.0..
+    craft-permission: milestones.mining.condensed_Leather
+ENHANCED_LEATHER:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Leather'
+    lore:
+    - '&7Crafted from 16 Condensed Leather into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_LEATHER 2.0..|m MATERIAL CONDENSED_LEATHER 2.0..|m
+            MATERIAL CONDENSED_LEATHER 2.0..
+          - m MATERIAL CONDENSED_LEATHER 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_LEATHER
+            2.0..
+          - m MATERIAL CONDENSED_LEATHER 2.0..|m MATERIAL CONDENSED_LEATHER 2.0..|m
+            MATERIAL CONDENSED_LEATHER 2.0..
+PURIFIED_LEATHER:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Leather'
+    lore:
+    - '&7Crafted from 8 Enhanced Leather into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_LEATHER 1.0..|m MATERIAL ENHANCED_LEATHER 1.0..|m
+            MATERIAL ENHANCED_LEATHER 1.0..
+          - m MATERIAL ENHANCED_LEATHER 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_LEATHER
+            1.0..
+          - m MATERIAL ENHANCED_LEATHER 1.0..|m MATERIAL ENHANCED_LEATHER 1.0..|m
+            MATERIAL ENHANCED_LEATHER 1.0..
+CONDENSED_FEATHER:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Feather'
+    lore:
+    - '&7Crafted from 256 normal Feather into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Feather - 32.0..|v Feather - 32.0..|v Feather - 32.0..
+          - v Feather - 32.0..|v AIR 0 1..|v Feather - 32.0..
+          - v Feather - 32.0..|v Feather - 32.0..|v Feather - 32.0..
+    craft-permission: milestones.mining.condensed_Feather
+ENHANCED_FEATHER:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Feather'
+    lore:
+    - '&7Crafted from 16 Condensed Feather into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_FEATHER 2.0..|m MATERIAL CONDENSED_FEATHER 2.0..|m
+            MATERIAL CONDENSED_FEATHER 2.0..
+          - m MATERIAL CONDENSED_FEATHER 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_FEATHER
+            2.0..
+          - m MATERIAL CONDENSED_FEATHER 2.0..|m MATERIAL CONDENSED_FEATHER 2.0..|m
+            MATERIAL CONDENSED_FEATHER 2.0..
+PURIFIED_FEATHER:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Feather'
+    lore:
+    - '&7Crafted from 8 Enhanced Feather into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_FEATHER 1.0..|m MATERIAL ENHANCED_FEATHER 1.0..|m
+            MATERIAL ENHANCED_FEATHER 1.0..
+          - m MATERIAL ENHANCED_FEATHER 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_FEATHER
+            1.0..
+          - m MATERIAL ENHANCED_FEATHER 1.0..|m MATERIAL ENHANCED_FEATHER 1.0..|m
+            MATERIAL ENHANCED_FEATHER 1.0..
+CONDENSED_RABBIT_FOOT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Rabbit Foot'
+    lore:
+    - '&7Crafted from 256 normal Rabbit Foot into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Rabbit_Foot - 32.0..|v Rabbit_Foot - 32.0..|v Rabbit_Foot - 32.0..
+          - v Rabbit_Foot - 32.0..|v AIR 0 1..|v Rabbit_Foot - 32.0..
+          - v Rabbit_Foot - 32.0..|v Rabbit_Foot - 32.0..|v Rabbit_Foot - 32.0..
+    craft-permission: milestones.mining.condensed_Rabbit_Foot
+ENHANCED_RABBIT_FOOT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Rabbit Foot'
+    lore:
+    - '&7Crafted from 16 Condensed Rabbit Foot into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_RABBIT_FOOT 2.0..|m MATERIAL CONDENSED_RABBIT_FOOT
+            2.0..|m MATERIAL CONDENSED_RABBIT_FOOT 2.0..
+          - m MATERIAL CONDENSED_RABBIT_FOOT 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_RABBIT_FOOT
+            2.0..
+          - m MATERIAL CONDENSED_RABBIT_FOOT 2.0..|m MATERIAL CONDENSED_RABBIT_FOOT
+            2.0..|m MATERIAL CONDENSED_RABBIT_FOOT 2.0..
+PURIFIED_RABBIT_FOOT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Rabbit Foot'
+    lore:
+    - '&7Crafted from 8 Enhanced Rabbit Foot into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_RABBIT_FOOT 1.0..|m MATERIAL ENHANCED_RABBIT_FOOT
+            1.0..|m MATERIAL ENHANCED_RABBIT_FOOT 1.0..
+          - m MATERIAL ENHANCED_RABBIT_FOOT 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_RABBIT_FOOT
+            1.0..
+          - m MATERIAL ENHANCED_RABBIT_FOOT 1.0..|m MATERIAL ENHANCED_RABBIT_FOOT
+            1.0..|m MATERIAL ENHANCED_RABBIT_FOOT 1.0..
+CONDENSED_EGG:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Egg'
+    lore:
+    - '&7Crafted from 256 normal Egg into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Egg - 32.0..|v Egg - 32.0..|v Egg - 32.0..
+          - v Egg - 32.0..|v AIR 0 1..|v Egg - 32.0..
+          - v Egg - 32.0..|v Egg - 32.0..|v Egg - 32.0..
+    craft-permission: milestones.mining.condensed_Egg
+ENHANCED_EGG:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Egg'
+    lore:
+    - '&7Crafted from 16 Condensed Egg into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_EGG 2.0..|m MATERIAL CONDENSED_EGG 2.0..|m MATERIAL
+            CONDENSED_EGG 2.0..
+          - m MATERIAL CONDENSED_EGG 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_EGG 2.0..
+          - m MATERIAL CONDENSED_EGG 2.0..|m MATERIAL CONDENSED_EGG 2.0..|m MATERIAL
+            CONDENSED_EGG 2.0..
+PURIFIED_EGG:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Egg'
+    lore:
+    - '&7Crafted from 8 Enhanced Egg into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_EGG 1.0..|m MATERIAL ENHANCED_EGG 1.0..|m MATERIAL
+            ENHANCED_EGG 1.0..
+          - m MATERIAL ENHANCED_EGG 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_EGG 1.0..
+          - m MATERIAL ENHANCED_EGG 1.0..|m MATERIAL ENHANCED_EGG 1.0..|m MATERIAL
+            ENHANCED_EGG 1.0..
+CONDENSED_PHANTOM_MEMBRANE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Phantom Membrane'
+    lore:
+    - '&7Crafted from 256 normal Phantom Membrane into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Phantom_Membrane - 32.0..|v Phantom_Membrane - 32.0..|v Phantom_Membrane
+            - 32.0..
+          - v Phantom_Membrane - 32.0..|v AIR 0 1..|v Phantom_Membrane - 32.0..
+          - v Phantom_Membrane - 32.0..|v Phantom_Membrane - 32.0..|v Phantom_Membrane
+            - 32.0..
+    craft-permission: milestones.mining.condensed_Phantom_Membrane
+ENHANCED_PHANTOM_MEMBRANE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Phantom Membrane'
+    lore:
+    - '&7Crafted from 16 Condensed Phantom Membrane into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_PHANTOM_MEMBRANE 2.0..|m MATERIAL CONDENSED_PHANTOM_MEMBRANE
+            2.0..|m MATERIAL CONDENSED_PHANTOM_MEMBRANE 2.0..
+          - m MATERIAL CONDENSED_PHANTOM_MEMBRANE 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_PHANTOM_MEMBRANE
+            2.0..
+          - m MATERIAL CONDENSED_PHANTOM_MEMBRANE 2.0..|m MATERIAL CONDENSED_PHANTOM_MEMBRANE
+            2.0..|m MATERIAL CONDENSED_PHANTOM_MEMBRANE 2.0..
+PURIFIED_PHANTOM_MEMBRANE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Phantom Membrane'
+    lore:
+    - '&7Crafted from 8 Enhanced Phantom Membrane into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_PHANTOM_MEMBRANE 1.0..|m MATERIAL ENHANCED_PHANTOM_MEMBRANE
+            1.0..|m MATERIAL ENHANCED_PHANTOM_MEMBRANE 1.0..
+          - m MATERIAL ENHANCED_PHANTOM_MEMBRANE 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_PHANTOM_MEMBRANE
+            1.0..
+          - m MATERIAL ENHANCED_PHANTOM_MEMBRANE 1.0..|m MATERIAL ENHANCED_PHANTOM_MEMBRANE
+            1.0..|m MATERIAL ENHANCED_PHANTOM_MEMBRANE 1.0..
+CONDENSED_SHULKER_SHELL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Shulker Shell'
+    lore:
+    - '&7Crafted from 256 normal Shulker Shell into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Shulker_Shell - 32.0..|v Shulker_Shell - 32.0..|v Shulker_Shell - 32.0..
+          - v Shulker_Shell - 32.0..|v AIR 0 1..|v Shulker_Shell - 32.0..
+          - v Shulker_Shell - 32.0..|v Shulker_Shell - 32.0..|v Shulker_Shell - 32.0..
+    craft-permission: milestones.mining.condensed_Shulker_Shell
+ENHANCED_SHULKER_SHELL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Shulker Shell'
+    lore:
+    - '&7Crafted from 16 Condensed Shulker Shell into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_SHULKER_SHELL 2.0..|m MATERIAL CONDENSED_SHULKER_SHELL
+            2.0..|m MATERIAL CONDENSED_SHULKER_SHELL 2.0..
+          - m MATERIAL CONDENSED_SHULKER_SHELL 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_SHULKER_SHELL
+            2.0..
+          - m MATERIAL CONDENSED_SHULKER_SHELL 2.0..|m MATERIAL CONDENSED_SHULKER_SHELL
+            2.0..|m MATERIAL CONDENSED_SHULKER_SHELL 2.0..
+PURIFIED_SHULKER_SHELL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Shulker Shell'
+    lore:
+    - '&7Crafted from 8 Enhanced Shulker Shell into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_SHULKER_SHELL 1.0..|m MATERIAL ENHANCED_SHULKER_SHELL
+            1.0..|m MATERIAL ENHANCED_SHULKER_SHELL 1.0..
+          - m MATERIAL ENHANCED_SHULKER_SHELL 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_SHULKER_SHELL
+            1.0..
+          - m MATERIAL ENHANCED_SHULKER_SHELL 1.0..|m MATERIAL ENHANCED_SHULKER_SHELL
+            1.0..|m MATERIAL ENHANCED_SHULKER_SHELL 1.0..
+CONDENSED_SNOWBALL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Snowball'
+    lore:
+    - '&7Crafted from 256 normal Snowball into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Snowball - 32.0..|v Snowball - 32.0..|v Snowball - 32.0..
+          - v Snowball - 32.0..|v AIR 0 1..|v Snowball - 32.0..
+          - v Snowball - 32.0..|v Snowball - 32.0..|v Snowball - 32.0..
+    craft-permission: milestones.mining.condensed_Snowball
+ENHANCED_SNOWBALL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Snowball'
+    lore:
+    - '&7Crafted from 16 Condensed Snowball into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_SNOWBALL 2.0..|m MATERIAL CONDENSED_SNOWBALL 2.0..|m
+            MATERIAL CONDENSED_SNOWBALL 2.0..
+          - m MATERIAL CONDENSED_SNOWBALL 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_SNOWBALL
+            2.0..
+          - m MATERIAL CONDENSED_SNOWBALL 2.0..|m MATERIAL CONDENSED_SNOWBALL 2.0..|m
+            MATERIAL CONDENSED_SNOWBALL 2.0..
+PURIFIED_SNOWBALL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Snowball'
+    lore:
+    - '&7Crafted from 8 Enhanced Snowball into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_SNOWBALL 1.0..|m MATERIAL ENHANCED_SNOWBALL 1.0..|m
+            MATERIAL ENHANCED_SNOWBALL 1.0..
+          - m MATERIAL ENHANCED_SNOWBALL 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_SNOWBALL
+            1.0..
+          - m MATERIAL ENHANCED_SNOWBALL 1.0..|m MATERIAL ENHANCED_SNOWBALL 1.0..|m
+            MATERIAL ENHANCED_SNOWBALL 1.0..
+CONDENSED_INK_SAC:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Ink Sac'
+    lore:
+    - '&7Crafted from 256 normal Ink Sac into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Ink_Sac - 32.0..|v Ink_Sac - 32.0..|v Ink_Sac - 32.0..
+          - v Ink_Sac - 32.0..|v AIR 0 1..|v Ink_Sac - 32.0..
+          - v Ink_Sac - 32.0..|v Ink_Sac - 32.0..|v Ink_Sac - 32.0..
+    craft-permission: milestones.mining.condensed_Ink_Sac
+ENHANCED_INK_SAC:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Ink Sac'
+    lore:
+    - '&7Crafted from 16 Condensed Ink Sac into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_INK_SAC 2.0..|m MATERIAL CONDENSED_INK_SAC 2.0..|m
+            MATERIAL CONDENSED_INK_SAC 2.0..
+          - m MATERIAL CONDENSED_INK_SAC 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_INK_SAC
+            2.0..
+          - m MATERIAL CONDENSED_INK_SAC 2.0..|m MATERIAL CONDENSED_INK_SAC 2.0..|m
+            MATERIAL CONDENSED_INK_SAC 2.0..
+PURIFIED_INK_SAC:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Ink Sac'
+    lore:
+    - '&7Crafted from 8 Enhanced Ink Sac into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_INK_SAC 1.0..|m MATERIAL ENHANCED_INK_SAC 1.0..|m
+            MATERIAL ENHANCED_INK_SAC 1.0..
+          - m MATERIAL ENHANCED_INK_SAC 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_INK_SAC
+            1.0..
+          - m MATERIAL ENHANCED_INK_SAC 1.0..|m MATERIAL ENHANCED_INK_SAC 1.0..|m
+            MATERIAL ENHANCED_INK_SAC 1.0..
+CONDENSED_GLOW_INK_SAC:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Glow Ink Sac'
+    lore:
+    - '&7Crafted from 256 normal Glow Ink Sac into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Glow_Ink_Sac - 32.0..|v Glow_Ink_Sac - 32.0..|v Glow_Ink_Sac - 32.0..
+          - v Glow_Ink_Sac - 32.0..|v AIR 0 1..|v Glow_Ink_Sac - 32.0..
+          - v Glow_Ink_Sac - 32.0..|v Glow_Ink_Sac - 32.0..|v Glow_Ink_Sac - 32.0..
+    craft-permission: milestones.mining.condensed_Glow_Ink_Sac
+ENHANCED_GLOW_INK_SAC:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Glow Ink Sac'
+    lore:
+    - '&7Crafted from 16 Condensed Glow Ink Sac into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_GLOW_INK_SAC 2.0..|m MATERIAL CONDENSED_GLOW_INK_SAC
+            2.0..|m MATERIAL CONDENSED_GLOW_INK_SAC 2.0..
+          - m MATERIAL CONDENSED_GLOW_INK_SAC 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_GLOW_INK_SAC
+            2.0..
+          - m MATERIAL CONDENSED_GLOW_INK_SAC 2.0..|m MATERIAL CONDENSED_GLOW_INK_SAC
+            2.0..|m MATERIAL CONDENSED_GLOW_INK_SAC 2.0..
+PURIFIED_GLOW_INK_SAC:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Glow Ink Sac'
+    lore:
+    - '&7Crafted from 8 Enhanced Glow Ink Sac into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_GLOW_INK_SAC 1.0..|m MATERIAL ENHANCED_GLOW_INK_SAC
+            1.0..|m MATERIAL ENHANCED_GLOW_INK_SAC 1.0..
+          - m MATERIAL ENHANCED_GLOW_INK_SAC 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_GLOW_INK_SAC
+            1.0..
+          - m MATERIAL ENHANCED_GLOW_INK_SAC 1.0..|m MATERIAL ENHANCED_GLOW_INK_SAC
+            1.0..|m MATERIAL ENHANCED_GLOW_INK_SAC 1.0..
+CONDENSED_WITHER_SKELETON_SKULL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Wither Skeleton Skull'
+    lore:
+    - '&7Crafted from 256 normal Wither Skeleton Skull into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Wither_Skeleton_Skull - 32.0..|v Wither_Skeleton_Skull - 32.0..|v Wither_Skeleton_Skull
+            - 32.0..
+          - v Wither_Skeleton_Skull - 32.0..|v AIR 0 1..|v Wither_Skeleton_Skull -
+            32.0..
+          - v Wither_Skeleton_Skull - 32.0..|v Wither_Skeleton_Skull - 32.0..|v Wither_Skeleton_Skull
+            - 32.0..
+    craft-permission: milestones.mining.condensed_Wither_Skeleton_Skull
+ENHANCED_WITHER_SKELETON_SKULL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Wither Skeleton Skull'
+    lore:
+    - '&7Crafted from 16 Condensed Wither Skeleton Skull into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_WITHER_SKELETON_SKULL 2.0..|m MATERIAL CONDENSED_WITHER_SKELETON_SKULL
+            2.0..|m MATERIAL CONDENSED_WITHER_SKELETON_SKULL 2.0..
+          - m MATERIAL CONDENSED_WITHER_SKELETON_SKULL 2.0..|v AIR 0 1..|m MATERIAL
+            CONDENSED_WITHER_SKELETON_SKULL 2.0..
+          - m MATERIAL CONDENSED_WITHER_SKELETON_SKULL 2.0..|m MATERIAL CONDENSED_WITHER_SKELETON_SKULL
+            2.0..|m MATERIAL CONDENSED_WITHER_SKELETON_SKULL 2.0..
+PURIFIED_WITHER_SKELETON_SKULL:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Wither Skeleton Skull'
+    lore:
+    - '&7Crafted from 8 Enhanced Wither Skeleton Skull into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_WITHER_SKELETON_SKULL 1.0..|m MATERIAL ENHANCED_WITHER_SKELETON_SKULL
+            1.0..|m MATERIAL ENHANCED_WITHER_SKELETON_SKULL 1.0..
+          - m MATERIAL ENHANCED_WITHER_SKELETON_SKULL 1.0..|v AIR 0 1..|m MATERIAL
+            ENHANCED_WITHER_SKELETON_SKULL 1.0..
+          - m MATERIAL ENHANCED_WITHER_SKELETON_SKULL 1.0..|m MATERIAL ENHANCED_WITHER_SKELETON_SKULL
+            1.0..|m MATERIAL ENHANCED_WITHER_SKELETON_SKULL 1.0..
+CONDENSED_PUMPKIN:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Pumpkin'
+    lore:
+    - '&7Crafted from 256 normal Pumpkin into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Pumpkin - 32.0..|v Pumpkin - 32.0..|v Pumpkin - 32.0..
+          - v Pumpkin - 32.0..|v AIR 0 1..|v Pumpkin - 32.0..
+          - v Pumpkin - 32.0..|v Pumpkin - 32.0..|v Pumpkin - 32.0..
+    craft-permission: milestones.mining.condensed_Pumpkin
+ENHANCED_PUMPKIN:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Pumpkin'
+    lore:
+    - '&7Crafted from 16 Condensed Pumpkin into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_PUMPKIN 2.0..|m MATERIAL CONDENSED_PUMPKIN 2.0..|m
+            MATERIAL CONDENSED_PUMPKIN 2.0..
+          - m MATERIAL CONDENSED_PUMPKIN 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_PUMPKIN
+            2.0..
+          - m MATERIAL CONDENSED_PUMPKIN 2.0..|m MATERIAL CONDENSED_PUMPKIN 2.0..|m
+            MATERIAL CONDENSED_PUMPKIN 2.0..
+PURIFIED_PUMPKIN:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Pumpkin'
+    lore:
+    - '&7Crafted from 8 Enhanced Pumpkin into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_PUMPKIN 1.0..|m MATERIAL ENHANCED_PUMPKIN 1.0..|m
+            MATERIAL ENHANCED_PUMPKIN 1.0..
+          - m MATERIAL ENHANCED_PUMPKIN 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_PUMPKIN
+            1.0..
+          - m MATERIAL ENHANCED_PUMPKIN 1.0..|m MATERIAL ENHANCED_PUMPKIN 1.0..|m
+            MATERIAL ENHANCED_PUMPKIN 1.0..
+CONDENSED_MELON_SLICE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Melon Slice'
+    lore:
+    - '&7Crafted from 256 normal Melon Slice into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Melon_Slice - 32.0..|v Melon_Slice - 32.0..|v Melon_Slice - 32.0..
+          - v Melon_Slice - 32.0..|v AIR 0 1..|v Melon_Slice - 32.0..
+          - v Melon_Slice - 32.0..|v Melon_Slice - 32.0..|v Melon_Slice - 32.0..
+    craft-permission: milestones.mining.condensed_Melon_Slice
+ENHANCED_MELON_SLICE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Melon Slice'
+    lore:
+    - '&7Crafted from 16 Condensed Melon Slice into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_MELON_SLICE 2.0..|m MATERIAL CONDENSED_MELON_SLICE
+            2.0..|m MATERIAL CONDENSED_MELON_SLICE 2.0..
+          - m MATERIAL CONDENSED_MELON_SLICE 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_MELON_SLICE
+            2.0..
+          - m MATERIAL CONDENSED_MELON_SLICE 2.0..|m MATERIAL CONDENSED_MELON_SLICE
+            2.0..|m MATERIAL CONDENSED_MELON_SLICE 2.0..
+PURIFIED_MELON_SLICE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Melon Slice'
+    lore:
+    - '&7Crafted from 8 Enhanced Melon Slice into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_MELON_SLICE 1.0..|m MATERIAL ENHANCED_MELON_SLICE
+            1.0..|m MATERIAL ENHANCED_MELON_SLICE 1.0..
+          - m MATERIAL ENHANCED_MELON_SLICE 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_MELON_SLICE
+            1.0..
+          - m MATERIAL ENHANCED_MELON_SLICE 1.0..|m MATERIAL ENHANCED_MELON_SLICE
+            1.0..|m MATERIAL ENHANCED_MELON_SLICE 1.0..
+CONDENSED_POTATO:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Potato'
+    lore:
+    - '&7Crafted from 256 normal Potato into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Potato - 32.0..|v Potato - 32.0..|v Potato - 32.0..
+          - v Potato - 32.0..|v AIR 0 1..|v Potato - 32.0..
+          - v Potato - 32.0..|v Potato - 32.0..|v Potato - 32.0..
+    craft-permission: milestones.mining.condensed_Potato
+ENHANCED_POTATO:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Potato'
+    lore:
+    - '&7Crafted from 16 Condensed Potato into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_POTATO 2.0..|m MATERIAL CONDENSED_POTATO 2.0..|m
+            MATERIAL CONDENSED_POTATO 2.0..
+          - m MATERIAL CONDENSED_POTATO 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_POTATO
+            2.0..
+          - m MATERIAL CONDENSED_POTATO 2.0..|m MATERIAL CONDENSED_POTATO 2.0..|m
+            MATERIAL CONDENSED_POTATO 2.0..
+PURIFIED_POTATO:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Potato'
+    lore:
+    - '&7Crafted from 8 Enhanced Potato into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_POTATO 1.0..|m MATERIAL ENHANCED_POTATO 1.0..|m MATERIAL
+            ENHANCED_POTATO 1.0..
+          - m MATERIAL ENHANCED_POTATO 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_POTATO
+            1.0..
+          - m MATERIAL ENHANCED_POTATO 1.0..|m MATERIAL ENHANCED_POTATO 1.0..|m MATERIAL
+            ENHANCED_POTATO 1.0..
+CONDENSED_CARROT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Carrot'
+    lore:
+    - '&7Crafted from 256 normal Carrot into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Carrot - 32.0..|v Carrot - 32.0..|v Carrot - 32.0..
+          - v Carrot - 32.0..|v AIR 0 1..|v Carrot - 32.0..
+          - v Carrot - 32.0..|v Carrot - 32.0..|v Carrot - 32.0..
+    craft-permission: milestones.mining.condensed_Carrot
+ENHANCED_CARROT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Carrot'
+    lore:
+    - '&7Crafted from 16 Condensed Carrot into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_CARROT 2.0..|m MATERIAL CONDENSED_CARROT 2.0..|m
+            MATERIAL CONDENSED_CARROT 2.0..
+          - m MATERIAL CONDENSED_CARROT 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_CARROT
+            2.0..
+          - m MATERIAL CONDENSED_CARROT 2.0..|m MATERIAL CONDENSED_CARROT 2.0..|m
+            MATERIAL CONDENSED_CARROT 2.0..
+PURIFIED_CARROT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Carrot'
+    lore:
+    - '&7Crafted from 8 Enhanced Carrot into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_CARROT 1.0..|m MATERIAL ENHANCED_CARROT 1.0..|m MATERIAL
+            ENHANCED_CARROT 1.0..
+          - m MATERIAL ENHANCED_CARROT 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_CARROT
+            1.0..
+          - m MATERIAL ENHANCED_CARROT 1.0..|m MATERIAL ENHANCED_CARROT 1.0..|m MATERIAL
+            ENHANCED_CARROT 1.0..
+CONDENSED_BEETROOT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Beetroot'
+    lore:
+    - '&7Crafted from 256 normal Beetroot into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Beetroot - 32.0..|v Beetroot - 32.0..|v Beetroot - 32.0..
+          - v Beetroot - 32.0..|v AIR 0 1..|v Beetroot - 32.0..
+          - v Beetroot - 32.0..|v Beetroot - 32.0..|v Beetroot - 32.0..
+    craft-permission: milestones.mining.condensed_Beetroot
+ENHANCED_BEETROOT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Beetroot'
+    lore:
+    - '&7Crafted from 16 Condensed Beetroot into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_BEETROOT 2.0..|m MATERIAL CONDENSED_BEETROOT 2.0..|m
+            MATERIAL CONDENSED_BEETROOT 2.0..
+          - m MATERIAL CONDENSED_BEETROOT 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_BEETROOT
+            2.0..
+          - m MATERIAL CONDENSED_BEETROOT 2.0..|m MATERIAL CONDENSED_BEETROOT 2.0..|m
+            MATERIAL CONDENSED_BEETROOT 2.0..
+PURIFIED_BEETROOT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Beetroot'
+    lore:
+    - '&7Crafted from 8 Enhanced Beetroot into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_BEETROOT 1.0..|m MATERIAL ENHANCED_BEETROOT 1.0..|m
+            MATERIAL ENHANCED_BEETROOT 1.0..
+          - m MATERIAL ENHANCED_BEETROOT 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_BEETROOT
+            1.0..
+          - m MATERIAL ENHANCED_BEETROOT 1.0..|m MATERIAL ENHANCED_BEETROOT 1.0..|m
+            MATERIAL ENHANCED_BEETROOT 1.0..
+CONDENSED_SUGAR_CANE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Sugar Cane'
+    lore:
+    - '&7Crafted from 256 normal Sugar Cane into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Sugar_Cane - 32.0..|v Sugar_Cane - 32.0..|v Sugar_Cane - 32.0..
+          - v Sugar_Cane - 32.0..|v AIR 0 1..|v Sugar_Cane - 32.0..
+          - v Sugar_Cane - 32.0..|v Sugar_Cane - 32.0..|v Sugar_Cane - 32.0..
+    craft-permission: milestones.mining.condensed_Sugar_Cane
+ENHANCED_SUGAR_CANE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Sugar Cane'
+    lore:
+    - '&7Crafted from 16 Condensed Sugar Cane into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_SUGAR_CANE 2.0..|m MATERIAL CONDENSED_SUGAR_CANE
+            2.0..|m MATERIAL CONDENSED_SUGAR_CANE 2.0..
+          - m MATERIAL CONDENSED_SUGAR_CANE 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_SUGAR_CANE
+            2.0..
+          - m MATERIAL CONDENSED_SUGAR_CANE 2.0..|m MATERIAL CONDENSED_SUGAR_CANE
+            2.0..|m MATERIAL CONDENSED_SUGAR_CANE 2.0..
+PURIFIED_SUGAR_CANE:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Sugar Cane'
+    lore:
+    - '&7Crafted from 8 Enhanced Sugar Cane into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_SUGAR_CANE 1.0..|m MATERIAL ENHANCED_SUGAR_CANE 1.0..|m
+            MATERIAL ENHANCED_SUGAR_CANE 1.0..
+          - m MATERIAL ENHANCED_SUGAR_CANE 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_SUGAR_CANE
+            1.0..
+          - m MATERIAL ENHANCED_SUGAR_CANE 1.0..|m MATERIAL ENHANCED_SUGAR_CANE 1.0..|m
+            MATERIAL ENHANCED_SUGAR_CANE 1.0..
+CONDENSED_NETHER_WART:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Nether Wart'
+    lore:
+    - '&7Crafted from 256 normal Nether Wart into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Nether_Wart - 32.0..|v Nether_Wart - 32.0..|v Nether_Wart - 32.0..
+          - v Nether_Wart - 32.0..|v AIR 0 1..|v Nether_Wart - 32.0..
+          - v Nether_Wart - 32.0..|v Nether_Wart - 32.0..|v Nether_Wart - 32.0..
+    craft-permission: milestones.mining.condensed_Nether_Wart
+ENHANCED_NETHER_WART:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Nether Wart'
+    lore:
+    - '&7Crafted from 16 Condensed Nether Wart into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_NETHER_WART 2.0..|m MATERIAL CONDENSED_NETHER_WART
+            2.0..|m MATERIAL CONDENSED_NETHER_WART 2.0..
+          - m MATERIAL CONDENSED_NETHER_WART 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_NETHER_WART
+            2.0..
+          - m MATERIAL CONDENSED_NETHER_WART 2.0..|m MATERIAL CONDENSED_NETHER_WART
+            2.0..|m MATERIAL CONDENSED_NETHER_WART 2.0..
+PURIFIED_NETHER_WART:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Nether Wart'
+    lore:
+    - '&7Crafted from 8 Enhanced Nether Wart into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_NETHER_WART 1.0..|m MATERIAL ENHANCED_NETHER_WART
+            1.0..|m MATERIAL ENHANCED_NETHER_WART 1.0..
+          - m MATERIAL ENHANCED_NETHER_WART 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_NETHER_WART
+            1.0..
+          - m MATERIAL ENHANCED_NETHER_WART 1.0..|m MATERIAL ENHANCED_NETHER_WART
+            1.0..|m MATERIAL ENHANCED_NETHER_WART 1.0..
+CONDENSED_COCOA_BEANS:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Cocoa Beans'
+    lore:
+    - '&7Crafted from 256 normal Cocoa Beans into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Cocoa_Beans - 32.0..|v Cocoa_Beans - 32.0..|v Cocoa_Beans - 32.0..
+          - v Cocoa_Beans - 32.0..|v AIR 0 1..|v Cocoa_Beans - 32.0..
+          - v Cocoa_Beans - 32.0..|v Cocoa_Beans - 32.0..|v Cocoa_Beans - 32.0..
+    craft-permission: milestones.mining.condensed_Cocoa_Beans
+ENHANCED_COCOA_BEANS:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Cocoa Beans'
+    lore:
+    - '&7Crafted from 16 Condensed Cocoa Beans into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_COCOA_BEANS 2.0..|m MATERIAL CONDENSED_COCOA_BEANS
+            2.0..|m MATERIAL CONDENSED_COCOA_BEANS 2.0..
+          - m MATERIAL CONDENSED_COCOA_BEANS 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_COCOA_BEANS
+            2.0..
+          - m MATERIAL CONDENSED_COCOA_BEANS 2.0..|m MATERIAL CONDENSED_COCOA_BEANS
+            2.0..|m MATERIAL CONDENSED_COCOA_BEANS 2.0..
+PURIFIED_COCOA_BEANS:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Cocoa Beans'
+    lore:
+    - '&7Crafted from 8 Enhanced Cocoa Beans into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_COCOA_BEANS 1.0..|m MATERIAL ENHANCED_COCOA_BEANS
+            1.0..|m MATERIAL ENHANCED_COCOA_BEANS 1.0..
+          - m MATERIAL ENHANCED_COCOA_BEANS 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_COCOA_BEANS
+            1.0..
+          - m MATERIAL ENHANCED_COCOA_BEANS 1.0..|m MATERIAL ENHANCED_COCOA_BEANS
+            1.0..|m MATERIAL ENHANCED_COCOA_BEANS 1.0..
+CONDENSED_KELP:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Kelp'
+    lore:
+    - '&7Crafted from 256 normal Kelp into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Kelp - 32.0..|v Kelp - 32.0..|v Kelp - 32.0..
+          - v Kelp - 32.0..|v AIR 0 1..|v Kelp - 32.0..
+          - v Kelp - 32.0..|v Kelp - 32.0..|v Kelp - 32.0..
+    craft-permission: milestones.mining.condensed_Kelp
+ENHANCED_KELP:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Kelp'
+    lore:
+    - '&7Crafted from 16 Condensed Kelp into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_KELP 2.0..|m MATERIAL CONDENSED_KELP 2.0..|m MATERIAL
+            CONDENSED_KELP 2.0..
+          - m MATERIAL CONDENSED_KELP 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_KELP
+            2.0..
+          - m MATERIAL CONDENSED_KELP 2.0..|m MATERIAL CONDENSED_KELP 2.0..|m MATERIAL
+            CONDENSED_KELP 2.0..
+PURIFIED_KELP:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Kelp'
+    lore:
+    - '&7Crafted from 8 Enhanced Kelp into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_KELP 1.0..|m MATERIAL ENHANCED_KELP 1.0..|m MATERIAL
+            ENHANCED_KELP 1.0..
+          - m MATERIAL ENHANCED_KELP 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_KELP 1.0..
+          - m MATERIAL ENHANCED_KELP 1.0..|m MATERIAL ENHANCED_KELP 1.0..|m MATERIAL
+            ENHANCED_KELP 1.0..
+CONDENSED_WHEAT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Wheat'
+    lore:
+    - '&7Crafted from 256 normal Wheat into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Wheat - 32.0..|v Wheat - 32.0..|v Wheat - 32.0..
+          - v Wheat - 32.0..|v AIR 0 1..|v Wheat - 32.0..
+          - v Wheat - 32.0..|v Wheat - 32.0..|v Wheat - 32.0..
+    craft-permission: milestones.mining.condensed_Wheat
+ENHANCED_WHEAT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Wheat'
+    lore:
+    - '&7Crafted from 16 Condensed Wheat into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_WHEAT 2.0..|m MATERIAL CONDENSED_WHEAT 2.0..|m MATERIAL
+            CONDENSED_WHEAT 2.0..
+          - m MATERIAL CONDENSED_WHEAT 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_WHEAT
+            2.0..
+          - m MATERIAL CONDENSED_WHEAT 2.0..|m MATERIAL CONDENSED_WHEAT 2.0..|m MATERIAL
+            CONDENSED_WHEAT 2.0..
+PURIFIED_WHEAT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Wheat'
+    lore:
+    - '&7Crafted from 8 Enhanced Wheat into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_WHEAT 1.0..|m MATERIAL ENHANCED_WHEAT 1.0..|m MATERIAL
+            ENHANCED_WHEAT 1.0..
+          - m MATERIAL ENHANCED_WHEAT 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_WHEAT
+            1.0..
+          - m MATERIAL ENHANCED_WHEAT 1.0..|m MATERIAL ENHANCED_WHEAT 1.0..|m MATERIAL
+            ENHANCED_WHEAT 1.0..
+CONDENSED_SWEET_BERRIES:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Sweet Berries'
+    lore:
+    - '&7Crafted from 256 normal Sweet Berries into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Sweet_Berries - 32.0..|v Sweet_Berries - 32.0..|v Sweet_Berries - 32.0..
+          - v Sweet_Berries - 32.0..|v AIR 0 1..|v Sweet_Berries - 32.0..
+          - v Sweet_Berries - 32.0..|v Sweet_Berries - 32.0..|v Sweet_Berries - 32.0..
+    craft-permission: milestones.mining.condensed_Sweet_Berries
+ENHANCED_SWEET_BERRIES:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Sweet Berries'
+    lore:
+    - '&7Crafted from 16 Condensed Sweet Berries into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_SWEET_BERRIES 2.0..|m MATERIAL CONDENSED_SWEET_BERRIES
+            2.0..|m MATERIAL CONDENSED_SWEET_BERRIES 2.0..
+          - m MATERIAL CONDENSED_SWEET_BERRIES 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_SWEET_BERRIES
+            2.0..
+          - m MATERIAL CONDENSED_SWEET_BERRIES 2.0..|m MATERIAL CONDENSED_SWEET_BERRIES
+            2.0..|m MATERIAL CONDENSED_SWEET_BERRIES 2.0..
+PURIFIED_SWEET_BERRIES:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Sweet Berries'
+    lore:
+    - '&7Crafted from 8 Enhanced Sweet Berries into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_SWEET_BERRIES 1.0..|m MATERIAL ENHANCED_SWEET_BERRIES
+            1.0..|m MATERIAL ENHANCED_SWEET_BERRIES 1.0..
+          - m MATERIAL ENHANCED_SWEET_BERRIES 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_SWEET_BERRIES
+            1.0..
+          - m MATERIAL ENHANCED_SWEET_BERRIES 1.0..|m MATERIAL ENHANCED_SWEET_BERRIES
+            1.0..|m MATERIAL ENHANCED_SWEET_BERRIES 1.0..
+CONDENSED_CHORUS_FRUIT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Chorus Fruit'
+    lore:
+    - '&7Crafted from 256 normal Chorus Fruit into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Chorus_Fruit - 32.0..|v Chorus_Fruit - 32.0..|v Chorus_Fruit - 32.0..
+          - v Chorus_Fruit - 32.0..|v AIR 0 1..|v Chorus_Fruit - 32.0..
+          - v Chorus_Fruit - 32.0..|v Chorus_Fruit - 32.0..|v Chorus_Fruit - 32.0..
+    craft-permission: milestones.mining.condensed_Chorus_Fruit
+ENHANCED_CHORUS_FRUIT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Chorus Fruit'
+    lore:
+    - '&7Crafted from 16 Condensed Chorus Fruit into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_CHORUS_FRUIT 2.0..|m MATERIAL CONDENSED_CHORUS_FRUIT
+            2.0..|m MATERIAL CONDENSED_CHORUS_FRUIT 2.0..
+          - m MATERIAL CONDENSED_CHORUS_FRUIT 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_CHORUS_FRUIT
+            2.0..
+          - m MATERIAL CONDENSED_CHORUS_FRUIT 2.0..|m MATERIAL CONDENSED_CHORUS_FRUIT
+            2.0..|m MATERIAL CONDENSED_CHORUS_FRUIT 2.0..
+PURIFIED_CHORUS_FRUIT:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Chorus Fruit'
+    lore:
+    - '&7Crafted from 8 Enhanced Chorus Fruit into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_CHORUS_FRUIT 1.0..|m MATERIAL ENHANCED_CHORUS_FRUIT
+            1.0..|m MATERIAL ENHANCED_CHORUS_FRUIT 1.0..
+          - m MATERIAL ENHANCED_CHORUS_FRUIT 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_CHORUS_FRUIT
+            1.0..
+          - m MATERIAL ENHANCED_CHORUS_FRUIT 1.0..|m MATERIAL ENHANCED_CHORUS_FRUIT
+            1.0..|m MATERIAL ENHANCED_CHORUS_FRUIT 1.0..
+CONDENSED_BAMBOO:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmMTE5ZjA4ODUxYTcyYTVmMTBmYmMzMjQ3ZDk1ZTFjMDA2MzYwZDJiNGY0MTJiMjNjZTA1NDA5Mjc1NmIwYyJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cCondensed Bamboo'
+    lore:
+    - '&7Crafted from 256 normal Bamboo into'
+    - '&7Condensed version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - v Bamboo - 32.0..|v Bamboo - 32.0..|v Bamboo - 32.0..
+          - v Bamboo - 32.0..|v AIR 0 1..|v Bamboo - 32.0..
+          - v Bamboo - 32.0..|v Bamboo - 32.0..|v Bamboo - 32.0..
+    craft-permission: milestones.mining.condensed_Bamboo
+ENHANCED_BAMBOO:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI3OGZhNWRlZmU3MmRlYmNkOWM3NmFiOWY0ZTExNDI1MDQ3OWJiOWI0NGY0Mjg4N2JiZjZmNzM4NjEyYiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cEnhanced Bamboo'
+    lore:
+    - '&7Crafted from 16 Condensed Bamboo into'
+    - '&7Enhanced version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL CONDENSED_BAMBOO 2.0..|m MATERIAL CONDENSED_BAMBOO 2.0..|m
+            MATERIAL CONDENSED_BAMBOO 2.0..
+          - m MATERIAL CONDENSED_BAMBOO 2.0..|v AIR 0 1..|m MATERIAL CONDENSED_BAMBOO
+            2.0..
+          - m MATERIAL CONDENSED_BAMBOO 2.0..|m MATERIAL CONDENSED_BAMBOO 2.0..|m
+            MATERIAL CONDENSED_BAMBOO 2.0..
+PURIFIED_BAMBOO:
+  base:
+    material: PLAYER_HEAD
+    skull-texture:
+      value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQxMmQyZWMzZDQ1ODEyY2ZkYWMwYjg1NmRlODdmMWQzODM4YzFjNTA5ODM2ZmYyMWEwYTVjZDQ3Yzc5MDY5ZiJ9fX0=
+      uuid: 701aa558-c1b0-4eb7-81e4-79b1af25283c
+    name: '&cPurified Bamboo'
+    lore:
+    - '&7Crafted from 8 Enhanced Bamboo into'
+    - '&7Purified version. Useful for crafting'
+    - '&7gears or higher Tier of material'
+    hide-enchants: true
+    revision-id: 1
+    enchants:
+      unbreaking: 1
+    commands:
+      cmd0:
+        format: mi stations open condenser %player_name%
+        delay: 0.0
+        console: true
+    disable-interaction: true
+    crafting:
+      shaped:
+        '1':
+          input:
+          - m MATERIAL ENHANCED_BAMBOO 1.0..|m MATERIAL ENHANCED_BAMBOO 1.0..|m MATERIAL
+            ENHANCED_BAMBOO 1.0..
+          - m MATERIAL ENHANCED_BAMBOO 1.0..|v AIR 0 1..|m MATERIAL ENHANCED_BAMBOO
+            1.0..
+          - m MATERIAL ENHANCED_BAMBOO 1.0..|m MATERIAL ENHANCED_BAMBOO 1.0..|m MATERIAL
+            ENHANCED_BAMBOO 1.0..

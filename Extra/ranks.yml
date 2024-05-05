@@ -1,0 +1,844 @@
+ranks:
+  '1':
+    name: 'Level 1'
+    money: 25000
+    xp: 100
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '1x Crates Mystery Box'
+    - '5x Random Mystery Box'
+  '2':
+    name: 'Level 2'
+    money: 50000
+    xp: 125
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/Afk Command'
+    - '5x Random Mystery Box'
+  '3':
+    name: 'Level 3'
+    money: 75000
+    xp: 150
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '4':
+    name: 'Level 4'
+    money: 100000
+    xp: 175
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '2x Sethomes'
+    - 'Rabbit Disguise'
+    - '5x Random Mystery Box'
+  '5':
+    name: 'Level 5'
+    money: 125000
+    xp: 200
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Build'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '6':
+    name: 'Level 6'
+    money: 150000
+    xp: 225
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Keys'
+    - '5x Random Mystery Box'
+  '7':
+    name: 'Level 7'
+    money: 175000
+    xp: 250
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x /Pwarp access'
+    - '5x Random Mystery Box'
+  '8':
+    name: 'Level 8'
+    money: 200000
+    xp: 275
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '9':
+    name: 'Level 9'
+    money: 225000
+    xp: 300
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Sethomes'
+    - 'Pig Disguise'
+    - '5x Random Mystery Box'
+  '10':
+    name: 'Level 10'
+    money: 250000
+    xp: 325
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Tools'
+    - '5x Random Mystery Box'
+  '11':
+    name: 'Level 11'
+    money: 275000
+    xp: 350
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Keys'
+    - '5x Random Mystery Box'
+  '12':
+    name: 'Level 12'
+    money: 300000
+    xp: 375
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '6 Hours AFK Time'
+    - '/condense  & /uncondense command'
+    - '5x Random Mystery Box'
+  '13':
+    name: 'Level 13'
+    money: 325000
+    xp: 400
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '14':
+    name: 'Level 14'
+    money: 350000
+    xp: 425
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '4x Sethomes'
+    - 'Sheep Disguise'
+    - '5x Random Mystery Box'
+  '15':
+    name: 'Level 15'
+    money: 375000
+    xp: 450
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Lumberjack'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '16':
+    name: 'Level 16'
+    money: 400000
+    xp: 475
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Keys'
+    - '5x Random Mystery Box'
+  '17':
+    name: 'Level 17'
+    money: 425000
+    xp: 500
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '5x Random Mystery Box'
+  '18':
+    name: 'Level 18'
+    money: 450000
+    xp: 525
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '19':
+    name: 'Level 19'
+    money: 475000
+    xp: 550
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '5x Sethomes'
+    - 'Cow Disguise'
+    - '5x Random Mystery Box'
+  '20':
+    name: 'Level 20'
+    money: 500000
+    xp: 575
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Egg'
+    - '5x Random Mystery Box'
+  '21':
+    name: 'Level 21'
+    money: 550000
+    xp: 600
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Keys'
+    - '5x Random Mystery Box'
+  '22':
+    name: 'Level 22'
+    money: 600000
+    xp: 625
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '7 Hours AFK Time'
+    - '/nv command [Night Vision]'
+    - '5x Random Mystery Box'
+  '23':
+    name: 'Level 23'
+    money: 650000
+    xp: 650
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '24':
+    name: 'Level 24'
+    money: 700000
+    xp: 675
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '6x Sethomes'
+    - 'Chicken Disguise'
+    - '5x Random Mystery Box'
+  '25':
+    name: 'Level 25'
+    money: 750000
+    xp: 700
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Minecart'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '26':
+    name: 'Level 26'
+    money: 800000
+    xp: 725
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Keys'
+    - '5x Random Mystery Box'
+  '27':
+    name: 'Level 27'
+    money: 850000
+    xp: 750
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/jump command'
+    - 'Access to mine all vanilla spawners'
+    - '5x Random Mystery Box'
+  '28':
+    name: 'Level 28'
+    money: 900000
+    xp: 775
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '29':
+    name: 'Level 29'
+    money: 950000
+    xp: 800
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '7x Sethomes'
+    - 'Horse Disguise'
+    - '5x Random Mystery Box'
+  '30':
+    name: 'Level 30'
+    money: 1000000
+    xp: 825
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Farmer'
+    - '5x Random Mystery Box'
+  '31':
+    name: 'Level 31'
+    money: 1050000
+    xp: 850
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Key'
+    - '5x Random Mystery Box'
+  '32':
+    name: 'Level 32'
+    money: 1100000
+    xp: 875
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '8 Hours AFK Time'
+    - 'Shulker Backpacks'
+    - '5x Random Mystery Box'
+  '33':
+    name: 'Level 33'
+    money: 1150000
+    xp: 900
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '34':
+    name: 'Level 34'
+    money: 1200000
+    xp: 925
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '8x Sethomes'
+    - 'Parrot Disguise'
+    - '5x Random Mystery Box'
+  '35':
+    name: 'Level 35'
+    money: 1250000
+    xp: 950
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Smithy'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '36':
+    name: 'Level 36'
+    money: 1300000
+    xp: 975
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Key'
+    - '5x Random Mystery Box'
+  '37':
+    name: 'Level 37'
+    money: 1350000
+    xp: 1000
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '5x /Pwarp access'
+    - '5x /Antidrop on/off'
+    - '5x Random Mystery Box'
+  '38':
+    name: 'Level 38'
+    money: 1400000
+    xp: 1025
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '39':
+    name: 'Level 39'
+    money: 1450000
+    xp: 1050
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '9x Sethomes'
+    - 'Fox Disguise'
+    - '5x Random Mystery Box'
+  '40':
+    name: 'Level 40'
+    money: 1500000
+    xp: 1075
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Brewer'
+    - '/itemframe Invisible'
+    - '5x Random Mystery Box'
+  '41':
+    name: 'Level 41'
+    money: 1600000
+    xp: 1000
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Key'
+    - '5x Random Mystery Box'
+  '42':
+    name: 'Level 42'
+    money: 1700000
+    xp: 1025
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '9 Hours AFK Time'
+    - '5x Random Mystery Box'
+  '43':
+    name: 'Level 43'
+    money: 1800000
+    xp: 1050
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '44':
+    name: 'Level 44'
+    money: 1900000
+    xp: 1075
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '10x Sethomes'
+    - 'Bat Disguise'
+    - '5x Random Mystery Box'
+  '45':
+    name: 'Level 45'
+    money: 2000000
+    xp: 1100
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Adventure'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '46':
+    name: 'Level 46'
+    money: 2100000
+    xp: 1125
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Key'
+    - '5x Random Mystery Box'
+  '47':
+    name: 'Level 47'
+    money: 2200000
+    xp: 1150
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/Craft & /Workbench'
+    - '5x Random Mystery Box'
+  '48':
+    name: 'Level 48'
+    money: 2300000
+    xp: 1175
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '49':
+    name: 'Level 49'
+    money: 2400000
+    xp: 1200
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '11x Sethomes'
+    - 'Cat Disguise'
+    - '5x Random Mystery Box'
+  '50':
+    name: 'Level 50'
+    money: 2500000
+    xp: 1225
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Glass'
+    - '5x Random Mystery Box'
+  '51':
+    name: 'Level 51'
+    money: 2600000
+    xp: 1250
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Key'
+    - '5x Random Mystery Box'
+  '52':
+    name: 'Level 52'
+    money: 2700000
+    xp: 1275
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '10 Hours AFK Time'
+    - '/ec command'
+    - '5x Random Mystery Box'
+  '53':
+    name: 'Level 53'
+    money: 2800000
+    xp: 1300
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '54':
+    name: 'Level 54'
+    money: 2400000
+    xp: 1325
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '12x Sethomes'
+    - 'Turtle Disguise'
+    - '5x Random Mystery Box'
+  '55':
+    name: 'Level 55'
+    money: 2500000
+    xp: 1350
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Redstone'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '56':
+    name: 'Level 56'
+    money: 2600000
+    xp: 1375
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Key'
+    - '5x Random Mystery Box'
+  '57':
+    name: 'Level 57'
+    money: 2700000
+    xp: 1400
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '7x /Pwarp access'
+    - '5x Random Mystery Box'
+  '58':
+    name: 'Level 58'
+    money: 2800000
+    xp: 1425
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '59':
+    name: 'Level 59'
+    money: 2900000
+    xp: 1450
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '13x Sethomes'
+    - 'Bee Disguise'
+    - '5x Random Mystery Box'
+  '60':
+    name: 'Level 60'
+    money: 3000000
+    xp: 1475
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit End'
+    - '5x Random Mystery Box'
+  '61':
+    name: 'Level 61'
+    money: 3250000
+    xp: 1500
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Key'
+    - '5x Random Mystery Box'
+  '62':
+    name: 'Level 62'
+    money: 3500000
+    xp: 1525
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '11 Hours AFK Time'
+    - '/Fastplace 5'
+    - '5x Random Mystery Box'
+  '63':
+    name: 'Level 63'
+    money: 3750000
+    xp: 1550
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '64':
+    name: 'Level 64'
+    money: 4000000
+    xp: 1575
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '14x Sethomes'
+    - 'Llama Disguise'
+    - '5x Random Mystery Box'
+  '65':
+    name: 'Level 65'
+    money: 4250000
+    xp: 1600
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Beacon'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '66':
+    name: 'Level 66'
+    money: 4500000
+    xp: 1625
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Key'
+    - '5x Random Mystery Box'
+  '67':
+    name: 'Level 67'
+    money: 4750000
+    xp: 1650
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/sell [All/Hand]'
+    - '/toast command'
+    - '5x Random Mystery Box'
+  '68':
+    name: 'Level 68'
+    money: 5000000
+    xp: 1675
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '69':
+    name: 'Level 69'
+    money: 5250000
+    xp: 1700
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '15x Sethomes'
+    - 'Panda Disguise'
+    - '5x Random Mystery Box'
+  '70':
+    name: 'Level 70'
+    money: 5500000
+    xp: 1725
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Nether'
+    - '5x Random Mystery Box'
+  '71':
+    name: 'Level 71'
+    money: 5750000
+    xp: 1750
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Key'
+    - '5x Random Mystery Box'
+  '72':
+    name: 'Level 72'
+    money: 6000000
+    xp: 1775
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '12 Hours AFK Time'
+    - '/nv [Night Vision]'
+    - '5x Random Mystery Box'
+  '73':
+    name: 'Level 73'
+    money: 6250000
+    xp: 1800
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '74':
+    name: 'Level 74'
+    money: 6500000
+    xp: 1825
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '16x Sethomes'
+    - 'Zombie Disguise'
+    - '5x Random Mystery Box'
+  '75':
+    name: 'Level 75'
+    money: 6750000
+    xp: 1850
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Librarian'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '76':
+    name: 'Level 76'
+    money: 7000000
+    xp: 1875
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Key'
+    - '5x Random Mystery Box'
+  '77':
+    name: 'Level 77'
+    money: 7250000
+    xp: 1900
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/Fastplace 10'
+    - '5x Random Mystery Box'
+  '78':
+    name: 'Level 78'
+    money: 7500000
+    xp: 1925
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '79':
+    name: 'Level 79'
+    money: 7750000
+    xp: 1950
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '17x Sethomes'
+    - 'Skeleton Disguise'
+    - '5x Random Mystery Box'
+  '80':
+    name: 'Level 80'
+    money: 8000000
+    xp: 1975
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Daily'
+    - '5x Random Mystery Box'
+  '81':
+    name: 'Level 81'
+    money: 8500000
+    xp: 2000
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Key'
+    - '5x Random Mystery Box'
+  '82':
+    name: 'Level 82'
+    money: 9000000
+    xp: 2025
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '13 Hours AFK Time'
+    - '10x /Pwarp access'
+    - '5x Random Mystery Box'
+  '83':
+    name: 'Level 83'
+    money: 9500000
+    xp: 2050
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '84':
+    name: 'Level 84'
+    money: 10000000
+    xp: 2075
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '18x Sethomes'
+    - 'Spider Disguise'
+    - '5x Random Mystery Box'
+  '85':
+    name: 'Level 85'
+    money: 10500000
+    xp: 2100
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Weekly'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '86':
+    name: 'Level 86'
+    money: 11000000
+    xp: 2125
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Spawner Key'
+    - '5x Random Mystery Box'
+  '87':
+    name: 'Level 87'
+    money: 11500000
+    xp: 2150
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - 'Sign Editing [Crouch + right-click]'
+    - '/Armorstand Editing'
+    - '5x Random Mystery Box'
+  '88':
+    name: 'Level 88'
+    money: 12000000
+    xp: 2175
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '89':
+    name: 'Level 89'
+    money: 12500000
+    xp: 2200
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '19x Sethomes'
+    - 'Creeper Disguise'
+    - '5x Random Mystery Box'
+  '90':
+    name: 'Level 90'
+    money: 13000000
+    xp: 2225
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit Monthly'
+    - '5x Random Mystery Box'
+  '91':
+    name: 'Level 91'
+    money: 13500000
+    xp: 2250
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Key'
+    - '5x Random Mystery Box'
+  '92':
+    name: 'Level 92'
+    money: 14000000
+    xp: 2275
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '14 Hours AFK Time'
+    - '/Repair command [1 hour cooldown]'
+    - '5x Random Mystery Box'
+  '93':
+    name: 'Level 93'
+    money: 14500000
+    xp: 2300
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+1 /Pv Access'
+    - '5x Random Mystery Box'
+  '94':
+    name: 'Level 94'
+    money: 15000000
+    xp: 2325
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '20x Sethomes'
+    - 'Piglin Disguise'
+    - '5x Random Mystery Box'
+  '95':
+    name: 'Level 95'
+    money: 15500000
+    xp: 2350
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/kit spawner'
+    - '+1 Job Access'
+    - '5x Random Mystery Box'
+  '96':
+    name: 'Level 96'
+    money: 16000000
+    xp: 2375
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '3x Epic Key'
+    - '5x Random Mystery Box'
+  '97':
+    name: 'Level 97'
+    money: 16500000
+    xp: 2400
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '/God [Live like a god]/goddess]'
+    - '/top command'
+    - '5x Random Mystery Box'
+  '98':
+    name: 'Level 98'
+    money: 17000000
+    xp: 2425
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '+10368 /vs storage'
+    - '5x Random Mystery Box'
+  '99':
+    name: 'Level 99'
+    money: 17500000
+    xp: 2450
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - '50x Sethomes'
+    - 'Wither Disguise'
+    - '5x Random Mystery Box'
+  '100':
+    name: 'Level 100'
+    money: 18000000
+    xp: 2500
+    - 'Rewards:'
+    - '250x Claim Blocks'
+    - 'God/Goddess Tag'
+    - '5x Random Mystery Box'

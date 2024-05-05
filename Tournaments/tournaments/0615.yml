@@ -1,0 +1,39 @@
+block_whitelist:
+- Tube_Coral
+challenge:
+  enabled: false
+  goal: 2000
+disabled_gamemodes:
+- CREATIVE
+- SPECTATOR
+disabled_worlds:
+- Spawn
+- Events
+enabled: true
+end_actions:
+- '[BROADCAST] &b&lChallenge: &fThe Tube_Coral miner &7/tourney &fhas just ended.'
+end_date: 2024/06/15 23:59:00
+leaderboard_refresh: 60
+objective: BLOCK_BREAK
+participation:
+  automatic: true
+  cost: 0
+  join_actions: []
+rewards:
+  '1':
+  - '[MESSAGE] &7You have placed &a1st &7in the daily &7tourney!'
+  - '[CONSOLE] voucher give randombp 5 {PLAYER}'
+  '2':
+  - '[MESSAGE] &7You have placed &b2nd &7in the daily &7tourney!'
+  - '[CONSOLE] voucher give randombp 3 {PLAYER}'
+  '3':
+  - '[MESSAGE] &7You have placed &e3rd &7in the daily &7tourney!'
+  - '[CONSOLE] voucher give randombp 1 {PLAYER}'
+start_actions:
+- '[BROADCAST] &b&lTournament: &fThe Tube_Coral miner &7/tourney &fhas just begun,
+  good luck!'
+start_date: 2024/06/15 00:00:00
+timeline: SPECIFIC
+timezone_options:
+  automatically_detect: true
+  force_timezone: GMT

@@ -1,8 +1,8 @@
-'1':
+'3251':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Ride &321 Camel &7mobs."
+    - "&8 \xBB &7Ride &364 Camel &7mobs."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -13,14 +13,14 @@
     name: '&e&lQUEST:&f Riding Expert'
   name: Camel Riding
   points: 4
-  required-progress: 21
+  required-progress: 64
   type: ride-mob
   variable: Camel
-'2':
+'3252':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Ride &328 Donkey &7mobs."
+    - "&8 \xBB &7Ride &360 Donkey &7mobs."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -31,14 +31,14 @@
     name: '&e&lQUEST:&f Riding Expert'
   name: Donkey Riding
   points: 4
-  required-progress: 28
+  required-progress: 60
   type: ride-mob
   variable: Donkey
-'3':
+'3253':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Ride &361 Horse &7mobs."
+    - "&8 \xBB &7Ride &350 Horse &7mobs."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -49,14 +49,14 @@
     name: '&e&lQUEST:&f Riding Expert'
   name: Horse Riding
   points: 4
-  required-progress: 61
+  required-progress: 50
   type: ride-mob
   variable: Horse
-'4':
+'3254':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Ride &325 Mule &7mobs."
+    - "&8 \xBB &7Ride &329 Mule &7mobs."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -67,14 +67,14 @@
     name: '&e&lQUEST:&f Riding Expert'
   name: Mule Riding
   points: 4
-  required-progress: 25
+  required-progress: 29
   type: ride-mob
   variable: Mule
-'5':
+'3255':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Ride &350 Pig &7mobs."
+    - "&8 \xBB &7Ride &352 Pig &7mobs."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -85,14 +85,14 @@
     name: '&e&lQUEST:&f Riding Expert'
   name: Pig Riding
   points: 4
-  required-progress: 50
+  required-progress: 52
   type: ride-mob
   variable: Pig
-'6':
+'3256':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Ride &335 Skeleton_Horse &7mobs."
+    - "&8 \xBB &7Ride &359 Skeleton_Horse &7mobs."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -103,14 +103,14 @@
     name: '&e&lQUEST:&f Riding Expert'
   name: Skeleton_Horse Riding
   points: 4
-  required-progress: 35
+  required-progress: 59
   type: ride-mob
   variable: Skeleton_Horse
-'7':
+'3257':
   item:
     lore:
     - "&8 \xBB &7To complete this quest, you must"
-    - "&8 \xBB &7Ride &360 Strider &7mobs."
+    - "&8 \xBB &7Ride &353 Strider &7mobs."
     - ''
     - '&e&lINFORMATION'
     - "&8 \xBB &7EXP: &f4x"
@@ -121,6 +121,6 @@
     name: '&e&lQUEST:&f Riding Expert'
   name: Strider Riding
   points: 4
-  required-progress: 60
+  required-progress: 53
   type: ride-mob
   variable: Strider
